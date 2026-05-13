@@ -90,7 +90,7 @@ flowchart TD
 
 | Signal | Source | Effect |
 |--------|--------|--------|
-| Global drafting notes | Student after reading drafts | Injected into email drafting prompts (tone, length, greetings) |
+| Global drafting notes | Student after reading drafts(will be after receiving reply from professor/labs in production scenario) | Injected into email drafting prompts (tone, length, greetings) |
 | Per-professor notes | Student (“not taking students”, “interested in ML PhDs”) | Repicking and reranking of candidates based on feedback|
 | Files | `output/*.json`, `cli_output.txt` | Audit trail for what changed between runs |
 
