@@ -1,0 +1,13 @@
+To: amehndiratta@cbme.iitd.ac.in
+
+Subject: PhD Inquiry in Medical Imaging Group
+
+Hope you are doing well. I am writing to express my interest in pursuing a PhD under your supervision at the Indian Institute of Technology Delhi, specifically in the Medical Imaging Group. I am drawn to your lab's work in biomedical imaging, image processing, and quantitative image analysis, particularly in the context of Magnetic Resonance Imaging (MRI) in cancer diagnostics and chemotherapy response assessment.
+
+I have been impressed by your recent papers, including "AI Driven Prediction Model for Mechanical Ventilation Duration Using Lung Ultrasound Score" and "Texture analysis for chemotherapy response evaluation in osteosarcoma using MR imaging". The latter, in particular, caught my attention due to its focus on texture analysis for chemotherapy response evaluation, which highlights the potential of MRI in assessing treatment outcomes. I also found the discussion on dropout rates and death rates in the context of osteosarcoma treatment to be thought-provoking, and I appreciate the consideration of real-world constraints in the research design.
+
+My own research experience has involved working on projects such as multimodal disease risk prediction, skin lesion classification, and federated learning for medical imaging. In my undergraduate research, I focused on trustworthy deployment of clinical NLP and imaging models under the guidance of Prof. Ananya Desai. I believe that my experience with deep learning, self-supervised pretraining, and federated optimization could be valuable in contributing to the Medical Imaging Group's research themes, such as image-guided intervention and mobile-assisted healthcare. For instance, my project on multimodal disease risk prediction, which combined structured EHR features with discharge-summary text using ClinicalBERT embeddings, could be extended to incorporate medical imaging data and explore its potential in improving disease diagnosis and treatment outcomes.
+
+I am excited about the opportunity to discuss potential PhD opportunities in your lab and explore how my research interests align with the Medical Imaging Group's focus areas. Could you please let me know if there are any available positions or potential projects that I could contribute to? Regards, 
+Arjun Mehta
++91 98765 43210

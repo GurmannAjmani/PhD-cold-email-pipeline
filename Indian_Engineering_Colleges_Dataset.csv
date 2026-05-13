@@ -1,0 +1,733 @@
+Unnamed: 0,College_Name,State,UG_fee,PG_fee,Rating,Academic,Accommodation,Faculty,Infrastructure,Placement,Social_Life,tier
+0,Indian Institute of Technology Madras ,Tamil nadu,"75,116","23,070",8.7,9,7.9,8.7,8.8,8.8,9,T1
+1,"College of Engineering, Anna University ",Tamil nadu,"50,000","50,000",8.4,8.7,7.7,8.1,8.7,8.3,8.7,T3
+2,"NIT Trichy, Tiruchirappalli ",Tamil nadu,"1,49,250","99,250",8.5,8.6,7.8,8.2,8.7,8.8,8.7,T2
+3,Vellore Institute of Technology ,Tamil nadu,"1,98,000","1,83,000",8.3,8.3,8,7.8,8.9,8.5,8.5,T3
+4,"SRM Engineering College, Kanchipuram ",Tamil nadu,"2,60,000","1,70,000",7.2,6.5,6.6,6.9,7.6,7.1,8.3,T3
+5,SSN College of Engineering ,Tamil nadu,"50,000","50,000",8.6,8.9,7.6,8.7,9.1,8.3,8.8,T3
+6,"SASTRA University, Thanjavur ",Tamil nadu,"1,67,000","1,57,000",8.1,8.5,7,8.2,8.3,8.7,8.1,T3
+7,P.S.G College of Technology ,Tamil nadu,"87,000","1,54,000",9,9.2,8.7,8.9,9,9.1,8.8,T3
+8,Thiagarajar College of Engineering ,Tamil nadu,"50,000","50,000",8.6,8.9,7.9,8.6,8.6,8.7,8.6,T3
+9,Coimbatore Institute of Technology ,Tamil nadu,"23,670","1,32,710",8,8.5,6.8,8.2,7.4,8.4,8.5,T3
+10,Karunya Institute of Technology and Sciences ,Tamil nadu,"2,13,500","1,21,500",7.9,7.9,7.9,7.9,8.5,7.5,7.4,T3
+11,Kumaraguru College of Technology ,Tamil nadu,"50,000","50,000",8.2,8.3,7.6,8,8.8,7.9,8.5,T3
+12,"VEL Tech, Chennai ",Tamil nadu,"50,000",--,8.2,8.5,8.5,8.1,7.8,8.3,8.1,T3
+13,"Mepco Schlenk Engineering College, Sivakasi ",Tamil nadu,"1,34,000","1,04,150",8.1,8.5,8.1,8.3,8.6,7.9,7,T3
+14,Government College of Technology ,Tamil nadu,"9,180","10,110",8.1,8.4,7.1,8.3,8,8,8.8,T3
+15,Hindustan Institute of Technology and Science ,Tamil nadu,"2,29,500","1,25,500",7.6,7.8,6.9,7.8,7.9,6.9,8,T3
+16,Sri Krishna College of Engineering and Technology ,Tamil nadu,"50,000","50,000",8.1,8.2,7.4,8.2,9,8.2,7.7,T3
+17,Kongu Engineering College ,Tamil nadu,"60,000","65,000",8.3,8.3,7.7,8.3,8.9,8.3,8.3,T3
+18,Bannari Amman Institute of Technology ,Tamil nadu,"60,000","35,000",8.3,8.2,8.1,8,9.1,8.1,8.2,T3
+19,"Sona College of Technology, Salem ",Tamil nadu,"2,00,000","2,29,000",8.1,8.5,7.3,8.3,8.3,7.9,8.5,T3
+20,Tamil Nadu Veterinary and Animal Sciences University ,Tamil nadu,"21,415","33,325",8.3,8.4,8,8.4,8.2,8.2,8.4,T3
+21,"St. Joseph College Of Engineering, Kanchipuram ",Tamil nadu,"60,000","65,000",8,7,--,--,9,8,--,T4
+22,Saveetha Engineering College ,Tamil nadu,"85,000","60,000",8,8.1,7.3,8.1,8.6,7.7,7.9,T3
+23,"Sri Sairam Engineering College, Chennai ",Tamil nadu,"50,000","25,000",7.7,8.4,7.3,7.9,8.2,7.9,6.7,T4
+24,B.S. Abdur Rahman Crescent Institute of Science ,Tamil nadu,"85,000","40,000",8.2,8.4,7.8,8.3,8.7,7.7,8.2,T3
+25,Sri Ramakrishna Engineering College ,Tamil nadu,"55,000","60,000",8.1,8.4,7.7,8,8.3,8.3,8,T3
+26,Rajalakshmi Engineering College ,Tamil nadu,"50,000","50,000",7.8,8.1,6.3,8.1,8,8.3,7.7,T4
+27,Sri Venkateswara College of Engineering ,Tamil nadu,"65,000","60,000",8.2,8.4,7.4,8.4,8.6,8.1,8,T3
+28,IIT Bombay ,Maharashtra,"2,28,000","32,000",8.9,9.3,7.9,8.7,8.9,9.1,9.2,T1
+29,Institute of Chemical Technology ,Maharashtra,"85,350","70,750",8.7,9.1,8.1,8.9,8.7,8.4,9.1,T2
+30,Visvesvaraya National Institute of Technology ,Maharashtra,"1,49,200","93,600",8.1,8.3,7.5,8,8.4,7.7,8.7,T2
+31,College of Engineering ,Maharashtra,"40,500","64,500",8.6,8.7,8.2,8.1,8.5,8.7,9.1,T3
+32,Defence Institute of Advanced Technology ,Maharashtra,"1,53,600","45,000",8.8,9,8.6,8.8,9,8.6,8.6,T3
+33,National Institute of Industrial Engineering ,Maharashtra,"5,98,000","1,04,000",9,9,9,9,9,9.3,8.6,T2
+34,Army Institute of Technology ,Maharashtra,"1,80,197","1,20,560",8.3,8,8.5,7.6,7.9,8.7,9,T3
+35,Bharati Vidyapeeth Deemed University ,Maharashtra,"1,20,000","50,000",7.8,8.1,6.8,7.9,8.1,7.7,8.2,T3
+36,Veermata Jijabai Technological Institute ,Maharashtra,"84,051","83,734",7.9,8.2,7.2,7.8,7.1,8.7,8.4,T3
+37,GH Raisoni College of Engineering ,Maharashtra,"5,60,000","1,32,000",8.4,8.5,8,8.4,8.5,8,8.8,T3
+38,Mukesh Patel School of Technology Management and ,Maharashtra,"4,52,000","5,01,500",8.2,8.1,8,7.8,8.7,8.1,8.3,T3
+39,Sardar Patel Institute of Technology ,Maharashtra,"1,70,000","1,68,000",8.1,8.4,6.9,7.9,8.3,9.1,8.1,T3
+40,Shri Ramdeobaba College of Engineering and Management ,Maharashtra,"1,45,000","1,25,000",8.1,8.3,7.6,8,7.9,8.3,8.2,T3
+41,Rashtrasant Tukadoji Maharaj Nagpur University ,Maharashtra,"33,600","60,000",7.5,8,7.2,7.7,7.9,6.9,7.4,T3
+42,Yeshwantrao Chavan College of Engineering ,Maharashtra,"1,51,801","1,53,328",7.6,7.7,7,7.6,8.2,7.2,7.6,T3
+43,Walchand College of Engineering ,Maharashtra,"84,935","96,550",8.3,8.4,7.3,8.3,8.4,8.8,8.4,T3
+44,MIT World Peace University ,Maharashtra,"3,10,000","1,90,000",8,8.1,7,8,8.5,7.7,8.4,T3
+45,Vishwakarma Institute of Information Technology ,Maharashtra,"1,64,000","78,000",7.8,8.2,6.8,8.1,7.4,8,8.1,T3
+46,Ramrao Adik Institute of Technology ,Maharashtra,"3,25,000","1,50,000",8.6,8.2,8,8.1,9,8.7,9.3,T3
+47,Sardar Patel College of Engineering ,Maharashtra,"1,70,000","1,68,000",8,8.3,7.2,7.9,8,8.1,8.2,T3
+48,K. J. Somaiya College of Engineering ,Maharashtra,"2,86,000","1,96,800",8.2,8.2,8,7.7,8.7,8,8.5,T3
+49,Pimpri Chinchwad College of Engineering ,Maharashtra,"1,38,559","1,07,687",8.1,8.7,7.6,8.1,7.9,8.6,7.5,T3
+50,"MKSSS's Cummins College of Engineering for Women, ",Maharashtra,"1,80,836","1,55,200",8.3,8.3,8,8.1,7.8,9,8.6,T3
+51,Dwarkadas J Sanghvi College of Engineering ,Maharashtra,"1,94,000","1,39,000",8.2,8.2,7.7,8.2,8.4,8.3,8.2,T3
+52,Thakur College of Engineering and Technology ,Maharashtra,"1,47,500","1,36,931",8.2,8.1,8,7.9,9.1,7.9,8.4,T3
+53,SVKM's Narsee Monjee Institute of Management Studies ,Maharashtra,"3,02,000",--,8.2,8.5,6.8,8.6,8.3,8.3,8.7,T3
+54,"Amity University, Mumbai ",Maharashtra,"2,22,000","1,50,000",8.1,7.9,7.6,8.2,8.4,7.8,8.6,T3
+55,"Vishwakarma Institute of Technology, Pune ",Maharashtra,"1,79,895","88,765",7.5,8.1,6.5,7.9,6.5,7.8,8.4,T3
+56,Indian Institute of Information Technology ,Maharashtra,"2,34,500","1,00,500",7.8,8.2,7.5,8,7.2,8.4,7.5,T2
+57,Tata Institute of Social Sciences ,Maharashtra,--,--,8.6,9,8.1,8.9,8.6,8.4,8.6,T3
+58,Indian Institute of Technology ,Uttar pradesh,"2,15,600","2,14,050",8.9,9.1,8.4,8.7,9.3,8.9,9.1,T1
+59,Indian Institute of Technology ,Uttar pradesh,"84,981","36,815",8.5,8.5,8.2,8.1,7.6,9.1,9.2,T1
+60,"Amity University, Noida ",Uttar pradesh,"3,11,000","1,40,000",8.2,8,7.9,8.1,8.9,7.6,8.7,T3
+61,Aligarh Muslim University ,Uttar pradesh,"2,69,445","4,30,970",8.3,8.8,7.9,8.5,8.8,7.2,8.6,T3
+62,MNNIT Allahabad ,Uttar pradesh,"84,666","1,18,000",8,8.4,7.3,7.8,7.1,8.9,8.2,T2
+63,Jaypee Institute of Information Technology University ,Uttar pradesh,"2,36,500","1,20,000",7.8,7.8,7.7,7.3,8.2,7.8,7.7,T3
+64,Indian Institute of Information Technology ,Uttar pradesh,"1,04,000","2,80,400",8.3,8.4,7.4,7.6,9,9.2,8.1,T2
+65,"Dayalbagh Educational Institute Faculty of Engineering, Agra ",Uttar pradesh,"51,300","26,500",8,8.3,7.1,8.5,8.1,8.2,8,T3
+66,Sharda University ,Uttar pradesh,"1,63,770","97,850",7.9,7.7,7.6,7.9,8.6,6.9,8.6,T3
+67,Galgotias University ,Uttar pradesh,"1,59,000","45,000",7.6,7.9,6.9,7.9,7.5,7.7,7.8,T3
+68,"Bennett University, Greater Noida ",Uttar pradesh,"3,50,000","60,000",8.6,8.5,7.9,8.8,9.2,8.3,8.6,T3
+69,Shiv Nadar University ,Uttar pradesh,"2,00,000","1,60,000",9,8.8,8.7,8.8,9.6,8.5,9.4,T3
+70,"Integral University, Lucknow ",Uttar pradesh,"1,40,000","80,000",7.4,7.6,7.3,7.4,8,6.5,7.4,T3
+71,J.S. University ,Uttar pradesh,"47,500","13,500",8.5,8.5,7.8,8.7,9,8.2,8.6,T3
+72,"GLA University, Mathura ",Uttar pradesh,"1,78,000","75,000",8.2,8.2,7.9,8.3,8.3,8.2,8.1,T3
+73,Institute of Engineering and Technology ,Uttar pradesh,"89,775","73,200",7.4,7.6,7.7,7,7.3,7,7.8,T3
+74,Sanskriti University ,Uttar pradesh,"1,15,000","45,000",7,7.2,6.7,7,7.5,6.9,6.8,T3
+75,"Monad University, Hapur ",Uttar pradesh,"1,51,000","35,500",8,7.6,7.4,8.5,8,8.2,8.1,T3
+76,Indian Institute of Information Technology ,Uttar pradesh,"2,18,700","2,18,700",7.8,7.6,7.2,7.4,6.8,9.4,8.1,T2
+77,"IFTM University, Moradabad ",Uttar pradesh,"1,07,000","75,000",7.8,7.9,7.5,8.1,8,6.8,8.3,T3
+78,"Shobhit University, Meerut ",Uttar pradesh,"1,11,200","1,22,400",7.8,8.4,7.3,7.8,8.3,7,7.9,T3
+79,"Glocal University, Saharanpur ",Uttar pradesh,"1,44,000","94,000",7.1,7.5,6.9,7,6.7,7.2,7.3,T3
+80,"Rama University, Kanpur ",Uttar pradesh,"90,000","75,000",6.7,6.6,6.1,7.3,6.5,6.6,7.1,T3
+81,Noida Institute of Engineering and Technology ,Uttar pradesh,"6,14,000","2,13,000",7.6,8.1,7.1,8,7.6,7.8,7.1,T4
+82,"ABES Engineering College, Ghaziabad ",Uttar pradesh,"1,43,700","1,30,000",7.9,8.1,7.2,8.1,8.2,7.8,8,T4
+83,Bundelkhand Institute of Engineering & Technology ,Uttar pradesh,"61,800","59,300",7.1,7.3,7,6.9,7.4,6.2,8,T4
+84,Harcourt Butler Technological University ,Uttar pradesh,"1,35,000","83,300",7.3,7.5,6.9,7.4,6.5,7.8,7.8,T3
+85,Rajiv Gandhi Institute of Petroleum Technology ,Uttar pradesh,"2,21,100","42,100",8.6,8.7,8.6,8.2,9.2,8.2,8.6,T2
+86,Indian Institute of Technology ,Delhi ncr,"2,20,300","1,32,900",8.7,9,7.8,8.7,8.9,9,9,T1
+87,"Jamia Millia Islamia University-[JMI], New Delhi ",Delhi ncr,"16,150","8,970",8,8.4,7.6,8.3,8.4,7.2,8.2,T3
+88,Delhi Technological University ,Delhi ncr,"1,90,000","1,66,000",8.2,7.9,7.6,7.5,8.6,8.6,8.8,T3
+89,"Amity University, Noida ",Delhi ncr,"3,11,000","1,40,000",8.2,8,7.9,8.1,8.9,7.6,8.7,T3
+90,Indraprastha Institute of Information Technology ,Delhi ncr,"3,60,000","1,00,000",8.7,8.8,8.7,8.9,8.9,8.6,8.2,T2
+91,Guru Gobind Singh Indraprastha University ,Delhi ncr,"1,17,200","23,000",7.8,8.1,7.5,8,8.1,6.9,8.1,T3
+92,Jaypee Institute of Information Technology University ,Delhi ncr,"2,36,500","1,20,000",7.8,7.8,7.7,7.3,8.2,7.8,7.7,T3
+93,National Institute of Food Technology Entrepreneurship and ,Delhi ncr,"1,71,550","1,52,950",8.1,8.5,7.1,6.9,9.4,8.5,7.9,T2
+94,"School of Engineering and Technology, NCU ",Delhi ncr,"2,60,000","82,000",9,9,--,--,9,--,--,T3
+95,"J.C. Bose University Of Science And Technology, ",Delhi ncr,"83,625","83,625",7.3,7.7,6.5,7.4,6.6,7.7,7.6,T3
+96,Indira Gandhi Delhi Technical University For Women ,Delhi ncr,"88,000","33,000",7.6,7.7,7,7.6,6.9,8.3,7.9,T3
+97,Manav Rachna International Institute Of Research And ,Delhi ncr,"1,81,500","1,16,000",7.2,7.1,6.7,6.5,8.4,6.5,7.8,T3
+98,Sharda University ,Delhi ncr,"1,63,770","97,850",7.9,7.7,7.6,7.9,8.6,6.9,8.6,T3
+99,Galgotias University ,Delhi ncr,"1,59,000","45,000",7.6,7.9,6.9,7.9,7.5,7.7,7.8,T3
+100,Netaji Subhas University of Technology ,Delhi ncr,"1,90,000","1,20,000",7.8,7.9,7.1,7.6,7.6,8.9,7.9,T3
+101,Shiv Nadar University ,Delhi ncr,"2,00,000","1,60,000",9,8.8,8.7,8.8,9.6,8.5,9.4,T3
+102,Manav Rachna International Institute of Research and ,Delhi ncr,"1,81,500","1,65,000",7.5,7.4,7.3,7.5,8.3,6.6,7.6,T3
+103,National Institute of Technology ,Delhi ncr,"96,866","1,98,500",6.8,7.3,6,7.1,6,7.6,6.8,T2
+104,"Gurugram University, Gurgaon ",Delhi ncr,"40,000",--,8.2,8.6,7.4,8.4,8.6,8,8.1,T3
+105,Chhotu Ram Rural Institute Of Technology ,Delhi ncr,"33,450","33,450",8.4,8.7,8.1,8.4,8.7,8.1,8.2,T4
+106,SunRise University ,Delhi ncr,"72,200","32,200",8.1,8.1,7.3,8.7,8.1,7.9,8.4,T3
+107,"Monad University, Hapur ",Delhi ncr,"1,51,000","35,500",8,7.6,7.4,8.5,8,8.2,8.1,T3
+108,"Amity University, Gurgaon ",Delhi ncr,"2,30,000","1,56,000",7.7,7.8,7.1,7.6,8.6,7.1,8.1,T3
+109,"Shobhit University, Meerut ",Delhi ncr,"1,11,200","1,22,400",7.8,8.4,7.3,7.8,8.3,7,7.9,T3
+110,Indraprastha Institute of Technology and Management ,Delhi ncr,"1,25,000",--,8.3,8.3,8,8.7,7.8,8.7,8.5,T4
+111,Maharaja Agrasen Institute of Technology ,Delhi ncr,"1,43,200",--,7.5,7.8,7.2,7.7,7.5,7.5,7.4,T4
+112,Maharaja Surajmal Institute of Technology ,Delhi ncr,"1,35,300",--,7.3,7.9,6.7,7.5,6.8,7.7,7.1,T3
+113,Noida Institute of Engineering and Technology ,Delhi ncr,"6,14,000","2,13,000",7.6,8.1,7.1,8,7.6,7.8,7.1,T3
+114,K L University ,Andhra pradesh,"2,50,000","1,45,000",8.3,8.5,7.6,8.3,8.8,8.3,8.2,T3
+115,"Andhra University, College of Engineering ",Andhra pradesh,"10,000","1,09,000",7.7,8.2,6.9,7.8,8,7.2,7.9,T3
+116,"Sri Venkateswara University College of Engineering, Tirupati ",Andhra pradesh,"16,395","31,647",7.8,7.6,8.4,7.4,8.1,6.9,8.1,T3
+117,"Vignan’s Foundation for Science, Technology, and Research, ",Andhra pradesh,"2,50,000","1,10,000",8.2,8.2,8.4,8.5,8.2,7.7,8.4,T3
+118,"JNTUK University College of Engineering, Kakinada, East ",Andhra pradesh,"10,000","30,000",7.7,8,7.1,7.8,8.2,7,8.3,T3
+119,Sree Vidyanikethan Engineering College ,Andhra pradesh,"2,80,000","76,850",8.5,8.4,8.5,8.3,8.8,8.4,8.6,T3
+120,G. Pulla Reddy Engineering College ,Andhra pradesh,"80,000","80,000",8.3,8.5,7.7,8.5,8.5,8.2,8.4,T3
+121,Sri Venkateswara College of Engineering and Technology ,Andhra pradesh,"89,350","75,000",7.9,8.3,7.9,8,8.2,7.3,7.5,T3
+122,Velagapudi Ramakrishna Siddhartha Engineering College ,Andhra pradesh,"71,050","70,000",8.2,8.6,7.6,8.4,8.4,8.2,8.1,T3
+123,Shri Vishnu Engineering College for Women ,Andhra pradesh,"95,000","55,000",8.8,8.7,8.6,8.5,9.3,8.8,9,T3
+124,"JNTUA College of Engineering, Ananthapur ",Andhra pradesh,"25,000","38,750",7,7.1,7.3,6.7,7.5,6.3,7.3,T3
+125,Sagi Ramakrishnam Raju Engineering College ,Andhra pradesh,"30,000","57,000",8.2,8.5,7.5,8.4,8.3,8.2,8.3,T3
+126,Gayatri Vidya Parishad College of Engineering ,Andhra pradesh,"2,76,000","1,00,000",7.7,8.3,6.8,8,7.3,8.1,7.4,T3
+127,Jawaharlal Nehru Technological University ,Andhra pradesh,"1,00,000",--,7.4,7.7,6.8,7.1,7.7,7.1,7.8,T3
+128,Indian Institute of Technology ,Andhra pradesh,"16,950","78,218",8.6,9,8.1,8.8,8.7,8.2,8.9,T1
+129,Prasad V. Potluri Siddhartha Institute of Technology ,Andhra pradesh,"2,80,000","1,40,000",7.9,8.1,7.3,8.1,8.1,7.9,7.8,T3
+130,Centurion University of Technology and Management ,Andhra pradesh,"1,25,000","60,000",7.8,8,7.2,8.3,7.6,7.4,8.3,T3
+131,Aditya Engineering College ,Andhra pradesh,"72,000","29,500",7.8,7.9,7.4,7.8,8.5,7.4,7.9,T3
+132,Bapatla Engineering College ,Andhra pradesh,"75,000","90,000",7.5,7.8,7.3,7.7,8.2,6.5,7.7,T3
+133,Gudlavalleru Engineering College ,Andhra pradesh,"81,600","74,850",8.2,8.5,7.7,8.4,8.7,7.5,8.1,T3
+134,Sri Venkateswara College of Engineering ,Andhra pradesh,"80,000","75,000",8.3,8.3,8,8.1,9,7.8,8.5,T3
+135,Sri Vasavi Engineering College ,Andhra pradesh,"1,89,000","60,850",7.9,8.1,7.4,8,8.3,7.6,7.8,T3
+136,Indian Institute of Information Technology Sri City ,Andhra pradesh,"1,03,000","2,71,000",7,7.9,6.4,7.1,6.9,7.3,6.4,T2
+137,National Institute of Technology ,Andhra pradesh,"1,87,500","1,00,000",7.2,7.9,6.6,7.5,6.9,6.9,7.2,T2
+138,"Rajiv Gandhi University of Knowledge Technologies -[RGUKT], ",Andhra pradesh,"39,000","96,000",8.2,8.4,7.6,8.1,8.9,7.7,8.5,T3
+139,Raghu Engineering College ,Andhra pradesh,"85,000","57,000",8.1,8.3,7.1,8.1,8.4,8.5,8,T3
+140,Indian Institute of Information Technology Design and ,Andhra pradesh,"1,44,600","67,500",7.4,7.9,7.6,8,6.7,7.2,7.2,T2
+141,Rajeev Gandhi Memorial College of Engineering and ,Andhra pradesh,"69,100","62,800",7.4,7.8,7.2,7.6,8,6.2,7.4,T4
+142,VIT University ,Andhra pradesh,"1,98,000","1,93,000",8.2,8.3,7.9,8.3,8.1,8.4,8.1,T3
+143,National Institute of Technology ,Karnataka,"1,52,730","1,00,355",8.4,8.7,7.2,8.2,8.4,8.9,8.9,T2
+144,Manipal Institute of Technology ,Karnataka,"3,35,000","2,10,000",8.7,8.5,8.5,8.1,9.4,8.1,9.3,T3
+145,R V College of Engineering ,Karnataka,"3,50,000","37,700",8.5,8.7,7.9,8.2,8.6,9,8.4,T3
+146,Ramaiah Institute of Technology ,Karnataka,"86,226","96,570",8.4,8.5,7.8,8.3,8.7,8.3,8.6,T3
+147,International Institute of Information Technology ,Karnataka,"1,64,000","3,24,000",8.7,9.2,8.5,9.1,8.8,8.9,7.6,T2
+148,BMS College of Engineering ,Karnataka,"2,29,110","26,800",8.2,8.4,8,8,8,8.3,8.7,T3
+149,Siddaganga Institute of Technology ,Karnataka,"79,475","92,975",7.8,8.1,7.2,7.7,8.1,8,7.6,T3
+150,New Horizon College of Engineering ,Karnataka,"2,50,000","75,000",8,8,7.6,8.1,8.3,7.8,8.2,T3
+151,"Faculty of Engineering and Technology, Jain University ",Karnataka,"1,97,500","85,000",8.1,8,7.9,8,8.3,7.7,8.5,T3
+152,Sri Jayachamarajendra College of Engineering ,Karnataka,"4,75,000","1,40,000",8.3,8.4,7.6,7.8,8.5,8.7,8.6,T3
+153,Dayananda Sagar College of Engineering ,Karnataka,"96,106","2,92,720",8,8,7.4,7.7,8.8,7.7,8.3,T3
+154,NMAM Institute of Technology ,Karnataka,"1,63,000","83,220",7.9,8,7.5,8.2,8.1,7.5,7.9,T3
+155,Nitte Meenakshi Institute of Technology ,Karnataka,"58,806","65,390",7.8,8.1,7.1,7.9,7.8,7.6,8.1,T3
+156,PES University ,Karnataka,"3,40,000","2,00,000",8,8.5,7.7,8.1,8.1,8.1,7.6,T3
+157,BMS Institute of Technology and Management ,Karnataka,"3,50,000",--,7.9,8.2,7.7,8,7.7,7.9,7.7,T3
+158,"KLE Technological University, Hubli ",Karnataka,"15,000","40,000",8.4,8.5,7.6,8.2,9.1,8.4,8.4,T3
+159,Dr. Ambedkar Institute of Technology ,Karnataka,"30,200","37,500",7.2,7.7,6.8,7.5,7.5,6.7,7.2,T4
+160,PES College of Engineering ,Karnataka,"76,800","74,450",7.7,7.9,6.7,7.7,8.5,7.3,8,T3
+161,CMR Institute of Technology ,Karnataka,"2,50,000","1,40,000",7.9,8.2,7.3,7.9,8.3,7.7,8,T3
+162,The National Institute of Engineering ,Karnataka,"44,090","55,590",8.1,8.5,7.6,8.3,7.8,8.4,7.9,T3
+163,"Alliance College of Engineering and Design, Bangalore ",Karnataka,"2,25,000","1,50,000",7.2,7.3,7.1,6.5,8.7,6.5,7.2,T4
+164,Basaveshwar Engineering College ,Karnataka,"65,340","60,000",7.7,8.1,7.9,8.1,8.1,6.6,7.2,T3
+165,"Christ University, Bangalore ",Karnataka,"1,70,000","35,000",8.3,8.5,7.4,8.2,8.9,8.1,8.8,T3
+166,Manipal Academy of Higher Education ,Karnataka,"3,35,000","2,10,000",8.4,8.5,8.2,8.6,8.8,7.8,8.4,T3
+167,Indian Institute of Science ,Karnataka,"29,200","35,200",9,9.6,8.5,9.4,9.5,8.4,8.4,T1
+168,"REVA University, Bangalore ",Karnataka,"2,25,000","5,00,000",8.4,8.3,8.1,8.3,9.3,7.8,8.4,T3
+169,"Alliance University, Bangalore ",Karnataka,"6,25,000","1,50,000",8,8.2,7.2,8.2,8.8,7.6,8,T3
+170,"Presidency University, Bangalore ",Karnataka,"2,10,000","90,000",8.3,8.2,7.6,8.6,8.8,8.2,8.3,T3
+171,Indian Institute of Technology ,Telangana,"2,22,995","5,00,895",8.5,8.7,8,8.7,8.5,8.3,8.6,T1
+172,National Institute of Technology ,Telangana,"1,30,000","75,000",8.4,8.6,7.9,8.2,8.5,8.6,8.4,T2
+173,International Institute of Information Technology ,Telangana,"3,00,000","1,50,000",8.3,9,8.2,8.5,7.8,9.2,6.9,T2
+174,Jawaharlal Nehru Technological University ,Telangana,"12,500","18,000",8,8.3,7.7,7.8,8.3,7.6,8.3,T3
+175,"University College of Engineering, Osmania University ",Telangana,"27,770","39,770",8.6,9,8.5,8.5,8.6,8.4,8.4,T3
+176,Chaitanya Bharathi Institute of Technology ,Telangana,"1,34,000","1,51,600",8.2,8.5,7.1,8.4,8.3,8.6,8.5,T4
+177,Vallurupalli Nageswara Rao Vignana Jyothi Institute of ,Telangana,"1,31,000","1,41,700",8.4,8.4,8.1,8.2,8.5,8.4,8.5,T4
+178,"CVR College of Engineering, Ibrahimpatnam, Rangareddi ",Telangana,"1,21,650","72,500",8.3,8.6,8.1,8.5,8.2,8.6,7.7,T4
+179,Institute of Aeronautical Engineering ,Telangana,"90,000","70,000",8.3,8.4,8.5,8.2,8.5,8,8.2,T4
+180,BV Raju Institute of Technology ,Telangana,"1,20,000","70,000",8.5,8.6,8.2,8.3,8.9,8.4,8.7,T4
+181,Vardhaman College of Engineering ,Telangana,"1,25,000","57,000",8.1,8.2,8.2,8.2,8.5,8.1,7.6,T4
+182,"Anurag University, Hyderabad ",Telangana,"1,35,500","66,500",8.3,8.5,7.5,8.2,8.9,8,8.4,T3
+183,Vasavi College of Engineering ,Telangana,"1,30,000","1,00,000",8,8.6,6.7,8.3,8,8.8,7.5,T4
+184,Gokaraju Rangaraju Institute of Engineering and Technology ,Telangana,"1,22,000","75,000",8,8.3,7.3,7.9,8.5,8.1,7.6,T4
+185,Kakatiya Institute of Technology & Science ,Telangana,"1,25,960","74,550",8.2,8.3,7.9,8.4,8.3,7.9,8.4,T4
+186,K L University ,Telangana,"2,65,000","1,20,000",7.9,7.9,7.4,8.1,8.2,7.6,8.1,T3
+187,Birla Institute of Technology and Science ,Telangana,"4,23,475","4,69,475",9,9,8.4,8.8,9.4,9.1,9.4,T2
+188,Mahatma Gandhi Institute of Technology ,Telangana,"1,08,000",--,7.8,8.1,7.2,8.1,8.1,7.3,7.8,T4
+189,Malla Reddy Engineering College ,Telangana,"1,03,000","57,000",7.4,7.7,7.1,7.4,7.8,7.1,7.5,T4
+190,Malla Reddy College of Engineering ,Telangana,"72,000",--,7,7.5,7.2,7,6.8,6.5,7.2,T4
+191,Indian Institute of Chemical Technology ,Telangana,--,--,7.7,7,7,8.3,8,7.7,7.9,T2
+192,Sreenidhi Institute of Science and Technology ,Telangana,"5,20,000","2,10,000",7.6,7.8,6.9,7.5,7.8,7.7,7.6,T4
+193,"Mahindra University, Hyderabad ",Telangana,"4,70,000","70,000",8.8,9.1,8.6,9,9.1,7.8,8.9,T3
+194,"St Martin's Engineering College, Secunderabad ",Telangana,"80,000",--,7.7,7.9,6.8,7.8,7.9,7.7,8.2,T4
+195,MLR Institute of Technology ,Telangana,"96,000","57,000",8.3,8.3,8.4,8.1,8.8,8,8.4,T4
+196,Keshav Memorial Institute of Technology ,Telangana,"1,11,500",--,8.2,8.7,6.7,8.6,8.1,9,8.3,T3
+197,Vaagdevi College of Engineering ,Telangana,"86,000",--,7.8,8,7.4,8,8,7.5,8,T3
+198,CMR Engineering College ,Telangana,"75,000","57,000",8.8,8.9,8.4,8.7,9.2,9,8.4,T3
+199,"Matrusri Engineering College, Hyderabad ",Telangana,"90,000",--,7,7.6,5.7,7.2,7.6,7,6.7,T4
+200,Indian Institute of Technology ,Madhya pradesh,"2,28,700","50,800",8,8.4,7.6,8.1,7.7,7.8,8.4,T1
+201,Maulana Azad National Institute of Technology ,Madhya pradesh,"64,939","1,04,275",7.8,7.8,7.5,7.5,7.6,8.1,8.5,T2
+202,Indian Institute of Information Technology Design and ,Madhya pradesh,"1,37,580","71,000",7.9,8.2,7.5,8,8.1,7.5,8.3,T2
+203,Atal Bihari Vajpayee Indian Institute of Information ,Madhya pradesh,"75,070","1,42,250",7.6,7.5,7,7.1,8.2,7.7,8,T2
+204,"VIT Bhopal University, Bhopal ",Madhya pradesh,"1,98,000","1,93,000",7.9,8.6,7.7,8.4,7.1,8.1,7.4,T3
+205,"RKDF University, Bhopal ",Madhya pradesh,"55,000","35,000",7.6,8,7,7.8,8,6.5,8.2,T3
+206,Awadhesh Pratap Singh University ,Madhya pradesh,"40,000",--,7.1,7.9,6.5,8.1,7.2,5.3,7.3,T4
+207,"University Institute of Technology, Rajiv Gandhi Proudyogiki ",Madhya pradesh,"23,920","62,735",6.9,7.2,6.5,6.6,7.6,6.3,6.9,T4
+208,Institute of Information Technology & Management ,Madhya pradesh,"77,000","60,000",8.5,8.7,8,8.4,8.6,8.5,8.5,T3
+209,"Institute of Engineering and Technology, Devi Ahilya ",Madhya pradesh,"82,961","71,100",7.7,7.9,6.6,7.3,7.4,8.4,8.4,T3
+210,Acropolis Institute of Technology & Research ,Madhya pradesh,"75,100","25,500",7.8,7.9,7,7.8,7.8,8,8.1,T3
+211,"Indian Institute of Information Technology -[IIIT], Bhopal ",Madhya pradesh,"1,79,500",--,6,6.4,5.3,6.1,6.5,5,6.8,T2
+212,Jaypee University of Engineering and Technology ,Madhya pradesh,"1,89,500","96,500",7.9,7.8,7.9,7.5,8.9,7.4,7.6,T3
+213,Oriental University ,Madhya pradesh,"65,000","30,000",7.2,7.5,6.7,7.2,7.7,7.1,7.1,T4
+214,"Amity University, Gwalior ",Madhya pradesh,"1,64,000","64,000",8.6,8.8,8.5,8.4,9.3,8,8.3,T3
+215,AKS University ,Madhya pradesh,"60,000","46,000",7.3,7.8,5.9,8.2,7.6,6.9,7.4,T4
+216,Jagran Lakecity University ,Madhya pradesh,"1,15,000","75,000",8,8,7.9,7.8,8.6,7.4,8.1,T3
+217,Jabalpur Engineering College ,Madhya pradesh,"22,300","10,000",7.2,7.5,6.4,7.4,6.9,7.4,7.3,T4
+218,"Swami Vivekanand University, Sagar ",Madhya pradesh,"44,000","32,000",6.3,6.9,5,7,6.4,5.6,6.6,T4
+219,"Acropolis Group of Institutions, Indore ",Madhya pradesh,"73,600","60,000",8.7,8.5,8.5,8.7,9,8.6,8.6,T3
+220,LNCT University ,Madhya pradesh,"80,000","65,000",9,9,8.8,9.3,8.8,8.9,8.9,T3
+221,"Avantika University, Ujjain ",Madhya pradesh,"2,22,500",--,9.1,9.3,8.5,9.3,8.5,9.5,9.2,T3
+222,Ujjain Engineering College ,Madhya pradesh,"22,751","25,151",6.7,7.4,5.9,7.4,6.2,6.4,6.9,T4
+223,Shri Govindram Seksaria Institute of Technology and ,Madhya pradesh,"75,550","1,18,425",7.4,8,6.7,7.7,7,7.5,7.2,T3
+224,Lakshmi Narain College of Technology ,Madhya pradesh,"48,600","60,000",5.7,5.6,5.8,6.2,5.2,5.4,6.2,T4
+225,National Institute of Technology ,Kerala,"53,797","27,405",8.1,8.4,7.9,7.7,8,8.1,8.2,T2
+226,Indian Institute of Space Science and Technology ,Kerala,"1,42,400","87,400",8.1,8.9,7.8,8.5,8.6,7.7,7.2,T1
+227,"College of Engineering, Trivandrum ",Kerala,"2,00,000","15,725",8.4,8.6,7.8,8,8.5,8.4,8.8,T3
+228,"Cochin University of Science and Technology, School ",Kerala,"86,040","52,730",8.3,8.5,7.8,8.3,8.2,8.2,8.7,T3
+229,Baselios Thomas I Catholicose College of Engineering ,Kerala,"85,000",--,7.4,7.5,8,8.5,7,6.5,7,T4
+230,Cochin University of Science and Technology ,Kerala,"46,600","19,290",7.9,8.4,7.5,7.8,7.8,7.7,8.1,T3
+231,Indian Institute of Technology ,Kerala,"35,850","2,22,350",8.6,9.2,7.7,9,8.6,8.7,8.6,T1
+232,APJ Abdul Kalam Technological University ,Kerala,"29,000",--,7.8,8.1,6.9,8.2,8.1,7.5,8,T3
+233,Federal Institute of Science and Technology ,Kerala,"75,100","87,050",8.1,8.3,7.5,8.3,8.8,8,7.8,T3
+234,"Indian Institute of Information Technology [IIIT], Kottayam ",Kerala,"1,98,950",--,8.3,8.5,8.1,8.5,8.1,8.6,8.2,T2
+235,Government Engineering College ,Kerala,"22,150","10,970",8.5,8.5,8,8.4,8.7,8.3,8.9,T3
+236,National Institute of Electronics & Information Technology ,Kerala,"60,000","1,38,500",8.4,8.7,6.7,8.9,8.7,8.8,8.6,T2
+237,TKM College of Engineering ,Kerala,"8,410","16,290",8.4,8.8,8.2,8.4,8.4,7.8,8.5,T3
+238,Amal Jyothi College of Engineering ,Kerala,"1,00,000","96,000",7.6,7.9,7,7.9,9,6.9,7,T4
+239,Hindustan College of Engineering ,Kerala,"50,000",--,8,8.3,7.6,8.1,8,8,7.9,T3
+240,Marian Engineering College ,Kerala,"96,050","61,300",7.8,8.3,7.1,8.3,8.6,7.9,6.8,T4
+241,"Saintgits College of Engineering, Kottayam ",Kerala,"75,000","1,71,900",8.3,8.4,7.9,8.6,8.8,7.8,8.1,T3
+242,Rajiv Gandhi Institute of Technology ,Kerala,"22,000","22,000",7.9,8.3,7.3,8.1,8,7.4,8.4,T3
+243,Mangalam College of Engineering Ettumanoor ,Kerala,"75,000","3,00,000",6.9,7,6.4,7.4,7.6,6.4,6.6,T4
+244,NSS College of Engineering ,Kerala,"8,739","11,065",8.3,8.4,8,8.5,8,8.2,8.4,T3
+245,Sree Chitra Thirunal College of Engineering ,Kerala,"62,668","75,041",8,8.6,6,8.3,7.5,8.3,9,T3
+246,"Thejus Engineering College, Thrissur ",Kerala,"88,400","1,60,000",8,8.3,7.8,8.7,7.8,7.1,8.2,T3
+247,Mar Athanasius College of Engineering ,Kerala,"8,225","21,950",8.4,8.5,8.2,8.2,8.8,8.1,8.5,T3
+248,St. Thomas College of Engineering and Technology- ,Kerala,"58,150",--,8.3,8.4,7.9,8.6,8.5,7.8,8.3,T3
+249,"College of Engineering Thalassery, Kannur ",Kerala,"38,250",--,7.2,7.8,6.3,7.8,7.5,6.6,7.3,T3
+250,"KMCT College of Engineering, Kozhikode ",Kerala,"75,000",--,7.3,7.5,7.7,7.2,7.8,5.7,7.6,T4
+251,"MEA Engineering College- [MEAEC], Malappuram ",Kerala,"75,000","60,000",8.2,8.1,8.6,8.3,8.7,6.6,8.7,T3
+252,Rajagiri School of Engineering & Technology ,Kerala,"87,000","77,000",8.2,8.4,8,8.2,9,8.6,6.9,T4
+253,Sahrdaya College of Engineering ,Kerala,"35,000","77,000",7.1,7.5,6.8,7.3,8.1,6.6,6.5,T4
+254,"Trinity College of Engineering, Trivendrum ",Kerala,"75,000",--,6.8,7.6,6.4,7.3,6.7,6.1,6.5,T4
+255,Birla Institute of Technology and Science ,Rajasthan,"4,45,475","4,45,475",8.9,8.8,8.2,8.8,9,9,9.3,T2
+256,Indian Institute of Technology ,Rajasthan,"70,433","71,500",8.2,8,7.9,8.2,8.2,8,8.7,T1
+257,Malaviya National Institute of Technology ,Rajasthan,"94,333","1,22,665",8.2,8.2,7.4,8,8.7,8.2,8.5,T2
+258,"Singhania University, Jhunjhunu ",Rajasthan,"42,000","42,000",7.1,7.1,6.7,7.1,7.1,7,7.3,T4
+259,Jaipur National University ,Rajasthan,"1,14,000","37,600",7.5,7.9,7,7.7,7.8,6.7,7.6,T3
+260,Manipal University ,Rajasthan,"3,19,000","36,000",8.4,8.2,8.3,8.2,9.2,7.7,9,T3
+261,JECRC University ,Rajasthan,"1,85,000","30,000",8.1,8.1,7.4,8.2,8.2,8.1,8.7,T3
+262,SunRise University ,Rajasthan,"72,200","32,200",8.1,8.1,7.3,8.7,8.1,7.9,8.4,T3
+263,"OPJS University, Churu ",Rajasthan,"71,200","76,200",7.2,7.1,7.6,7.6,7.7,6.3,6.8,T4
+264,"Banasthali Vidyapith, Jaipur ",Rajasthan,"2,03,500","1,61,500",8.5,8.8,8.2,8.9,8.6,7.9,8.8,T3
+265,"Amity University, Jaipur ",Rajasthan,"1,80,000","1,48,000",8,7.8,7.6,7.8,8.9,7.4,8.7,T3
+266,Suresh Gyan Vihar University ,Rajasthan,"1,40,000","42,000",7.5,7.8,6.7,7.5,8.8,6.3,8,T3
+267,IIS (Deemed to be University) ,Rajasthan,"99,300","25,500",8.3,8.6,8.5,8.6,8,7.9,8.4,T3
+268,Madhav University ,Rajasthan,"70,000","13,000",7.8,7.9,7.5,8.2,7.9,7.3,7.8,T3
+269,"Jagannath University, Jaipur ",Rajasthan,"1,14,000","1,80,000",7.3,7.1,6.7,7.9,7.7,6.9,7.4,T4
+270,Indian Institute of Information Technology ,Rajasthan,"2,30,925",--,7.6,7.9,7.1,6.6,7.8,8,7.9,T2
+271,"Tantia University, Sriganganagar ",Rajasthan,"30,000",--,8.6,8.8,8.4,9.3,8.8,7.1,9.1,T3
+272,"Pacific University, Udaipur ",Rajasthan,"80,000","80,000",7.7,7.8,7.3,8.1,7.8,7.2,8,T3
+273,"Swami Keshvanand Institute of Technology, Management and ",Rajasthan,"98,900","84,500",7.8,8.3,6.8,8.1,8.1,8,7.5,T4
+274,Maharana Pratap University of Agriculture and Technology ,Rajasthan,"87,800","86,000",8,8.2,8,8,8.1,7.9,7.8,T3
+275,"Poornima College of Engineering, Jaipur ",Rajasthan,"1,70,000","1,78,000",7.5,7.9,7.4,7.6,7.2,7.6,7.4,T4
+276,"Shridhar University, Pilani ",Rajasthan,"99,300","61,300",6.7,6.2,6.6,6.5,6.5,7.3,6.8,T4
+277,"Jaipur Engineering College and Research Centre, Jaipur ",Rajasthan,"92,000",--,7.7,7.9,6.6,7.5,7.3,8.1,8.5,T4
+278,Birla Institute of Technology ,Rajasthan,"11,57,000",--,7.2,8.1,5.4,8.1,6.9,7.8,7.1,T4
+279,Institute of Advanced Studies in Education ,Rajasthan,"79,400","64,000",8.2,8.9,8,8.3,8.4,7.5,7.9,T4
+280,National Institute of Technology ,Haryana,"56,716","1,02,800",8.2,8,7.4,8.1,8.2,8.6,8.6,T2
+281,Panjab University ,Haryana,"96,300","27,500",7.7,8.2,7.7,8,7.7,6.5,8.2,T3
+282,Punjab Engineering College University of Technology ,Haryana,"96,750","93,500",8,7.9,7.3,7.6,7.7,8.4,9,T3
+283,National Institute of Food Technology Entrepreneurship and ,Haryana,"1,71,550","1,52,950",8.1,8.5,7.1,6.9,9.4,8.5,7.9,T2
+284,"University Institute of Engineering, Chandigarh University ",Haryana,"1,60,000","80,000",8.4,8.6,7.9,8.1,8.7,8.7,8.3,T3
+285,"School of Engineering and Technology, NCU ",Haryana,"2,60,000","82,000",9,9,--,--,9,--,--,T3
+286,"J.C. Bose University Of Science And Technology, ",Haryana,"83,625","83,625",7.3,7.7,6.5,7.4,6.6,7.7,7.6,T3
+287,Manav Rachna International Institute Of Research And ,Haryana,"1,81,500","1,16,000",7.2,7.1,6.7,6.5,8.4,6.5,7.8,T3
+288,Manav Rachna International Institute of Research and ,Haryana,"1,81,500","1,65,000",7.5,7.4,7.3,7.5,8.3,6.6,7.6,T3
+289,"Gurugram University, Gurgaon ",Haryana,"40,000",--,8.2,8.6,7.4,8.4,8.6,8,8.1,T3
+290,"PDM University, Bahadurgarh, Bahadurgarh ",Haryana,"1,00,200","41,200",7.4,7.1,7.6,7.4,7.5,7.1,7.7,T3
+291,"Amity University, Gurgaon ",Haryana,"2,30,000","1,56,000",7.7,7.8,7.1,7.6,8.6,7.1,8.1,T3
+292,National Institute of Technical Teachers Training and ,Haryana,"44,696","24,500",7.7,7.7,6.7,8.6,7.7,7.7,8,T2
+293,"IILM University, Gurgaon ",Haryana,"3,30,000","4,30,000",8.4,8.2,7.4,8.5,8.6,8.6,8.8,T3
+294,"University Institute of Engineering and Technology -[UIET], ",Haryana,"82,197","16,160",7.4,7.5,7.5,7.4,7,7,8.2,T3
+295,"Starex University, Gurgaon ",Haryana,"80,000","40,000",8.8,9.1,9.1,8.7,8.6,8.5,8.7,T3
+296,Indian Institute of Information Technology ,Haryana,"1,57,800",--,8.8,9.2,8.9,8.6,8.8,9.1,8.2,T2
+297,"SRM University Delhi NCR, Sonepat ",Haryana,"2,72,000","1,67,250",7.8,8,7.5,7.9,8.1,7.6,7.9,T3
+298,"Lingaya's Vidyapeeth, Faridabad ",Haryana,"1,34,500","84,500",7.8,8,7.5,8.1,7.7,7.3,8.1,T3
+299,Modern Vidya Niketan ,Haryana,"1,35,000","95,000",7,7.2,6.4,7.7,7,6.8,6.8,T4
+300,Delhi Technical Campus ,Haryana,"69,500",--,8.2,8.2,8.1,8.4,8,8.2,8.5,T3
+301,Chandigarh College of Engineering and Technology ,Haryana,"64,240",--,6.9,7.2,6.4,7.1,6.9,6.5,7.3,T4
+302,Manav Rachna University ,Haryana,"2,44,000","1,16,000",7.8,7.6,7.5,7.7,8.8,7.3,7.9,T3
+303,Seth Jai Parkash Mukand Lal Institute of ,Haryana,"89,090",--,7.3,7.5,7.2,7.2,7.4,6.8,7.4,T4
+304,"Sushant University / Ansal University, Gurgaon ",Haryana,"2,41,120","1,37,120",7.8,8,8,7.9,8.4,7,7.5,T3
+305,"University Institute of Engineering and Technology, Maharshi ",Haryana,"74,288","84,288",7.2,7.1,7.5,6.6,8.6,5.7,7.7,T3
+306,St. Andrews Institute of Technology and Management ,Haryana,"92,000",--,8.7,8.8,8.6,8.7,9,8.6,8.6,T3
+307,Indian Institute of Technology ,Gujarat,"2,58,500","2,00,000",8.4,8.3,8.4,8.8,9.1,7.2,8.8,T1
+308,Sardar Vallabhbhai National Institute of Technology ,Gujarat,"1,50,000","95,000",8,7.9,7.8,7.6,8.2,7.9,8.4,T2
+309,Dhirubhai Ambani Institute of Information and Communication ,Gujarat,"1,54,000","1,97,000",8.7,8.8,8,8.4,8.7,9.2,8.8,T3
+310,"Institute of Technology, Nirma University, Ahmedabad ",Gujarat,"1,97,200","2,64,000",8.3,8.3,7.9,8.3,8.9,8,8.3,T3
+311,"Faculty of Technology and Engineering, Maharaja Sayajirao ",Gujarat,"7,640","8,340",8.1,8.4,6.6,8.5,8,8.3,8.8,T3
+312,Nirma University ,Gujarat,"1,97,200","2,65,000",8.4,8.6,8,8.4,9.1,8.1,8.2,T3
+313,Pandit Deendayal Petroleum University [PDPU] / (Energy ,Gujarat,"2,53,000","1,54,000",8.6,8.3,8.3,8.1,9.4,8.1,9.4,T3
+314,"Pandit Deendayal Petroleum University, School of Technology ",Gujarat,"2,53,000","1,54,000",8.6,8.4,8.3,8.1,9.4,7.9,9.3,T3
+315,Central Institute of plastics engineering & Technology- ,Gujarat,"65,000","77,000",7.5,7.6,6.8,7.5,7.9,7.5,7.5,T4
+316,Sardar Patel University ,Gujarat,--,--,7.8,8.6,7,8.5,7.7,7.3,7.8,T3
+317,"CEPT University, Ahmedabad ",Gujarat,"1,98,000","3,20,000",8.2,8.6,7.7,8.4,8.3,8.1,8,T3
+318,Ganpat University ,Gujarat,"1,08,000","43,000",8.1,8.2,7.2,8.1,8.5,7.8,8.6,T3
+319,"Indus University, Ahmedabad ",Gujarat,"96,000","1,26,000",7.5,7.9,7,7.7,7.8,6.8,7.9,T4
+320,Navrachana University ,Gujarat,"1,14,000","1,12,000",7.7,7.7,7.4,8.2,8,7.2,7.8,T4
+321,Indian Institute of Information Technology Vadodara ,Gujarat,"1,79,720","1,06,720",7.8,8.2,7.5,7.8,6.3,8.5,8.2,T2
+322,"Uka Tarsadia University, Bardoli ",Gujarat,"94,000","44,000",8.1,7.8,7.9,8.2,9.4,6.9,8.3,T3
+323,"GSFC University, Vadodara ",Gujarat,"1,21,250",--,8.1,8.8,6.4,8.7,8.5,7.9,8.4,T3
+324,"Auro University, Surat ",Gujarat,"1,21,000",--,8.3,8.2,8.5,8.6,8.7,7.2,8.6,T3
+325,L.D. College of Engineering ,Gujarat,"2,860","5,730",8.1,8.4,7.3,8.2,7.9,8.5,8.5,T3
+326,RK University ,Gujarat,"76,500","50,000",8.5,9,7.9,8.6,9,7.8,8.5,T3
+327,Institute of Infrastructure Technology Research and Management ,Gujarat,"29,100","89,500",7.6,8.3,7.3,8.4,7.9,6.9,6.5,T4
+328,Indian Institute of Information Technology ,Gujarat,"1,47,000",--,7.9,8.4,8.5,7.8,7.5,6.5,8.4,T2
+329,"C. U. Shah University, Wadhwan ",Gujarat,"77,800","1,03,800",7.7,7.6,7,8.2,7.8,7.4,7.9,T4
+330,"P.P. Savani University, Surat ",Gujarat,"1,11,500","98,500",9.3,9.4,8.9,9.5,9.6,8.7,9.4,T3
+331,Vishwakarma Government Engineering College ,Gujarat,"1,500","7,500",7.9,8.2,7.2,8.1,8.6,7.1,8.1,T4
+332,Dharmsinh Desai University ,Gujarat,"1,52,000","1,40,000",7.7,8.5,7,8.3,7.1,8.1,6.9,T4
+333,Thapar Institute of Engineering and Technology ,Punjab,"3,24,800","2,00,600",8.3,8,8.1,7.7,8.9,8.2,8.8,T3
+334,Indian Institute of Technology ,Punjab,"2,19,800","39,970",8.5,8.5,8.1,8.2,9.1,8.4,8.9,T1
+335,Panjab University ,Punjab,"96,300","27,500",7.7,8.2,7.7,8,7.7,6.5,8.2,T3
+336,Punjab Engineering College University of Technology ,Punjab,"96,750","93,500",8,7.9,7.3,7.6,7.7,8.4,9,T3
+337,I.K. Gujral Punjab Technical University ,Punjab,"88,750","83,150",8.1,8,7.4,8.7,8.3,7.7,8.7,T3
+338,Dr BR Ambedkar National Institute of Technology ,Punjab,"6,76,000","2,28,000",7.9,8,7.7,7.6,8,8,8.3,T2
+339,"University Institute of Engineering, Chandigarh University ",Punjab,"1,60,000","80,000",8.4,8.6,7.9,8.1,8.7,8.7,8.3,T3
+340,Sant Longowal Institute of Engineering and Technology ,Punjab,"81,000","58,000",7.6,7.7,7.1,7.5,8.4,6.5,8.1,T2
+341,Chitkara University ,Punjab,"6,66,000",--,8.5,8.4,7.7,8.5,8.9,8.7,8.7,T3
+342,Chandigarh Group of Colleges ,Punjab,"94,000","95,000",8.1,8,7.4,8,8.3,8.6,8.4,T4
+343,"RIMT University, Gobindgarh ",Punjab,"1,35,000","76,500",7.6,7.9,7.3,7.8,8,6.7,7.8,T3
+344,National Institute of Technical Teachers Training and ,Punjab,"44,696","24,500",7.7,7.7,6.7,8.6,7.7,7.7,8,T2
+345,"Guru Kashi University, Bathinda ",Punjab,"92,680","92,100",7.5,7.4,7.2,8,7.2,7.2,7.8,T3
+346,"University Institute of Engineering and Technology -[UIET], ",Punjab,"82,197","16,160",7.4,7.5,7.5,7.4,7,7,8.2,T3
+347,"Rayat Bahra University, Mohali ",Punjab,"1,00,000","40,000",7.7,7.8,7.4,8,7.7,7.4,7.6,T3
+348,"DAV University, Jalandhar ",Punjab,"1,36,000","87,500",7.9,8.4,7,8.4,7,8,8.5,T3
+349,"Plaksha, Mohali ",Punjab,"6,90,000","12,70,000",--,--,--,--,--,--,--,T3
+350,Chandigarh Engineering College ,Punjab,"94,000","95,000",7.9,7.8,7.3,7.7,8.2,8.5,8,T4
+351,Sant Baba Bhag Singh University ,Punjab,"82,500","1,03,300",8.5,9,8.2,8.6,8,8.5,8.6,T3
+352,Chandigarh College of Engineering and Technology ,Punjab,"64,240",--,6.9,7.2,6.4,7.1,6.9,6.5,7.3,T4
+353,"Global Institute, Amritsar ",Punjab,"3,18,000","1,25,000",8.3,8,8.2,8.7,8.8,7.9,8.3,T4
+354,"Maharaja Ranjit Singh Punjab Technical University, Bathinda ",Punjab,"1,70,600","85,600",8.2,8.6,7.8,8.4,8.2,8.1,8.2,T3
+355,Amritsar College of Engineering and Technology ,Punjab,"4,03,024","1,43,623",7.4,7.3,6.7,7.6,7.7,7.3,7.7,T4
+356,Guru Nanak Dev Engineering College ,Punjab,"98,689","90,574",7.7,7.9,7.2,7.8,7.9,7.4,7.9,T3
+357,Sri Guru Granth Sahib World University ,Punjab,"1,04,000","68,000",8.8,8.6,9,9,9.1,8.4,8.7,T3
+358,Baba Banda Singh Bahadur Engineering College ,Punjab,"90,000","90,000",8.1,8.3,7.6,8.6,8.8,7,8,T4
+359,Indian Institute of Technology ,West bengal,"82,070","2,31,500",8.5,8.8,7.2,8.2,8.9,8.8,9,T1
+360,Jadavpur University ,West bengal,"2,400","24,000",8.4,9,7.6,8.5,8.1,8.4,9,T1
+361,Indian Institute of Engineering Science and Technology ,West bengal,"70,000","81,500",8,8.3,7.7,7.9,7.9,7.5,8.4,T2
+362,National Institute of Technology ,West bengal,"1,49,100","94,100",7.7,8,6.8,7.8,7.5,7.8,8.4,T2
+363,Institute of Engineering and Management ,West bengal,"1,68,400",--,7.5,8.2,6.5,8,6.7,8.4,7.2,T4
+364,Heritage Institute of Technology ,West bengal,"1,16,200","1,31,100",7.8,7.9,7,7.8,8.4,7.6,8.2,T3
+365,Maulana Abul Kalam Azad University of Technology ,West bengal,"49,000","81,200",7.7,8.1,6.9,8,7.8,7.7,7.6,T3
+366,Narula Institute of Technology ,West bengal,"1,29,800","1,22,600",8,8.5,7.2,8.2,8.3,7.8,8,T3
+367,Haldia Institute of Technology ,West bengal,"1,16,350","1,04,600",7.8,7.9,7.2,7.5,8.5,7.2,8.3,T3
+368,"Amity University, Kolkata ",West bengal,"2,07,000","1,58,000",8.2,8.1,7.7,8.4,8.8,7.4,8.5,T3
+369,"Techno India University, Kolkata ",West bengal,"89,200","2,01,000",8,8.2,7.4,8.2,8.1,7.8,8.4,T3
+370,"Adamas University, Kolkata ",West bengal,"1,72,800","1,34,850",8.2,8.3,7.5,8.5,9,7.8,7.8,T3
+371,Sister Nivedita University ,West bengal,"1,49,500","1,49,500",8.2,8.2,7.6,8.9,7.9,7.8,8.7,T3
+372,Asansol Engineering College ,West bengal,"1,34,068","1,08,100",7.8,8.1,7.2,7.8,8.4,7.6,7.7,T3
+373,University of Engineering and Management ,West bengal,"1,61,200","1,50,000",8.1,8.6,7.2,8.5,7.9,8.8,7.7,T3
+374,JIS College of Engineering ,West bengal,"1,29,800","1,22,600",7.9,8.1,7.2,8.4,8.1,7.8,8,T3
+375,Kalyani Government Engineering College ,West bengal,"16,155","17,855",7.9,8.1,7.6,8,7.8,7.4,8.4,T3
+376,Indian Institute of Information Technology ,West bengal,"17,120","2,02,020",6.8,7.6,6.4,7.2,6.1,7,6.5,T2
+377,The Neotia University ,West bengal,"1,44,000","98,000",8.2,8.7,7.5,8.5,8.2,7.8,8.6,T3
+378,Bengal Institute of Technology ,West bengal,--,--,7.4,7.9,6,7.5,7.1,7.7,8.2,T4
+379,Siliguri Institute of Technology ,West bengal,"3,93,000","54,000",7.8,7.9,7.1,8,8.3,7.2,8.2,T3
+380,"University Institute of Technology, University Of Burdwan ",West bengal,"71,200","26,000",6.5,7,5.9,7.2,6.6,5.4,6.6,T4
+381,Jalpaiguri Government Engineering College ,West bengal,"14,877","51,916",7.8,7.8,7.9,7.8,7.4,7.3,8.8,T3
+382,"Techno India Salt Lake, Kolkata ",West bengal,"4,83,800","2,73,000",7.5,7.9,6,7.8,7.5,7.6,8.3,T3
+383,Bengal College of Engineering and Technology ,West bengal,"1,03,600","1,12,500",7.1,7.2,6.6,7.2,8,6.1,7.5,T4
+384,Dr. B.C. Roy Engineering College ,West bengal,"1,08,980","1,19,000",7.7,7.9,7.3,7.7,8.1,7.2,7.8,T3
+385,Bengal College of Engineering ,West bengal,"98,500",--,5.7,6.3,5.9,6,5.4,5.1,5.3,T4
+386,Seacom Skills University ,West bengal,"82,000","80,000",7.5,8.4,6.4,8.9,7.4,6.7,7.3,T3
+387,National Institute of Technology ,Orissa,"2,25,500","1,60,500",8.4,8.3,7.9,7.8,9.1,8.2,8.9,T2
+388,Indian Institute of Technology ,Orissa,"2,28,676","2,33,884",7.8,8.1,8,8,7.8,7.8,7.2,T1
+389,Institute of Technical Education and Research ,Orissa,"2,50,000","1,50,000",8.2,8.4,7.4,8.2,8.6,8.3,8,T3
+390,"C. V. Raman Global University, Bhubaneswar ",Orissa,"1,19,000","97,000",7.6,7.9,7,7.5,8.2,7.5,7.6,T3
+391,Veer Surendra Sai University of Technology ,Orissa,"91,280","91,140",7.9,8.2,7.7,7.9,7.4,7.7,8.4,T3
+392,Biju Patnaik University of Technology ,Orissa,--,--,6.2,6.1,6.7,6.4,6.8,4.8,6.1,T4
+393,Centurion University of Technology and Management ,Orissa,"1,00,000","40,000",8.1,8.3,7.6,8.5,8.4,7.4,8.5,T3
+394,International Institute of Information Technology ,Orissa,"2,01,100","1,76,150",7.7,8,6.9,7.6,7.8,7.7,8.2,T2
+395,"Indira Gandhi Institute of Technology- [IGIT], Dhenkanal ",Orissa,"34,500","34,500",7.8,8,8.3,7.9,7.7,6.7,8.4,T3
+396,Silicon Institute of Technology ,Orissa,"6,00,000","2,70,000",7.7,8.5,7,8.1,7.3,7.7,7.5,T4
+397,Silicon Institute of Technology ,Orissa,"3,80,000",--,7.7,8.3,7.4,7.9,8.8,6.6,7.4,T4
+398,Xavier University ,Orissa,"3,08,000","2,17,000",8.2,8.7,7.8,8.4,9.2,6.8,8.4,T3
+399,Bhubaneswar Engineering College ,Orissa,"2,52,000",--,7.5,7.2,7.5,7.7,7.7,7.3,7.8,T4
+400,College of Engineering ,Orissa,"2,92,000","1,60,000",6.7,7.5,5.9,7,6.9,6,6.7,T4
+401,National Institute of Science and Technology ,Orissa,"1,21,500","80,000",7.9,8.2,7.1,8.1,8.1,7.8,7.9,T4
+402,College of Engineering and Technology ,Orissa,"2,35,000","1,22,000",7.7,8,7.6,7.6,7.1,7.9,8.1,T3
+403,Gandhi Institute for Technology ,Orissa,"81,000","41,500",7.4,7.9,6.4,7.7,7.8,6.6,7.7,T4
+404,Orissa Engineering College ,Orissa,"86,500",--,7.5,7.6,7,7.4,7.7,7.3,7.8,T4
+405,Parala Maharaja Engineering College ,Orissa,"33,400","33,400",7.3,7.7,7.5,7.6,7.6,5.7,7.7,T3
+406,"CSIR-Institute of Minerals and Materials Technology -[CSIR-IMMT], ",Orissa,--,--,7,6.3,5.3,7.8,7.3,7.3,7.7,T3
+407,GITA Autonomous College ,Orissa,"1,08,000","91,300",8.7,9,8.3,8.9,8.8,8.3,8.6,T3
+408,"Seemanta Engineering College, Mayurbhanj ",Orissa,"2,20,000","1,20,000",8,8.2,8,8.6,8.6,7,7.7,T3
+409,"Trident Academy of Technology, Bhubaneswar ",Orissa,"1,08,300","72,000",8,8.3,7.5,8.3,8.1,7.9,7.9,T3
+410,"Government College of Engineering, Kendujhar ",Orissa,"1,40,000",--,7,7.8,7.6,7.4,6.9,5.1,7.3,T3
+411,CIPET: Centre for Skilling and Technical Support ,Orissa,"32,680","76,210",6.7,7,6.1,6.4,7.7,6.9,6.1,T4
+412,"Vignan Institute of Technology And Management, Berhampur ",Orissa,"58,000",--,7.7,8.7,7.9,8.4,7.6,5.9,7.6,T4
+413,Krupajal Engineering College ,Orissa,"72,000","79,000",6.3,6.6,6.3,6.5,6.9,4.9,6.5,T4
+414,Indian Institute of Technology ,Uttarakhand,"2,21,700","23,250",8.4,8.5,7.6,7.9,9,8.6,8.9,T1
+415,"Graphic Era University, School of Engineering and ",Uttarakhand,"2,36,400","1,21,000",8.2,8.3,7.7,8,8.6,8.8,8,T3
+416,"College of Technology, GB Pant University of ",Uttarakhand,"65,344","46,244",7,7.1,6.7,6.9,7.3,6,7.7,T3
+417,University of Petroleum and Energy Studies ,Uttarakhand,"16,04,500","5,57,250",8.1,8.1,7.8,7.9,8.6,7.7,8.2,T3
+418,"Doon University, Dehradun ",Uttarakhand,"34,750",--,7.2,7.3,7,7.3,7.9,6.3,7.6,T3
+419,DIT University ,Uttarakhand,"2,00,000","1,20,000",7.8,7.9,7.6,7.6,8.4,7.4,8,T3
+420,Graphic Era University ,Uttarakhand,"3,23,400","92,900",8.3,8.2,7.9,8.4,8.6,8.1,8.4,T3
+421,Graphic Era Hill University ,Uttarakhand,"2,75,600","79,600",8.1,7.9,7.8,8.1,8.4,7.7,8.4,T3
+422,"ICFAI University, Dehradun ",Uttarakhand,"1,56,000","1,40,000",7.8,8.2,7.5,8.2,7.4,7.3,7.9,T3
+423,"MotherHood University, Roorkee ",Uttarakhand,"71,650",--,8,8.3,7.9,7.6,8,8,8.3,T3
+424,Himgiri Zee University ,Uttarakhand,"90,000","80,000",7.9,8.5,5.5,9,8,7.7,8.8,T3
+425,Swami Rama Himalayan University ,Uttarakhand,"2,12,250","84,000",7,7.1,6.6,6.9,7.4,7.1,6.7,T3
+426,"Tula's Institute, Dehradun ",Uttarakhand,"1,12,500","91,500",7.8,8,7.2,7.7,8.5,7.4,8.2,T4
+427,THDC Institute of Hydro Power Engineering and ,Uttarakhand,"73,500",--,6.9,6.8,6.4,7.4,7.8,5.6,7.2,T4
+428,College of Engineering ,Uttarakhand,"1,36,150","1,19,150",8.3,8.4,8.1,8.1,8.7,7.5,8.8,T4
+429,Shivalik College of Engineering ,Uttarakhand,"1,01,400","46,400",7.2,7.1,7.1,7.3,7.2,7.1,7.3,T4
+430,Women Institute of Technology ,Uttarakhand,"75,500",--,7.9,9,7.4,9,7.2,6.7,8.3,T4
+431,Indian Institute of Aeronautical Engineering ,Uttarakhand,"3,00,000","3,00,000",8.3,7.5,8.5,8.5,9,8,8,T4
+432,Indira Gandhi National Forest Academy ,Uttarakhand,"1,84,500",--,8.7,9,9,8,9,9,8,T4
+433,"Bipin Tripathi Kumaon Institute of Technology, Almora ",Uttarakhand,"71,150","82,250",6.4,6.8,6.2,6.6,7.3,4.6,6.8,T4
+434,Govind Ballabh Pant Engineering College ,Uttarakhand,"69,015","80,015",6.4,7.1,6,6.1,7.3,5.1,7,T4
+435,BFIT Group of Institutions ,Uttarakhand,"35,000",--,7.5,7.7,7.1,7.7,7.6,7.1,8,T4
+436,Dev Bhoomi Institute of Technology ,Uttarakhand,"1,19,700","92,000",7.2,7.1,6.5,7.5,7.4,7.5,7.2,T4
+437,Graphic Era Hill University Bhimtal Campus ,Uttarakhand,"2,75,600","1,30,600",8.1,8.2,7.6,7.9,8.8,7.8,8,T3
+438,Indian Institute of Technology ,Assam,"2,19,350","2,01,800",8.6,8.6,8.2,8.1,9.1,8.4,8.9,T1
+439,National Institute of Technology ,Assam,"1,47,640","35,240",8.1,8.1,7.6,7.7,8.3,8.2,8.7,T2
+440,Indian Institute of Information Technology ,Assam,"2,25,000","2,00,000",7.6,8.6,7,7.9,7.9,7.5,6.5,T2
+441,Central Institute of Technology ,Assam,"1,11,200","67,200",7,7.4,5.5,7.7,8.2,5.3,8,T2
+442,Assam Don Bosco University ,Assam,"1,57,000","1,49,000",7.8,8.3,7.8,8.1,8.8,6.4,7.3,T3
+443,Assam Engineering College ,Assam,"11,000",--,7.5,8,7.5,7.5,6.7,7,8.3,T3
+444,Jorhat Engineering College ,Assam,"11,000",--,7.7,8.3,7.4,7.9,7.8,7.1,7.9,T3
+445,Assam Science and Technology University ,Assam,"21,000",--,7.8,7.9,7.6,8,7.7,7.6,7.9,T3
+446,Assam Down Town University ,Assam,"1,30,000",--,8.2,8.4,7.6,8.4,8.2,7.8,8.6,T3
+447,"Girijananda Chowdhury Institute of Management & Technology, ",Assam,"1,44,000","90,000",7.3,8,6.2,8.3,6.7,6.4,8,T4
+448,Assam Engineering Institute ,Assam,"2,130",--,8.6,--,--,--,--,--,--,T3
+449,"Bineswar Brahma Engineering College- [BBEC], Kokrajhar ",Assam,"12,800",--,7.3,7.8,6.7,7.2,7,7.2,7.7,T4
+450,Jorhat Institute of Science and Technology ,Assam,--,--,6.4,7.6,6.3,7.2,5.5,5.2,6.4,T4
+451,NETES Institute of Technology and Science ,Assam,"90,000",--,6.8,7,7,7,6,7,7,T4
+452,Don Bosco College of Engineering and Technology ,Assam,"1,57,000","1,14,000",8.5,9.3,7.7,9,9.3,7.3,8.3,T3
+453,"Tezpur University, School of Engineering Tezpur, Sonitpur ",Assam,"47,186","38,186",8.1,8.7,7.7,8.3,8.7,6.7,8.3,T3
+454,Barak Valley Engineering College ,Assam,--,--,6.2,7,5.3,6,7.8,4.6,6.6,T4
+455,Assam Institute of Technology ,Assam,--,--,8.9,9,9,9,9,8.5,8.8,T3
+456,Royal Global University ,Assam,"1,42,000","75,000",7.6,7.8,6.6,8,9,6.5,7.7,T3
+457,Royal School of Engineering and Technology ,Assam,"1,42,000","75,000",6.2,5.8,7.3,5.8,7.5,4,6.8,T4
+458,Scholar's Institute of Technology and Management ,Assam,"1,25,000",--,5.5,7,4.5,7.5,8,3,3,T4
+459,"Dibrugarh University, Dibrugarh ",Assam,"1,10,130","62,380",7.8,7.9,7.7,8,8.4,6.5,8.2,T3
+460,Tezpur University ,Assam,"58,186","42,186",8,8.2,8,7.9,8.8,6.7,8.5,T3
+461,"B. Borooah College, Guwahati ",Assam,--,--,7.6,8.2,7.3,8.6,7.5,5.8,8.2,T3
+462,Gauhati University ,Assam,"40,950","27,900",8.2,8.4,7.5,8.7,8.4,7.2,8.7,T3
+463,"Pragjyotish College, Guwahati ",Assam,"24,000",--,6.5,7.3,5.8,7.6,7.3,4.3,6.9,T4
+464,"Duliajan College, Dibrugarh ",Assam,--,--,8.7,8.7,9,9,8.7,8.7,8.3,T3
+465,"Assam University, Silchar ",Assam,"59,375","44,375",7.5,7.8,6.5,8,7.6,6.6,8.4,T3
+466,Kaziranga University ,Assam,"1,30,500","90,500",7.5,7.3,6.7,8.1,7.4,7.2,8.1,T3
+467,Dibrugarh Polytechnic ,Assam,"7,600",--,2,--,--,1,--,1,4,T4
+468,Indian Institute of Technology ,Bihar,"2,23,100","43,600",8,8.4,7.1,8.1,8.2,7.9,8.2,T1
+469,National Institute of Technology ,Bihar,"1,65,700","1,09,200",7.7,7.9,6.9,7.9,7.3,8,8,T2
+470,"Sandip University, Madhuban ",Bihar,"1,60,000","1,17,600",8.4,8.2,9,8.6,7.6,8.2,8.5,T3
+471,Government Engineering College ,Bihar,"1,00,000",--,8.5,8.8,9,8.4,9,7.8,8.2,T3
+472,"Amity University, Patna ",Bihar,"1,59,000",--,7.8,8.5,7.2,7.8,7.7,7.8,7.9,T3
+473,Aryabhatta Knowledge University ,Bihar,"42,000","42,000",8,8.7,7.1,8.1,8.3,7.6,8.1,T3
+474,Bhagalpur College of Engineering ,Bihar,"1,12,500",--,7.5,8.1,7.8,7.9,7.2,6,8,T3
+475,Birla Institute of Technology ,Bihar,"2,95,000","2,31,000",7.2,7.3,8,6.5,7.4,6.7,7.2,T4
+476,"Gaya College of Engineering, Gaya ",Bihar,"1,00,000",--,7.1,7.8,7.5,7.3,7,5.3,7.7,T4
+477,Netaji Subhas Institute of Technology ,Bihar,"1,08,300","67,700",7,7.4,6.6,7.8,7.2,5.8,7.2,T4
+478,Muzaffarpur Institute of Technology ,Bihar,"1,00,000",--,7.1,7.3,6.8,7.6,7.2,6.2,7.4,T4
+479,Nalanda College of Engineering ,Bihar,"12,920","22,230",8.1,8.3,8.1,8.2,8.2,7.5,8,T3
+480,Bakhtiyarpur College of Engineering ,Bihar,--,--,7.7,7.9,8.2,7.5,8.2,6.5,8,T3
+481,Darbhanga College of Engineering ,Bihar,"29,130",--,6.7,7.1,7.5,7.9,6.3,4.6,6.7,T4
+482,Motihari College of Engineering ,Bihar,--,--,6.7,7.5,7.4,8,6.2,4.7,6.1,T4
+483,Central Institute of Plastics Engineering and Technology ,Bihar,"35,750","42,350",7.5,7.7,5.7,8.4,6.7,8.4,7.9,T2
+484,Loknayak Jai Prakash Institute Of Technology ,Bihar,--,--,7.9,8.6,7.5,8.5,8.3,6.3,8.1,T3
+485,Purnea College of Engineering ,Bihar,--,--,8.5,9,8.7,8,--,--,--,T3
+486,Katihar Engineering College ,Bihar,--,--,7.5,8.2,6.3,8.7,7,7,7.7,T3
+487,Saharsa College of Engineering ,Bihar,--,--,7.7,8.7,7.8,8.7,8,6,7.2,T3
+488,Supaul College of Engineering ,Bihar,--,--,6.5,7,5,8,8,6,5,T4
+489,Millia Institute of Technology ,Bihar,"81,050",--,6.9,8.2,6.3,7,7.2,5.5,7.2,T4
+490,"Sityog Institute of Technology, Aurangabad ",Bihar,"1,11,000","95,600",7.3,8,7.6,7.5,7.4,6.2,7,T4
+491,Vidya Vihar Institute of Technology ,Bihar,"75,000",--,7,7.5,6,7,7.8,6.8,6.8,T4
+492,Shershah College of Engineering ,Bihar,"5,000",--,7.6,8.5,6.3,8.8,7.9,6.5,7.6,T3
+493,"RP Sharma Institute of Technology, Patna ",Bihar,"85,000","65,000",6.8,7.9,6.6,7.7,7.3,5.1,6.1,T4
+494,Sitamarhi Institute of Technology ,Bihar,--,--,5.6,6.7,4.4,7,6.5,4.7,4.3,T4
+495,Government Engineering College ,Bihar,--,--,5.3,--,--,6,--,3,7,T4
+496,Maulana Azad College of Engineering and Technology ,Bihar,"70,000",--,5.4,6.3,4,6.8,6.2,3.5,5.5,T4
+497,Rashtrakavi Ramdhari Singh Dinkar College of Engineering ,Bihar,"2,630",--,6.5,7.6,5.3,7.1,7.4,4.7,6.9,T4
+498,National Institute of Technology ,Chhattisgarh,"1,38,000","83,000",7.4,7.8,6.4,7.5,7,7.7,8.1,T2
+499,Indian Institute of Technology ,Chhattisgarh,"2,35,300","2,33,000",7.7,8.1,6.6,7.8,7,7.6,8.8,T1
+500,"Amity University, Raipur ",Chhattisgarh,"1,08,000","94,000",7.8,7.8,8.3,8,8,6.3,8.2,T3
+501,International Institute of Information Technology ,Chhattisgarh,"1,80,150","1,50,150",8.2,8.1,8.6,7.6,8.7,7.6,8.6,T2
+502,"ITM University, Raipur ",Chhattisgarh,"1,20,000","83,000",7.4,8,6.4,7,8.3,7.2,7.6,T4
+503,Bhilai Institute of Technology ,Chhattisgarh,"77,750","72,400",7.3,7.7,6.7,7.6,7.7,6.4,7.5,T4
+504,Bhilai Institute of Technology ,Chhattisgarh,"32,810","79,214",7.5,8.4,6.4,8.3,7.5,6.9,7.3,T3
+505,"Govt Engineering College, Bilaspur ",Chhattisgarh,"12,725",--,6.9,7.8,6.5,7.7,6.9,5.5,6.9,T4
+506,OP Jindal University ,Chhattisgarh,"1,31,000","1,39,000",8.9,9.1,8.3,9,9.5,8.4,9,T3
+507,Lakhmi Chand Institute of Technology ,Chhattisgarh,"71,230",--,7.2,7.9,6.4,7.6,8.3,5.1,7.6,T4
+508,"ICFAI University, Raipur ",Chhattisgarh,"1,00,000",--,8.6,8.6,8.4,8.8,8.8,8.6,8.4,T3
+509,Raipur Institute of Technology ,Chhattisgarh,"2,73,000","1,21,000",8,8.6,7.4,7.5,8.5,8,7.7,T3
+510,Shri Shankaracharya Institute of Professional Management and ,Chhattisgarh,"73,880","56,050",8,8.3,7.7,8.6,7.8,7.7,7.9,T3
+511,Chhatrapati Shivaji Institute of Technology ,Chhattisgarh,"75,000","67,440",7.2,7.7,6,7.1,8.2,6.9,7.2,T4
+512,Shri Rawatpura Sarkar University ,Chhattisgarh,"40,600","50,200",8.5,9,8,8.5,8.5,8.5,8.5,T3
+513,Government Engineering College ,Chhattisgarh,"82,780",--,6,6.6,5.3,6.2,6.9,4.6,6.2,T4
+514,Columbia Institute of Engineering and Technology ,Chhattisgarh,"59,940","35,312",8.1,8.7,7.3,8.3,8,8.7,7.7,T3
+515,AAFT University of Media and Arts ,Chhattisgarh,--,--,--,--,--,--,--,--,--,T3
+516,Chouksey Engineering College ,Chhattisgarh,"72,230","69,750",8,8.2,8.3,8.1,8,7,8.5,T3
+517,Christian College of Engineering and Technology ,Chhattisgarh,"76,900","66,400",6.8,7.6,6.7,7.2,7.4,5.8,5.8,T4
+518,Chhattisgarh Engineering College ,Chhattisgarh,"60,000","30,000",5.8,6.3,5,6.3,6,5,6,T4
+519,Disha Institute of Management and Technology ,Chhattisgarh,--,--,8.1,8,8.8,7.9,9.7,6.3,8,T3
+520,Rungta College of Engineering and Technology ,Chhattisgarh,"76,100","69,750",7.7,8.2,7.3,7.7,8.2,8.2,6.7,T3
+521,"Kirodimal Institute of Technology, Raigarh ",Chhattisgarh,"31,500",--,7,8,6,7,7,7,7,T4
+522,Krishna Engineering College ,Chhattisgarh,"75,200",--,7.4,9,5.5,8.7,8,6.6,6.4,T4
+523,RSR Rungta College of Engineering and Technology ,Chhattisgarh,"75,100","60,000",7.5,7.7,7.5,7.2,7.5,7.3,7.6,T3
+524,Shri Shankaracharya Group of Institutions ,Chhattisgarh,"2,83,000","36,525",7.6,7.7,7.2,7.5,7.9,7,8.1,T3
+525,Indian Institute of Technology ,Jharkhand,"2,27,500","59,400",8.3,8.6,7.8,7.8,8.5,8.3,8.6,T1
+526,Birla Institute of Technology ,Jharkhand,"2,85,000","2,44,000",8.1,8.3,7.6,7.9,8.3,8.1,8.4,T3
+527,National Institute of Technology ,Jharkhand,"1,88,000","1,03,000",7.8,7.4,8.2,7.2,6.9,8.6,8.5,T2
+528,Birsa Institute of Technology ,Jharkhand,"20,362","21,562",7.7,8,7.7,7.7,7.6,7.2,7.7,T3
+529,"RKDF University, Ranchi ",Jharkhand,"1,10,000","1,07,500",--,--,--,--,--,--,--,T3
+530,YBN University ,Jharkhand,"69,600","84,500",8.2,8.5,7.5,8.5,8,8.3,8.4,T3
+531,Indian Institute of Information Technology ,Jharkhand,"1,30,000","90,000",7.9,8.1,8.2,7.8,7.6,7.5,8.3,T2
+532,"Sai Nath University, Ranchi ",Jharkhand,"53,000",--,6.8,7.4,6.7,6.8,6.9,6.9,6.3,T4
+533,National Institute of Foundry & Forge Technology ,Jharkhand,"47,450","49,450",8.4,8.1,7.9,8.5,8.4,8.8,8.4,T3
+534,"Arka Jain University, Jamshedpur ",Jharkhand,"93,000","53,000",8.1,8.1,7.7,8.1,8,7.5,9,T3
+535,"Amity University, Ranchi ",Jharkhand,"1,35,000",--,7.8,8.2,7.5,8.5,7.2,7,8.2,T3
+536,Jharkhand Rai University ,Jharkhand,"85,000","95,000",7.7,8,7.5,8.8,7.3,6.9,7.8,T3
+537,Netaji Subhas University ,Jharkhand,"50,000","50,000",9,9.5,9.4,8.7,9.2,8.5,8.7,T3
+538,Radha Govind University ,Jharkhand,"60,000","40,000",8.6,8.9,8,8.7,8.9,8.4,8.5,T3
+539,Cambridge Institute of Technology ,Jharkhand,"71,250","1,07,000",5.5,5.8,5.6,6.3,5.1,4.8,5.4,T4
+540,Sarala Birla University ,Jharkhand,"1,31,200","62,200",8.5,8.6,8.3,8.4,8.8,8.4,8.2,T3
+541,Birla Institute of Technology Extension Centre ,Jharkhand,"2,85,000",--,7.8,7.8,7.5,8.1,7.1,8,8.1,T3
+542,"Chaibasa Engineering College, Techno India Group, Chaibasa ",Jharkhand,--,--,7.2,7.7,6.9,7.3,7.7,6.4,7,T4
+543,Ramgarh Engineering College ,Jharkhand,--,--,6.7,7.1,6.2,7.6,6.8,4.6,7.7,T4
+544,Capital University ,Jharkhand,"1,10,000",--,8.2,8.3,8.1,8,8.3,8.1,8.1,T3
+545,RTC Institute of Technology ,Jharkhand,"78,800","62,400",7.7,8.3,7.4,8.7,8.3,7.4,6,T3
+546,"University College of Engineering and Technology, Vinoba ",Jharkhand,"65,100",--,7,7.5,6.9,7.5,7.3,6.1,6.9,T4
+547,RVS College of Engineering and Technology ,Jharkhand,"89,400","81,000",7.7,8.1,6.5,8.1,8.3,7.5,7.8,T3
+548,"KK College of Engineering and Management, Dhanbad ",Jharkhand,"89,570","61,990",6.5,7,6.3,7.2,7.9,4.7,5.9,T4
+549,"Ramgovind Institute of Technology, Kodarma ",Jharkhand,"34,000",--,4.9,6.5,6.5,6,4,2.5,4,T4
+550,Nilai Institute of Technology ,Jharkhand,"75,000","35,000",--,--,--,--,--,--,--,T3
+551,"Maryland Institute of Technology And Management, Jamshedpur ",Jharkhand,"62,000",--,6.8,7.5,7.5,7,5.5,6.3,7,T4
+552,Ramchandra Chandarvansi Institute of Technology ,Jharkhand,"63,200",--,7.7,8,8,8,7,7,8,T3
+553,Vidya Memorial Institute of Technology ,Jharkhand,"53,400",--,7.5,8.7,6.5,7.5,8,8,6.5,T3
+554,Indian Institute of Technology ,Himachal pradesh,"2,14,000","2,16,700",7.8,7.8,8,7.7,7.5,7.5,8.1,T1
+555,National Institute of Technology ,Himachal pradesh,"1,46,100","34,050",8.2,7.9,8.1,7.7,9,7.8,8.5,T2
+556,Jaypee University of Information Technology ,Himachal pradesh,"2,19,500","1,00,000",7.9,8,8.4,7,8.7,7.9,7.6,T3
+557,Indian Institute of Information Technology ,Himachal pradesh,"2,01,400",--,7.6,7.8,8.2,7.3,7.6,7.5,7.3,T2
+558,Baddi University of Emerging Sciences and Technologies ,Himachal pradesh,"1,35,636","1,35,125",7.1,6.7,6.9,7.2,7.3,7,7.7,T4
+559,Maharishi Markandeshwar ,Himachal pradesh,"1,48,500","1,13,500",8.6,9,8.2,8.9,8.2,8.4,8.9,T3
+560,"Arni University, Kangra ",Himachal pradesh,"1,05,000","85,000",8,8.2,7.4,8.1,8.4,7.7,8.4,T3
+561,Bahra University ,Himachal pradesh,"1,20,150","80,000",7.6,7.8,7.5,8,7.7,7,7.6,T3
+562,Eternal University ,Himachal pradesh,"1,18,000","73,000",7.5,7.4,7.1,7.8,8.2,7.1,7.4,T3
+563,Abhilashi University ,Himachal pradesh,"90,000",--,8.4,8.9,8.3,8.4,8.6,8.1,8.1,T3
+564,IEC University Baddi ,Himachal pradesh,"1,18,600","88,600",7.6,7.5,7.5,7.4,7.7,8,7.5,T3
+565,"University Institute of Information Technology, Himachal Pradesh ",Himachal pradesh,"1,22,010",--,7.1,7.9,5.3,7,7.2,7.5,7.9,T4
+566,Career Point University ,Himachal pradesh,"1,05,000","83,000",7.5,7.5,7.4,7,7.6,6.6,8.6,T3
+567,Sri Sai University ,Himachal pradesh,"90,000","60,000",7.4,7.3,6.3,8.2,7.7,6.8,8,T4
+568,"Green Hills Engineering College, Solan ",Himachal pradesh,"80,700","94,700",6,6.7,4.8,6.3,7.2,4.4,6.6,T4
+569,"Rajiv Gandhi govt. Engineering college -[RGGEC], Kangra ",Himachal pradesh,"61,070",--,7.5,7.8,7.4,7.6,8.4,5.6,7.9,T3
+570,Indus International University ,Himachal pradesh,"1,20,000","1,20,000",6.8,8,7,7,6,7,6,T4
+571,Jawaharlal Nehru Government Engineering College ,Himachal pradesh,"55,000",--,6.6,7.4,5.4,7.5,6.5,5.5,7.5,T4
+572,Maharaja Agrasen University ,Himachal pradesh,"1,19,000","1,15,000",7.5,7.7,7.5,7.6,8.7,7,6.2,T3
+573,"ICFAI University, Baddi ",Himachal pradesh,"95,000",--,8,9,7,8,8,8,8,T3
+574,Himachal Institute of Engineering and Technology ,Himachal pradesh,"73,000","46,000",7.5,8.7,6.2,7.8,7.4,6.6,8,T3
+575,"LR Institute of Engineering and Technology, Solan ",Himachal pradesh,"2,96,000",--,6.4,6.5,6.5,6.5,7.5,5,6.5,T4
+576,"Himalayan Group of Professional Institutions, Sirmaur ",Himachal pradesh,"84,200","90,200",8.2,8.4,7.6,8.4,8.4,8.2,8,T3
+577,Manav Bharti University ,Himachal pradesh,"90,000",--,6.2,5.3,4.7,6.7,7,6.3,7,T4
+578,"Chitkara University, Solan ",Himachal pradesh,"1,60,000","1,20,000",8.2,8.2,7.5,8.2,8.4,8.8,8.3,T3
+579,"Bells Institute of Management & Technology, Shimla ",Himachal pradesh,"74,700","96,200",6.8,8,8,6,8,4,7,T4
+580,"Shiva Group of Institutions, Bilaspur ",Himachal pradesh,"72,200","41,600",5,5.5,4,6,4,3.5,7,T4
+581,Mahatma Gandhi Government Engineering College ,Himachal pradesh,"1,20,000",--,5.8,6.7,5.7,6.7,5.7,4,6,T4
+582,Shri Mata Vaishno Devi University ,Jammu,"1,69,750","1,03,750",7.6,7.5,7.9,7,8.3,6.7,8.3,T3
+583,National Institute of Technology ,Jammu,"5,30,000","1,60,000",6.8,7.1,6.3,7.1,6.8,6.6,6.9,T2
+584,Indian Institute of Technology ,Jammu,"1,00,266","70,500",8.3,8.9,8.8,8,7.8,7.6,8.6,T1
+585,Government College of Engineering and Technology ,Jammu,"35,830","61,200",5.7,6.5,5.3,6.3,6.2,4.6,5.1,T4
+586,Islamic University of Science and Technology ,Jammu,"66,200","2,840",7.4,8.4,6.9,8.2,8,5.5,7.2,T4
+587,SSM College of Engineering and Technology ,Jammu,--,--,6.9,7.4,6.7,7.3,7.6,4.9,7.4,T4
+588,"Yogananda College of Engineering & Technology -[YCET], ",Jammu,"1,80,000",--,5.7,6.6,5.2,6.3,6.1,4,6,T4
+589,"MBS College of Engineering and Technology, Jammu ",Jammu,"49,000",--,5.7,7.3,5,6.5,7,3.8,4.4,T4
+590,Sher-e-Kashmir University of Agricultural Sciences and Technology ,Jammu,"60,000","30,600",7.4,8.4,7.4,7.7,8,5.9,7.2,T4
+591,"Government Degree College for Boys, Udhampur ",Jammu,--,--,6.6,6.7,5.7,7,6.7,5.3,8,T4
+592,Baba Ghulam Shah Badshah University ,Jammu,"2,49,300","67,500",7.2,7.9,7.6,7.4,7.1,5.9,7.1,T4
+593,"Central University of Jammu, Jammu ",Jammu,"11,715",--,8.2,8.4,7.8,8.5,8.6,7.3,8.5,T3
+594,Central University of Kashmir ,Jammu,"55,900",--,7.8,8.2,7.8,8.4,7.2,7.4,7.6,T3
+595,University of Kashmir ,Jammu,--,--,6.7,7,6.9,7.1,7.2,5.1,6.8,T4
+596,"Govt. Gandhi Memorial Science College, Jammu ",Jammu,--,--,6.7,7.3,6.1,7.9,6.8,4.2,7.6,T4
+597,Kashmir Government Polytechnic ,Jammu,"2,130","2,130",7.5,9.5,6.5,8.5,8.5,7,5,T4
+598,Cluster University of Srinagar ,Jammu,--,--,8.2,8.7,8.3,8.1,8.3,7.2,8.5,T3
+599,Bhargava College of Engineering & Technology ,Jammu,--,--,--,--,--,--,--,--,--,T3
+600,"Government Polytechnic College -[GPC], Anantnag ",Jammu,"2,130",--,--,--,--,--,--,--,--,T4
+601,"Masterpro Institute of Technology, Srinagar ",Jammu,--,--,--,--,--,--,--,--,--,T3
+602,"Kite Polytechnic College, Budgam ",Jammu,--,--,--,--,--,--,--,--,--,T4
+603,"Government Polytechnic Kargil, Kargil ",Jammu,"2,130",--,--,--,--,--,--,--,--,T4
+604,"Government Polytechnic College, Baramulla ",Jammu,"2,130","2,130",--,--,--,--,--,--,--,T4
+605,Government Polytechnic College ,Jammu,"2,130","2,130",--,--,--,--,--,--,--,T4
+606,"Government Polytechnic For Women-[GPW], Jammu ",Jammu,"2,130",--,--,--,--,--,--,--,--,T4
+607,"Government Polytechnic College, Bandipora ",Jammu,"2,330",--,--,--,--,--,--,--,--,T4
+608,"Government Polytechnic, Kulgam ",Jammu,"4,500",--,--,--,--,--,--,--,--,T4
+609,"Government Polytechnic College, Budgam ",Jammu,"2,130",--,--,--,--,--,--,--,--,T4
+610,"Government Polytechnic College, Sopore ",Jammu,"2,130",--,--,--,--,--,--,--,--,T4
+611,Panjab University ,Chandigarh,"96,300","27,500",7.7,8.2,7.7,8,7.7,6.5,8.2,T3
+612,Punjab Engineering College University of Technology ,Chandigarh,"96,750","93,500",8,7.9,7.3,7.6,7.7,8.4,9,T3
+613,"University Institute of Engineering, Chandigarh University ",Chandigarh,"1,60,000","80,000",8.4,8.6,7.9,8.1,8.7,8.7,8.3,T3
+614,National Institute of Technical Teachers Training and ,Chandigarh,"44,696","24,500",7.7,7.7,6.7,8.6,7.7,7.7,8,T2
+615,"University Institute of Engineering and Technology -[UIET], ",Chandigarh,"82,197","16,160",7.4,7.5,7.5,7.4,7,7,8.2,T4
+616,Chandigarh College of Engineering and Technology ,Chandigarh,"64,240",--,6.9,7.2,6.4,7.1,6.9,6.5,7.3,T4
+617,Apex Institute of Technology ,Chandigarh,"2,10,000",--,--,--,--,--,--,--,--,T3
+618,"IITT Institutions, Chandigarh ",Chandigarh,"80,750","78,150",--,--,--,--,--,--,--,T3
+619,Dr. S. S. Bhatnagar University Institute of ,Chandigarh,"3,94,000","30,355",7.1,7,7.9,6.9,5.7,7.1,8,T4
+620,Swami Vivekanand Institute of Engineering & Technology ,Chandigarh,"88,960","70,000",7.6,8.3,6.9,7.4,8.1,7.4,7.2,T3
+621,"Gurukul Vidyapeeth, Chandigarh ",Chandigarh,--,--,3.5,5,3,4,3,2,4,T4
+622,"Morph Academy, Chandigarh ",Chandigarh,"1,70,000",--,8.3,9,6,9,8.5,8.5,9,T4
+623,Indo Swiss Training Centre ,Chandigarh,"51,000","51,000",8.6,8.3,8.5,9.2,8.8,8.5,8,T4
+624,"Artex Informatic Solutions, Chandigarh ",Chandigarh,--,--,--,--,--,--,--,--,--,T4
+625,Swami Vivekanand Polytechnic College ,Chandigarh,"32,840",--,--,--,--,--,--,--,--,T4
+626,"PG Government College for Girls, Chandigarh ",Chandigarh,"55,260",--,8.1,7.7,7.4,8.9,8.3,8.2,8,T4
+627,Government Industrial Training Institute ,Chandigarh,--,--,--,--,--,--,--,--,--,T4
+628,Government Polytechnic for Women ,Chandigarh,"7,225","7,225",--,--,--,--,--,--,--,T4
+629,"Longowal Polytechnic College, Chandigarh ",Chandigarh,--,--,--,--,--,--,--,--,--,T4
+630,"Universal Polytechnic College, Chandigarh ",Chandigarh,--,--,--,--,--,--,--,--,--,T4
+631,Swami Vivekanand Industrial Training Centre ,Chandigarh,"15,960",--,--,--,--,--,--,--,--,T4
+632,Swami Vivekanand Group Of Institutes ,Chandigarh,"88,960","75,000",8.5,9,7.8,--,9,8.1,--,T3
+633,National Institute of Technology ,Goa,"1,44,400","89,400",7.3,8.3,6,8.4,5.6,7.9,7.6,T2
+634,Indian Institute of Technology ,Goa,"2,29,900","32,019",8,8.4,7.9,8.5,7.9,7,8.4,T1
+635,Birla Institute of Technology and Science ,Goa,"3,99,475","3,99,475",8.5,8.4,8.3,7.8,8.7,8.7,8.9,T2
+636,Goa College of Engineering ,Goa,"59,500","57,375",7.5,7.6,6.7,7.3,8,6.7,8.6,T3
+637,"Padre Conceicao College of Engineering, Salcete ",Goa,"1,30,000","83,500",6.6,7.4,4.2,7.6,6.7,6.8,6.9,T4
+638,National Centre for Antarctic and Ocean Research ,Goa,--,--,9.2,9,9,--,--,--,--,T3
+639,"Shree Rayeshwar Institute of Engineering and Information Technology, North Goa ",Goa,"1,02,300",--,6.6,6.6,5.9,6.8,6.2,7.2,6.8,T4
+640,National Institute of Oceanography ,Goa,"14,000","14,000",8.8,9.5,8.8,8.9,9.3,8.3,8.2,T3
+641,"Goa University, North Goa ",Goa,"17,290",--,7.9,8.6,7.4,7.8,7.7,8,7.6,T3
+642,International Institute of Hotel Management ,Goa,--,--,8.7,8.5,8.5,8.9,8.5,9.1,8.6,T3
+643,"Government Polytechnic, Bicholim ",Goa,--,--,--,--,--,--,--,--,--,T4
+644,"Agnel Polytechnic, South Goa ",Goa,"37,200","37,200",--,--,--,--,--,--,--,T4
+645,"Government Polytechnic, Curchorem ",Goa,"16,000",--,--,--,--,--,--,--,--,T4
+646,Government Polytechnic ,Goa,"42,300","42,300",--,--,--,--,--,--,--,T4
+647,North Eastern Regional Institute of Science and Technology ,Arunachal pradesh,"20,470","29,640",6.9,7.8,6.7,7.2,6.5,5.1,8.3,T2
+648,National Institute of Technology ,Arunachal pradesh,"1,45,600","92,172",7.3,7.4,7.1,7.7,6.5,7.4,7.8,T2
+649,"Arunodaya University, Itanagar ",Arunachal pradesh,--,--,8.4,9,8.5,8.2,9,7.5,7.9,T3
+650,Himalayan University ,Arunachal pradesh,"81,000",--,8.6,8.6,8,8.9,9.1,8.1,9,T3
+651,Apex Professional University ,Arunachal pradesh,"70,000","87,000",7.4,7.5,7.5,7.5,7.5,7.5,7,T4
+652,Rajiv Gandhi University ,Arunachal pradesh,"19,850","16,800",7,7.4,6.6,7.7,7.6,5.4,7.2,T4
+653,Arunachal University of Studies ,Arunachal pradesh,"25,000","32,000",8.3,8.7,7.9,8.4,8.1,8.2,8.4,T3
+654,North East Frontier Technical University ,Arunachal pradesh,--,--,8.3,9,7.6,8.5,8.2,8.7,8,T3
+655,Venkateshwara Open University ,Arunachal pradesh,"10,000",--,7.9,8.3,7.3,8.5,7.5,7.8,8.2,T3
+656,"Tomi Polytechnic College, Basar ",Arunachal pradesh,"45,000",--,--,--,--,--,--,--,--,T4
+657,"Government Polytechnic Laying, Itanagar ",Arunachal pradesh,--,--,--,--,--,--,--,--,--,T4
+658,"Government Polytechnic Roing, Roing ",Arunachal pradesh,"15,050",--,--,--,--,--,--,--,--,T4
+659,Government Polytechnic ,Arunachal pradesh,"15,350",--,--,--,--,--,--,--,--,T4
+660,Rajiv Gandhi Government Polytechnic ,Arunachal pradesh,"15,350",--,--,--,--,--,--,--,--,T4
+661,"The Global University, Itanagar ",Arunachal pradesh,"90,000","1,00,000",--,--,--,--,--,--,--,T3
+662,National Institute of Technology ,Meghalaya,"2,53,700","43,000",7.3,8.1,7,7.9,6.1,7.1,7.5,T2
+663,"CMJ University, Ri-Bhoi ",Meghalaya,"3,75,000","2,35,000",8.3,8.8,7.8,8.5,7.8,8.2,8.6,T3
+664,North-Eastern Hill University ,Meghalaya,"5,060","5,010",7.9,7.9,7.8,8.2,8.4,6.6,8.2,T3
+665,William Carey University ,Meghalaya,"1,06,000","1,06,000",8.5,9.2,8.4,8.4,8.2,8.1,8.6,T3
+666,Mahatma Gandhi University ,Meghalaya,"16,000",--,8.1,9,7,9,9,6.3,8.4,T3
+667,"MIT University, Shillong ",Meghalaya,"1,35,000",--,3.8,4.8,2.5,3.8,3.3,4.5,3.8,T4
+668,Regional Institute of Science and Technolog ,Meghalaya,"1,25,000",--,8.2,9,8,7.7,9,7,8.3,T3
+669,"Tura Polytechnic College, Tura ",Meghalaya,"3,516",--,--,--,--,--,--,--,--,T4
+670,"Shillong Polytechnic, Mawlai ",Meghalaya,--,--,--,--,--,--,--,--,--,T4
+671,"Jowai Polytechnic, Jowai ",Meghalaya,"1,500",--,--,--,--,--,--,--,--,T4
+672,National Institute of Technology ,Nagaland,"1,33,800","85,700",7,7.3,6,7.5,6.3,7.2,7.8,T2
+673,"St.Joseph University, Dimapur ",Nagaland,"1,23,000",--,8.1,8.4,7.9,8.3,8,8.1,8.1,T3
+674,"Nagaland University, Zunhebotto ",Nagaland,"26,960",--,8.1,8.1,7.7,8.7,7.8,7.8,8.3,T3
+675,The Global Open University ,Nagaland,"6,525",--,7.8,8.9,7.3,8.4,7.6,7.3,7.4,T3
+676,"Government Polytechnic, Kohima ",Nagaland,"7,450",--,--,--,--,--,--,--,--,T4
+677,"Khelhoshe Polytechnic Atoizu[KPA], Kohima ",Nagaland,"11,100",--,--,--,--,--,--,--,--,T4
+678,"Government Polytechnic Seithekema C, Dimapur ",Nagaland,"8,000",--,--,--,--,--,--,--,--,T4
+679,Government Polytechnic Tsunazho ,Nagaland,"7,550",--,--,--,--,--,--,--,--,T4
+680,"Government Polytechnic Sedem, Tuensang ",Nagaland,"10,500",--,--,--,--,--,--,--,--,T4
+681,"Institute of Communication and Information Technology, Kohima ",Nagaland,--,--,--,--,--,--,--,--,--,T3
+682,Pondicherry Engineering College ,Puducherry,"1,71,200","38,050",7.8,8.5,6.9,8.1,7.5,8,7.7,T3
+683,National Institute of Technology ,Puducherry,"54,366","28,400",7,7.8,6.8,7.2,6.3,6.6,7.2,T2
+684,Manakula Vinayagar Institute of Technology ,Puducherry,"2,44,000",--,7.4,7.9,7.1,7.6,7.7,7.5,6.8,T4
+685,"Sri Manakula Vinayagar Engineering College, Pondicherry ",Puducherry,"40,000","20,450",7.5,8.1,6.6,7.9,7.8,8.1,6.5,T3
+686,"Rajiv Gandhi College of Engineering and Technology, Pondicherry ",Puducherry,"40,000","20,450",6.8,7.1,6,7,6.9,6.9,6.6,T4
+687,"Christ College of Engineering and Technology, Pondicherry ",Puducherry,"1,16,000","90,000",7,8.2,5.8,7.9,6.4,6.5,7.1,T4
+688,Perunthalaivar Kamarajar Institute of Engineering and Technology ,Puducherry,"31,915",--,8,8,8,8,8,8,8,T3
+689,Achariya College of Engineering Technology ,Puducherry,"68,000",--,6.3,7,6,6.1,6.5,5.4,6.9,T4
+690,"Regency Institute of Technology, Yanam ",Puducherry,"41,263",--,5.7,5.4,6,5.2,7.1,4.4,5.9,T4
+691,Bharathiyar College of Engineering and Technology ,Puducherry,--,--,6,6.5,5.8,7,7.5,4.5,4.8,T4
+692,"PSV College of Engineering and Technology, Pondicherry ",Puducherry,"30,000",--,5.3,5.3,4.7,6,5.3,5,5.7,T4
+693,Christ Institute of Technology ,Puducherry,"45,000",--,5.2,5.6,4.9,5.7,5.3,5,4.4,T4
+694,R V S College of Engineering and Technology ,Puducherry,"40,000",--,--,--,--,--,--,--,--,T3
+695,"Alpha College of Engineering & Technology, Pondicherry ",Puducherry,"29,000",--,4.7,5,5.3,5,4.2,3.8,5,T4
+696,Pondicherry University ,Puducherry,"26,218","36,301",7.8,8,7.3,8,8.1,6.9,8.4,T3
+697,"Sri Chakra Maritime College, Pondicherry ",Puducherry,--,--,--,--,--,--,--,--,--,T3
+698,"Motilal Nehru Government Polytechnic College, Pondicherry ",Puducherry,--,--,--,--,--,--,--,--,--,T4
+699,Karaikal Polytechnic College ,Puducherry,"6,000",--,--,--,--,--,--,--,--,T4
+700,Dr. B. R. Ambedkar Polytechnic College ,Puducherry,"6,000",--,--,--,--,--,--,--,--,T4
+701,Indira Gandhi Polytechnic College ,Puducherry,"7,095","7,195",--,--,--,--,--,--,--,T4
+702,"Sri Manakula Vinayagar Polytechnic College-[SMVPC], Pondicherry ",Puducherry,"17,500",--,--,--,--,--,--,--,--,T4
+703,Women’s Polytechnic College ,Puducherry,"6,000","6,000",--,--,--,--,--,--,--,T4
+704,National Institute of Technology ,Tripura,"1,50,100","89,800",8,8.1,7.7,7.3,8.7,7.8,8.2,T2
+705,"ICFAI University, West Tripura ",Tripura,"1,30,000","1,11,000",8,8.1,7.6,8.1,8.3,7.6,8.5,T3
+706,Indian Institute of Information Technology ,Tripura,"2,06,200",--,8.4,8.9,7.6,8.9,8.4,8.1,8.6,T2
+707,"Tripura Institute of Technology, Agartala ",Tripura,"12,180","6,751",7.6,7.8,6.5,8.2,8.3,6.8,8.1,T3
+708,Techno College of Engineering Agartala ,Tripura,"98,000",--,8,7.6,7.4,7.6,9.2,7.8,8.4,T3
+709,"Tripura University, West Tripura ",Tripura,"55,300","5,200",7.5,8,7.1,8.4,7.6,6,8,T3
+710,"TTAADC Polytechnic Institute, West Tripura ",Tripura,"6,750",--,--,--,--,--,--,--,--,T4
+711,Sikkim Manipal University ,Sikkim,"2,60,000","1,74,000",7.4,7.9,6.5,8.2,7.6,6.8,7.4,T4
+712,National Institute of Technology ,Sikkim,"1,39,400","82,900",7.5,8.1,7.2,8,6.5,7.8,7.6,T2
+713,"SRM University Sikkim, Gangtok ",Sikkim,"2,25,000",--,8.1,7.7,7.1,8.5,8.3,8.3,8.4,T3
+714,Vinayaka Missions Sikkim University ,Sikkim,--,--,7.8,7.8,7.8,8,7.8,7.5,7.8,T3
+715,College of Agricultural Engineering and Post Harvest Technology ,Sikkim,"4,280",--,6.8,6.8,6.2,7.1,6.6,6.6,7.4,T4
+716,National Institute of Technology ,Manipur,"1,47,700","89,400",7.9,7.9,7.1,8.2,7.4,8.4,8.2,T2
+717,Indian Institute of Information Technology ,Manipur,"1,87,945","21,795",6.8,7.1,6.7,7.6,6.3,6.6,6.2,T2
+718,Manipur Institute of Technology ,Manipur,"69,200","75,900",7,7,6.5,7.3,7,7,7,T4
+719,Manipur Technical University ,Manipur,"63,000",--,8.3,--,--,--,--,--,--,T3
+720,Central Agricultural University ,Manipur,"2,980","5,500",7.5,8,6.7,7.5,9,6.8,7,T3
+721,Manipur University ,Manipur,"61,250","61,250",8.1,8.4,8.2,8.5,7.7,7.2,8.4,T3
+722,"Government Polytechnic, Imphal ",Manipur,--,--,--,--,--,--,--,--,--,T4
+723,"Bir Tikendrajit University, Imphal ",Manipur,"1,60,000","1,60,000",--,--,--,--,--,--,--,T3
+724,National Institute of Technology ,Mizoram,"1,36,500","82,500",5.4,6.3,4.5,6.4,3.9,6.5,5,T2
+725,"Mizoram University, School of Engineering and Technology ",Mizoram,"29,000",--,5.7,6,2,7.5,6,5.5,7,T4
+726,"Mizoram Polytechnic, Lunglei ",Mizoram,"5,550",--,--,--,--,--,--,--,--,T4
+727,Mizoram University ,Mizoram,"39,150","43,000",8,8.7,7,8.8,8,7.6,7.9,T3
+728,National Institute of Electronics & Information Technology ,Mizoram,"44,560","33,950",5.3,7,6,--,7,1,--,T2
+729,"Dr. B R Ambedkar Institute of Technology, Port Blair ",Andaman,"12,083","4,780",--,--,--,--,--,--,--,T3
+730,"Plastindia International University, Dadra & Nagar Haveli ",Dadra,--,--,--,--,--,--,--,--,--,T3
+731,"Government Polytechnic, Daman ",Daman,"3,575","8,280",--,--,--,--,--,--,--,T4

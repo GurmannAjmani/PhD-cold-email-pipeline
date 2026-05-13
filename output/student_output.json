@@ -1,0 +1,119 @@
+{
+  "student_background": {
+    "narrative": "Arjun Mehta is a student at Indian Institute of Technology Bombay, pursuing a B.Tech in Computer Science and Engineering. He has research experience in digital health and has worked on various projects, including ECG arrhythmia classification, multimodal disease risk prediction, and clinical note de-identification.",
+    "bullets": [
+      "B.Tech Computer Science and Engineering, Indian Institute of Technology Bombay, 2022-2026 (expected)",
+      "Summer research internship at Hospital-affiliated Digital Health Lab, Mumbai",
+      "Undergraduate research under Prof. Ananya Desai (IIT Bombay)",
+      "Teaching assistant, Introduction to Machine Learning (CS419), IIT Bombay, Autumn 2024",
+      "National semifinalist, Smart India Hackathon 2024 (healthcare track)"
+    ]
+  },
+  "research_interests": {
+    "paragraph": "Arjun wants to pursue a PhD in computer science focused on artificial intelligence and machine learning for healthcare. His goal is to build clinical ML systems that are accurate, calibrated, and deployable. He is interested in clinical NLP, biomedical text mining, medical imaging, physiological signals, trustworthy healthcare ML, and privacy-preserving learning.",
+    "keywords": [
+      "healthcare AI",
+      "clinical NLP",
+      "biomedical informatics",
+      "medical imaging",
+      "ECG analysis",
+      "EHR analytics",
+      "multimodal learning",
+      "federated learning",
+      "trustworthy AI",
+      "calibration",
+      "distribution shift",
+      "digital health",
+      "deep learning",
+      "transformers",
+      "weak supervision",
+      "privacy-preserving ML"
+    ]
+  },
+  "department_focus": "Computer Science",
+  "lab_focus": "Clinical NLP labs, digital health centres, medical imaging + AI groups, or computational biology labs with strong ML methodology",
+  "possible_tier_of_colleges": "T1",
+  "target_institute_tiers": [
+    "T1"
+  ],
+  "tier_college_sample": [
+    {
+      "name": "Indian Institute of Science",
+      "state": "Karnataka",
+      "tier": "T1"
+    },
+    {
+      "name": "IIT Bombay",
+      "state": "Maharashtra",
+      "tier": "T1"
+    },
+    {
+      "name": "Indian Institute of Technology",
+      "state": "Uttar pradesh",
+      "tier": "T1"
+    },
+    {
+      "name": "Indian Institute of Technology Madras",
+      "state": "Tamil nadu",
+      "tier": "T1"
+    },
+    {
+      "name": "Indian Institute of Technology",
+      "state": "Delhi ncr",
+      "tier": "T1"
+    },
+    {
+      "name": "Indian Institute of Technology",
+      "state": "Assam",
+      "tier": "T1"
+    },
+    {
+      "name": "Indian Institute of Technology",
+      "state": "Kerala",
+      "tier": "T1"
+    },
+    {
+      "name": "Indian Institute of Technology",
+      "state": "Andhra pradesh",
+      "tier": "T1"
+    },
+    {
+      "name": "Indian Institute of Technology",
+      "state": "Telangana",
+      "tier": "T1"
+    },
+    {
+      "name": "Indian Institute of Technology",
+      "state": "Uttar pradesh",
+      "tier": "T1"
+    },
+    {
+      "name": "Indian Institute of Technology",
+      "state": "West bengal",
+      "tier": "T1"
+    },
+    {
+      "name": "Indian Institute of Technology",
+      "state": "Punjab",
+      "tier": "T1"
+    },
+    {
+      "name": "Jadavpur University",
+      "state": "West bengal",
+      "tier": "T1"
+    },
+    {
+      "name": "Indian Institute of Technology",
+      "state": "Uttarakhand",
+      "tier": "T1"
+    }
+  ],
+  "meta": {
+    "phase": 1,
+    "groq_model": "llama-3.3-70b-versatile",
+    "dataset_csv": "Indian_Engineering_Colleges_Dataset.csv",
+    "home_institution_matched": "IIT Bombay",
+    "home_tier": "T1",
+    "matched_tier_from_csv": "T1"
+  }
+}

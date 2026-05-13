@@ -1,0 +1,313 @@
+{
+  "phase": 2,
+  "gemini_model": "gemini-2.5-flash",
+  "institutes": [
+    {
+      "institute_id": "indian-institute-of-science-iisc-ac-in-0",
+      "name": "Indian Institute of Science",
+      "matched_whitelist_name": "Indian Institute of Science",
+      "primary_domain": "iisc.ac.in",
+      "official_source_urls": [
+        "https://www.iisc.ac.in/"
+      ],
+      "department_or_lab_urls": [
+        "https://cds.iisc.ac.in/mig/",
+        "https://cds.iisc.ac.in/mig/people/",
+        "https://cds.iisc.ac.in/"
+      ],
+      "seed_profiles": [
+        {
+          "name": "Phaneendra K. Yalavarthy",
+          "role": "Professor (CDS), Convener (MIG), Lead (TANUH: AI-Centre of Excellence in Healthcare)",
+          "source_urls": [
+            "https://cds.iisc.ac.in/mig/people/",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHa4zg0_D4_VAsyhgTuW0zlIUrilL1vrLGGSEBrh-HzMIlMx_MsilYqd73dgsYqw2TaLVwwIPUcxQ3XqJ7xwVnTP09iFm5TZg0TuMgzBCZhm56y5G0bRbAy8Uy8swzNATSOW5WY5VVFap43zn4cbBlVOlhDSA==",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRPBTBRfsOzj3SXFooRF8x4SwMx6hWdw7UAFfSKTvR72ZtuIGc8uGCgJFIC4y0CYaWPot9wmt0x5cFLgqAwjSq5ucomhKr4OZCoEMoPH9KkiDe3b0K0I4L71q_GJCUCY0uSElR14UBLSB6Uf4OSXTK8TXAKF4SKSiUyAA=="
+          ]
+        }
+      ]
+    },
+    {
+      "institute_id": "indian-institute-of-technology-bombay-iitb-ac-in-1",
+      "name": "Indian Institute of Technology Bombay",
+      "matched_whitelist_name": "IIT Bombay",
+      "primary_domain": "iitb.ac.in",
+      "official_source_urls": [
+        "https://www.iitb.ac.in/"
+      ],
+      "department_or_lab_urls": [
+        "https://kcdh.in/"
+      ]
+    },
+    {
+      "institute_id": "indian-institute-of-technology-madras-iitm-ac-in-2",
+      "name": "Indian Institute of Technology Madras",
+      "matched_whitelist_name": "Indian Institute of Technology Madras",
+      "primary_domain": "iitm.ac.in",
+      "official_source_urls": [
+        "https://www.iitm.ac.in/"
+      ],
+      "department_or_lab_urls": [
+        "https://biotech.iitm.ac.in/computational-biology",
+        "https://ibse.iitm.ac.in/"
+      ],
+      "seed_profiles": [
+        {
+          "name": "M. Michael Gromiha",
+          "role": "Professor (Department of Biotechnology)",
+          "source_urls": [
+            "https://www.iitm.ac.in/happenings/press-releases/iit-madras-researchers-develop-machine-learning-tool-detect-tumour-brain",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVPFP5MoCkbmFJZkNSOe8B6sWKJ57XvyP7CUkeG4eLD4yCEXnDBwgWr6MHvjUE9HQ0Z2U3DsEBR0Xoae3lUj3585HRwMu5b_CYbguHBPhNcV5bKpgvn5FjIVuscNbFlpa7qShKbOTCTnP1q8yFOlgLP4qCPXD9XnVbyh3m6Vz1iJUq5RSDUJQEcXdOlaFNthb5b5OCNjpebJUeVbKSPBtF1hquWCIZCl_Tzcz9eVKoo4mS-Bbg"
+          ]
+        },
+        {
+          "name": "Karthik Raman",
+          "role": "Instructor (Computational Systems Biology course)",
+          "source_urls": [
+            "https://ibse.iitm.ac.in/computational-systems-biology",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhjRgdyjq3zxTrJH1O9NLrlQmPMXbGgycwBupx6fBLWR9u5u5hzHd8ml28GuAkFZxCdPplwkwN8bcrEcfa_F33mZ3BxbgyfSom-5ewdQZZukhQ5qMjLfCJ6pTP5I2GZh7PGfvnOGNctemVN6eEWn-cymTt1DVS42Y="
+          ]
+        }
+      ]
+    },
+    {
+      "institute_id": "indian-institute-of-technology-delhi-iitd-ac-in-3",
+      "name": "Indian Institute of Technology Delhi",
+      "matched_whitelist_name": "Indian Institute of Technology",
+      "primary_domain": "iitd.ac.in",
+      "official_source_urls": [
+        "https://home.iitd.ac.in/"
+      ],
+      "department_or_lab_urls": [
+        "https://scfbio.iitd.ac.in/",
+        "https://cbme.iitd.ac.in/research/medical-imaging",
+        "https://aihealthcare.iitd.ac.in/"
+      ],
+      "seed_profiles": [
+        {
+          "name": "B. Jayaram",
+          "role": "Professor (SCFBio)",
+          "source_urls": [
+            "https://scfbio.iitd.ac.in/members/faculty",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk6mWG_kv004pK071rDC-cUtvMpa3dnxjPodLkw3jxNTgrcQ0qUz0Y9s0X4ptfysqKA4vnr8hFBwdwuM-8FCUIzx5h2qfGLdymGRb4oV2YfVhWm0pz"
+          ]
+        },
+        {
+          "name": "Ashok K. Patel",
+          "role": "Professor (SCFBio)",
+          "source_urls": [
+            "https://scfbio.iitd.ac.in/members/faculty",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk6mWG_kv004pK071rDC-cUtvMpa3dnxjPodLkw3jxNTgrcQ0qUz0Y9s0X4ptfysqKA4vnr8hFBwdwuM-8FCUIzx5h2qfGLdymGRb4oV2YfVhWm0pz"
+          ]
+        },
+        {
+          "name": "Aditya Mittal",
+          "role": "Professor (SCFBio)",
+          "source_urls": [
+            "https://scfbio.iitd.ac.in/members/faculty",
+            "https://vertexaisearch.cloud.google.google.com/grounding-api-redirect/AUZIYQHk6mWG_kv004pK071rDC-cUtvMpa3dnxjPodLkw3jxNTgrcQ0qUz0Y9s0X4ptfysqKA4vnr8hFBwdwuM-8FCUIzx5h2qfGLdymGRb4oV2YfVhWm0pz"
+          ]
+        },
+        {
+          "name": "Anup Singh",
+          "role": "Professor (CBME, Medical Imaging)",
+          "source_urls": [
+            "https://cbme.iitd.ac.in/research/medical-imaging",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHruTq4qGUumyZT3Ba6qaafN32q6u_cl5fnG6WhXbX3oGbz7UgJN0upm2jt75btifi7FV5qPnsSkSRNdnSH25JpEaiU-MfhCPGgzYARW5_xNQPvh32jhDQl_wDfkCCwuhYPaorb0kQ-p_8v0RTpu1SIvuvl5yrTawfaOQs-fQUH3Qr5VQLBV7I3B9UiNFBbMNApp5la1Sw33A=="
+          ]
+        },
+        {
+          "name": "Amit Mehndiratta",
+          "role": "Professor (CBME, Medical Imaging)",
+          "source_urls": [
+            "https://cbme.iitd.ac.in/research/medical-imaging",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHruTq4qGUumyZT3Ba6qaafN32q6u_cl5fnG6WhXbX3oGbz7UgJN0upm2jt75btifi7FV5qPnsSkSRNdnSH25JpEaiU-MfhCPGgzYARW5_xNQPvh32jhDQl_wDfkCCwuhYPaorb0kQ-p_8v0RTpu1SIvuvl5yrTawfaOQs-fQUH3Qr5VQLBV7I3B9UiNFBbMNApp5la1Sw33A=="
+          ]
+        }
+      ]
+    },
+    {
+      "institute_id": "indian-institute-of-technology-kharagpur-iitkgp-ac-in-4",
+      "name": "Indian Institute of Technology Kharagpur",
+      "matched_whitelist_name": "Indian Institute of Technology",
+      "primary_domain": "iitkgp.ac.in",
+      "official_source_urls": [
+        "https://www.iitkgp.ac.in/"
+      ],
+      "department_or_lab_urls": [
+        "https://kliv.iitkgp.ac.in/",
+        "https://www.ece.iitkgp.ac.in/research/ipcv-lab"
+      ],
+      "seed_profiles": [
+        {
+          "name": "Debdoot Sheet",
+          "role": "Principal Investigator (KLIV group, Electrical Engineering)",
+          "source_urls": [
+            "https://kliv.iitkgp.ac.in/",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMf-1PrrppYHZSF7K5ENlMYiqPdjo-BpOQ9TggXVO4x-d1mY5fjmrbTGfrLKb32m5xfPr82L9rgTxRufnXtx5GCxtfMMMWMsW54cOyu2MTcjA9Go9Q"
+          ]
+        }
+      ]
+    },
+    {
+      "institute_id": "indian-institute-of-technology-hyderabad-iith-ac-in-5",
+      "name": "Indian Institute of Technology Hyderabad",
+      "matched_whitelist_name": "Indian Institute of Technology",
+      "primary_domain": "iith.ac.in",
+      "official_source_urls": [
+        "https://www.iith.ac.in/"
+      ],
+      "department_or_lab_urls": [
+        "https://ai.iith.ac.in/",
+        "https://bme.iith.ac.in/",
+        "https://biotech.iith.ac.in/"
+      ],
+      "seed_profiles": [
+        {
+          "name": "G. Narahari Sastry",
+          "role": "Professor (Biotechnology), Lead (Fifth Paradigm Lab)",
+          "source_urls": [
+            "https://cse.iith.ac.in/haht-ius-2024-workshop/",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9mRl7Sk6_CJf2NcSOvnOI3SivtMzPDCTIAzMMQbOopZm3LPKRQT0dAT-Uj5wtlNYbQmKWjuDqROoyJlEA5PpJ0XbqLke3sakvFhfIuF4GVDhd5s6MneOEAOeNbN95rw=="
+          ]
+        },
+        {
+          "name": "C. Krishna Mohan",
+          "role": "Professor (CSE)",
+          "source_urls": [
+            "https://cse.iith.ac.in/haht-ius-2024-workshop/",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9mRl7Sk6_CJf2NcSOvnOI3SivtMzPDCTIAzMMQbOopZm3LPKRQT0dAT-Uj5wtlNYbQmKWjuDqROoyJlEA5PpJ0XbqLke3sakvFhfIuF4GVDhd5s6MneOEAOeNbN95rw=="
+          ]
+        }
+      ]
+    },
+    {
+      "institute_id": "indian-institute-of-technology-kanpur-iitk-ac-in-6",
+      "name": "Indian Institute of Technology Kanpur",
+      "matched_whitelist_name": "Indian Institute of Technology",
+      "primary_domain": "iitk.ac.in",
+      "official_source_urls": [
+        "https://www.iitk.ac.in/"
+      ],
+      "department_or_lab_urls": [
+        "https://www.cosmiclab.org/",
+        "https://www.iitk.ac.in/bsbe/computational-biology-bioinformatics",
+        "https://www.cse.iitk.ac.in/"
+      ],
+      "seed_profiles": [
+        {
+          "name": "Hamim Zafar",
+          "role": "Joint faculty (CSE and BSBE)",
+          "source_urls": [
+            "https://www.cse.iitk.ac.in/news/ml-seminar-series-machine-learning-in-single-cell-genomics-speaker-prof-hamim-zafar/",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYc1mieWIN7MP9cF7fGP4T_QhnBwCvv1yCyrkXNxGmWfxe1NdIZvyXbm09aUxdOGBToACS3W68kYydFdgddXpKS9krOYf2SLqovy-eB_GhKxn8GSinyK_gYZqLs3XIILA-nMpuB9hLPtM95xWSDg=="
+          ]
+        }
+      ]
+    },
+    {
+      "institute_id": "indian-institute-of-technology-roorkee-iitr-ac-in-7",
+      "name": "Indian Institute of Technology Roorkee",
+      "matched_whitelist_name": "Indian Institute of Technology",
+      "primary_domain": "iitr.ac.in",
+      "official_source_urls": [
+        "https://www.iitr.ac.in/"
+      ],
+      "department_or_lab_urls": [
+        "https://www.iitr.ac.in/departments/BSBE/pages/Research_Computational_Biology_and_Translational_Bioinformatics_Lab.html",
+        "https://www.iitr.ac.in/departments/BSBE/pages/Academic_Programs.html"
+      ],
+      "seed_profiles": [
+        {
+          "name": "Deepak Sharma",
+          "role": "Professor (Computational Biology and Translational Bioinformatics Lab)",
+          "source_urls": [
+            "https://www.iitr.ac.in/departments/BSBE/pages/Research_Computational_Biology_and_Translational_Bioinformatics_Lab.html",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj3SE9sVObEGqjL-KehgRGgdwVEAlRGJ7AowobBqkp4HdDBbCKidiu_prrcKGITucPBDuNyHcmxAdtW8POijDh6DiWpf7oyProcjmQrcy96d-U55t7Uw=="
+          ]
+        }
+      ]
+    },
+    {
+      "institute_id": "indian-institute-of-technology-guwahati-iitg-ac-in-8",
+      "name": "Indian Institute of Technology Guwahati",
+      "matched_whitelist_name": "Indian Institute of Technology",
+      "primary_domain": "iitg.ac.in",
+      "official_source_urls": [
+        "https://www.iitg.ac.in/"
+      ],
+      "department_or_lab_urls": [
+        "https://www.iitg.ac.in/dsai/",
+        "https://www.iitg.ac.in/math/",
+        "https://www.iitg.ac.in/nanotech/"
+      ],
+      "seed_profiles": [
+        {
+          "name": "Palash Ghosh",
+          "role": "Assistant Professor (Department of Mathematics)",
+          "source_urls": [
+            "https://www.iitg.ac.in/news/iit-guwahati-researchers-develop-ai-based-model-to-predict-knee-osteoarthritis-severity-from-x-ray-images/",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8arMyRfC5l8Bh6iulWGu2CAGdypDSAEyEGZ6_l4pFyPRlg721kKx0THmveDAqKUQCv_Pqav6EnPl_cY8EOrweaTB50YiFQ1FwWeG94lBeGsRJhAFTO01OPiW-1l0WHYR3MxeprupyKTqB-7iWawd7HYxdvh9BEF5onk-6syf-pVGUsebgPTr_oWlw8hkY244OA4ILfg71JCRjbBJogjudUK-qF0uBhJGya52iRYmI61KmojAF3Knt4iGhX04aVyUONhVvN8wqS-BVWa6XnDLEuy5eag=="
+          ]
+        },
+        {
+          "name": "Debanga Raj Neog",
+          "role": "Assistant Professor (Mehta Family School of Data Science and Artificial Intelligence)",
+          "source_urls": [
+            "https://www.iitg.ac.in/dsai/faculty/debanga-raj-neog/",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtnn6iVWvgGgMtT46f-HjQKvZ08qF6viwdMCoShT0K_xqrvGBMtCMM6_03EV83qzbHH06LeWUi277dKvWuaxY0yp-zkssg1u-iqWHb4vQtkCQPb92SSsSD4UFdfjDhQ2UKeJ9ZlY7n9Df90hHOSR7EiHvE7sUtz0JMZ_RGVJK_ked3vw=="
+          ]
+        },
+        {
+          "name": "Rajiv K. Kar",
+          "role": "Assistant Professor (JBM School of Health Sciences and Technology)",
+          "source_urls": [
+            "https://sites.google.com/view/biosensors-and-informatics-lab/home",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVlFXgxxJd8KCrIpthiRA5BX0njDhhQ8Ps89dtHoUoFGEHMcJhwtmy_icBLpEuliJNkJ03345LlJWO7LWHKtPyBRoZmzBuLHDMWHijOppWJpPKD-SIXAThPPwP4B9MUuILqiCWAN2C"
+          ]
+        }
+      ]
+    },
+    {
+      "institute_id": "indian-institute-of-technology-palakkad-iitpkd-ac-in-9",
+      "name": "Indian Institute of Technology Palakkad",
+      "matched_whitelist_name": "Indian Institute of Technology",
+      "primary_domain": "iitpkd.ac.in",
+      "official_source_urls": [
+        "https://iitpkd.ac.in/"
+      ],
+      "department_or_lab_urls": [
+        "https://dsai.iitpkd.ac.in/",
+        "https://iitpkd.ac.in/cci/",
+        "https://ee.iitpkd.ac.in/research-areas/biomedical-signal-processing-and-imaging",
+        "https://cse.iitpkd.ac.in/research/"
+      ],
+      "seed_profiles": [
+        {
+          "name": "Mahesh R Panicker",
+          "role": "Project Principal Investigator (Electrical Engineering Department)",
+          "source_urls": [
+            "https://iitpkd.ac.in/news/iit-palakkad-develops-ultrasound-for-covid-19-screening",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMVatOl6pqb5iCf7w8682XZ532glnH6YpVNsNNw4ExUOW_AN00fqcEnSI8kNMiKTwQQEKoRr-KXLsWeHo2Itxiv-8HUrdD_gmS1KFSPiFNjrkxJKmGqxoO-9-Vh75ecLTwONaxVziDVSzgxG5RzlqVztgQcQ9axFOF6nlSDxblF-Hmp0WB6ZTH"
+          ]
+        },
+        {
+          "name": "M. Sabarimalai Manikandan",
+          "role": "Professor (Electrical Engineering)",
+          "source_urls": [
+            "https://ee.iitpkd.ac.in/faculty/m-sabarimalai-manikandan",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9Zj4lVPHV58FwCLGHvH4bvPAd3xieJJnFOIV2M-nowgzT-r6kmgodG2nJIsZooSfdqffHBUEdn_lZ1MiMkmju1Sj-mhbAB4T5LWqHZvB-EvlO-agFqXcXfTw=="
+          ]
+        },
+        {
+          "name": "Vivek Chathurvedi",
+          "role": "Principal Investigator (Computer Science and Engineering)",
+          "source_urls": [
+            "https://icsr.iitpkd.ac.in/project/securing-deep-neural-networks-against-adversarial-attacks-in-medical-imaging",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEryICzzr4hII1AkabTaXEsemn0W4f-JmTzNZdCYrLcDJeobN6TkkIFby_UGeCv7LOObL2tRA6qUjU06rs6mPWJaA0QZIeqE88IiSTkGZ4nj1aTCePrIvpM2U7I68c="
+          ]
+        }
+      ]
+    }
+  ]
+}

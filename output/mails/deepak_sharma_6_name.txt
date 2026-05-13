@@ -1,0 +1,13 @@
+To: deepak.sharma@bt.iitr.ac.in
+
+Subject: PhD Inquiry in Computational Biology and Translational Bioinformatics
+
+Hope you are doing well. I am writing to express my interest in pursuing a PhD in the Computational Biology and Translational Bioinformatics Laboratory (CBTB Lab) under your guidance. I was particularly drawn to your work in the CBTB Lab, especially the research theme of exploiting machine learning and medicinal plants for diagnosis and treatment of diseases. Your lab's focus on computational biology, translational bioinformatics, and medicoinformatics resonates with my research interests and goals.
+
+I found your paper, "Singular Value Decomposition-Based Reduced Order Framework of Frequency Weighted Continuous-Time Systems," to be particularly interesting. The idea of using model order reduction to preserve the intrinsic characteristics of complex systems while approximating them with relatively lower-order models is fascinating. I also appreciated the lab's theme of using machine learning and telemedicine for early diagnosis and treatment of cardiovascular diseases, as it aligns with my own research experience in clinical NLP and biomedical text mining. For instance, my work on ECG arrhythmia classification using 1D CNNs and temporal attention has sparked my interest in exploring the applications of machine learning in cardiovascular disease diagnosis.
+
+My own research experience has been focused on building clinical ML systems that are accurate, calibrated, and deployable. In my summer research internship at the Hospital-affiliated Digital Health Lab, Mumbai, I worked on ECG arrhythmia classification using 1D CNNs and temporal attention. I also worked on a project that combined structured EHR tabular features with discharge-summary text using ClinicalBERT embeddings fused with XGBoost. Additionally, my experience with federated learning for medical imaging has taught me the importance of addressing non-IID label skew across sites. These projects have not only deepened my understanding of clinical NLP and biomedical informatics but also instilled in me a desire to explore the applications of machine learning in healthcare. I believe that my research experience and interests align with the CBTB Lab's focus on computational biology and translational bioinformatics, and I am excited about the opportunity to contribute to and learn from the lab's research.
+
+I am writing to inquire about potential PhD opportunities in your lab. Could you please let me know if there are any openings available? I would be thrilled to discuss my research interests and experiences further with you. Regards, 
+Arjun Mehta
++91 98765 43210

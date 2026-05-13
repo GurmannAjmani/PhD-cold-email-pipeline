@@ -1,0 +1,13 @@
+To: Sriraam.Natarajan@utdallas.edu
+
+Subject: PhD Inquiry in Artificial Intelligence and Machine Learning for Healthcare
+
+Hope you are doing well. I am writing to express my interest in pursuing a PhD under your guidance at the Indian Institute of Technology Bombay, specifically in the Center for Machine Learning. I came across your work in the areas of Relational Learning, Reinforcement Learning, Graphical Models, and Planning, and their application to healthcare problems, which aligns with my research interests. Your lab's focus on Artificial Intelligence and Machine Learning for healthcare problems, such as the development of low-cost cardiac systems and wearable nasal sensors, resonated with me.
+
+I found your paper "Development of Low-Cost Single Cardiac System Using Nylon Ripstop Based Conductive Dry ECG Sensor for Resource Constrained Settings" particularly interesting, as it highlights the potential of AI and ML in creating affordable and accessible healthcare solutions. The use of conductive dry ECG sensors in resource-constrained settings is a great example of how technology can be leveraged to improve healthcare outcomes. Additionally, your work on "Performance Evaluation of Wearable Nasal Sensor for Respiratory Assessments Using a NOVEL EDRS-LSTM Deep Learning Model" showcases the application of ML in wearable sensing technology, which is an area I am eager to explore further.
+
+My own research experience has been focused on applying ML and AI to healthcare problems. In my summer research internship at the Hospital-affiliated Digital Health Lab, I worked on ECG arrhythmia classification using 1D CNNs and temporal attention. I also worked on a project that combined structured EHR features with discharge-summary text using ClinicalBERT embeddings fused with XGBoost. Furthermore, my experience with federated learning for medical imaging and clinical note de-identification has given me a strong foundation in trustworthy healthcare ML. My projects, such as multimodal disease risk prediction and skin lesion classification, have allowed me to explore the application of ML in various healthcare domains. I believe that my research experience and interests align with your work, and I am excited about the opportunity to contribute to and learn from your research group.
+
+I would like to inquire about potential PhD opportunities in your lab, specifically in the areas of clinical NLP, medical imaging, and trustworthy healthcare ML. I am confident that my research experience and interests make me a strong fit for your lab, and I look forward to the opportunity to discuss my application further. Regards, 
+Arjun Mehta
++91 98765 43210

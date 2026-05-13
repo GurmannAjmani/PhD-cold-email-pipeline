@@ -1,0 +1,13 @@
+To: vivek@iitpkd.ac.in
+
+Subject: PhD Inquiry in ML for Healthcare at IIT Palakkad
+
+Hope you are doing well. I am writing to express my interest in pursuing a PhD in Computer Science at the Indian Institute of Technology Palakkad, specifically in the area of Machine Learning for Healthcare. I came across your lab, which is working on 'Securing Deep Neural Networks against Adversarial Attacks in Medical Imaging', and I was impressed by the research being conducted. Your work on Vision Transformers, particularly the paper "SE Pipeline: A Vision Transformer (ViT) based Resilient Classification Pipeline for Medical Imaging Against Adversarial Attacks", resonated with my research interests.
+
+I found the application of Vision Transformers in medical imaging to be fascinating, and the idea of making them resilient to adversarial attacks is crucial for their deployment in real-world healthcare settings. The snippet from the paper highlighting the robust self-attention mechanism of Vision Transformers and their potential in automating accurate disease diagnosis in medical imaging caught my attention. I also appreciated the work presented in "ViT-EBoT: Vision Transformer for Encrypted Botnet Detection in Resource-Constrained Edge Devices", which showcases the versatility of Vision Transformers in various applications. The research theme of securing deep neural networks against adversarial attacks aligns with my interests in trustworthy healthcare ML.
+
+My own research experience has been focused on building clinical ML systems that are accurate, calibrated, and deployable. In my undergraduate research, I worked on projects such as multimodal disease risk prediction, skin lesion classification, and federated learning for medical imaging. For instance, in the multimodal disease risk prediction project, I combined structured EHR tabular features with discharge-summary text using ClinicalBERT embeddings fused with XGBoost, and evaluated the model on a MIMIC-III-derived cohort. I also explored the application of 1D CNNs with temporal attention for ECG arrhythmia classification, which was presented at the IIT Bombay Digital Health Workshop. These projects have given me hands-on experience with deep learning techniques, including CNNs, Transformers, and federated optimization. I believe that my research experience and interests align with your work, and I am excited about the possibility of contributing to and learning from your lab.
+
+I would like to inquire about potential PhD opportunities in your lab, specifically in the area of Machine Learning for Healthcare. Could you please let me know if there are any openings available? I have attached my CV for your reference. Regards, 
+Arjun Mehta
++91 98765 43210

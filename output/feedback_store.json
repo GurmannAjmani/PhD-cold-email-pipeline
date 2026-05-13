@@ -1,0 +1,32 @@
+{
+  "global_drafting": [
+    {
+      "text": "add a greeting like \"Hope you are doing well\" before jumping to the content of the mail, and add Regards before the name",
+      "at": "2026-05-13"
+    },
+    {
+      "text": "Make the emails more elaborate and make the subject more personalised to each person",
+      "at": "2026-05-13"
+    }
+  ],
+  "professors": {
+    "palash ghosh": [
+      {
+        "text": "Will not be taking any more PhD students any more",
+        "at": "2026-05-13"
+      }
+    ],
+    "Vivek Chaturvedi": [
+      {
+        "text": "Interested in accepting more PhD students in the field of ML",
+        "at": "2026-05-13"
+      }
+    ],
+    "Anup Singh": [
+      {
+        "text": "Does not reply",
+        "at": "2026-05-13"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+To: nirmal.punjabi@iitb.ac.in
+
+Subject: PhD Inquiry for Koita Centre for Digital Health
+
+Hope you are doing well. I am writing to express my interest in pursuing a PhD under your guidance at the Indian Institute of Technology Bombay, specifically at the Koita Centre for Digital Health. I am drawn to your lab's research focus on Healthcare Applications, Consumer Health & Tele-Medicine, and Healthcare Analytics & AI/ML, particularly the theme of applying machine learning techniques to improve healthcare outcomes.
+
+I found your prior work, such as the paper "A Descriptive Guide" (2018), to be quite interesting, as it highlights the importance of considering language and cultural factors in healthcare information systems. The snippet from "Dual-Mode Optical Detection of Cobalt Ions using Silica Nanoparticles" (2026) also caught my attention, as it demonstrates the potential of interdisciplinary approaches to develop innovative solutions for healthcare problems. The expert talks delivered at the KC College of Engineering & Management Studies & Research, as mentioned in the Department of Electronics Engineering (2018) snippet, showcase the lab's commitment to knowledge sharing and collaboration.
+
+My own research experience and interests align with the Koita Centre's focus on digital health. In my summer research internship at the Hospital-affiliated Digital Health Lab, Mumbai, I worked on ECG arrhythmia classification using 1D CNNs and temporal attention. I also led a project on multimodal disease risk prediction, combining structured EHR data with clinical notes using ClinicalBERT embeddings and XGBoost. Additionally, I have experience with federated learning for medical imaging and clinical note de-identification using DistilBERT. These projects have equipped me with skills in machine learning, deep learning, and data analysis, which I believe would be valuable assets to your lab.
+
+I am excited about the opportunity to contribute to and learn from the Koita Centre's research endeavors. Could you please let me know if there are any PhD opportunities available in your lab? I would appreciate any guidance on the application process and potential research topics. Regards, 
+Arjun Mehta
++91 98765 43210

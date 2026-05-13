@@ -1,0 +1,13 @@
+To: dneog@iitg.ac.in
+
+Subject: PhD Inquiry in Pattern and Motion Analysis Lab
+
+Hope you are doing well. I am writing to express my interest in pursuing a PhD under your guidance at the Indian Institute of Technology Guwahati, specifically in the Pattern and Motion Analysis Lab. I came across your lab while exploring research opportunities in machine learning and computer vision, and I was particularly drawn to your work in object tracking and localization, as well as biomedical image processing.
+
+I found your paper "HandNet: A Robust Ensemble Framework for Hand Keypoint Detection in Diverse Scenarios" to be quite interesting, as it showcases the application of machine learning techniques to complex computer vision problems. The use of ensemble frameworks for hand keypoint detection is a fascinating area of research, and I appreciate the attention to detail in your work. Additionally, your lab's focus on biomedical image processing aligns with my own research interests in healthcare AI, and I believe that your expertise in this area would be invaluable in helping me achieve my research goals.
+
+My own research experience has been focused on applying machine learning techniques to healthcare problems. In my summer research internship, I worked on ECG arrhythmia classification using 1D CNNs and temporal attention, and I also explored the use of multimodal disease risk prediction by combining structured EHR features with discharge-summary text using ClinicalBERT embeddings. I have also worked on projects such as skin lesion classification, federated learning for medical imaging, and clinical note de-identification. I believe that my experience and skills in deep learning, natural language processing, and computer vision would be a good fit for your lab, and I am excited about the opportunity to contribute to and learn from your research group.
+
+I would like to inquire about potential PhD opportunities in your lab, and I would appreciate any information you can provide about the application process and available positions. Regards, 
+Arjun Mehta
++91 98765 43210

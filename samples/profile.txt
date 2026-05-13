@@ -1,0 +1,27 @@
+Name: Arjun Mehta
+Phone: +91 98765 43210
+Email: arjun.mehta@iitb.ac.in
+
+Education:
+B.Tech Computer Science and Engineering, Indian Institute of Technology Bombay, 2022–2026 (expected). CGPA 8.0/10.
+Relevant coursework: Machine Learning, Deep Learning, Probability and Statistics, Linear Algebra, Computer Vision, Biomedical Signal Processing, Natural Language Processing, Data Structures and Algorithms, Operating Systems, Database Management Systems.
+
+Research experience:
+- Summer research internship (May–Jul 2025), Hospital-affiliated Digital Health Lab, Mumbai — ECG arrhythmia classification on the MIT-BIH Arrhythmia Database using 1D CNNs and temporal attention; compared against LSTM baselines; reported per-class F1 under class imbalance; mentor: Dr. Priya Nair.
+- Undergraduate research (Jan 2025–present), Healthcare ML reading group & independent project under Prof. Ananya Desai (IIT Bombay) — focus on trustworthy deployment of clinical NLP and imaging models.
+
+Projects:
+1. Multimodal disease risk prediction (Course project + extension, 2024–25): Combined structured EHR tabular features with discharge-summary text using ClinicalBERT embeddings fused with XGBoost; evaluated on MIMIC-III-derived cohort (synthetic subset for coursework); studied missing-modality robustness and calibration (ECE, Brier score).
+2. Skin lesion classification (2024): ISIC 2019-style dermoscopy images; ResNet-50 and EfficientNet-B0 with weighted cross-entropy and mixup; addressed class imbalance via focal loss ablation; temperature scaling for confidence calibration; macro-F1 0.81 on held-out split.
+3. Federated learning for medical imaging (2025): Simulated three hospital silos on CheXpert-style chest X-ray subsets; implemented FedAvg and FedProx with differential privacy noise (ε=8 exploratory); analyzed performance drop under non-IID label skew across sites.
+4. Clinical note de-identification prototype (2025): Fine-tuned DistilBERT for PHI span detection on i2b2-style annotated samples; explored weak labels from regex+model ensemble.
+
+Publications & writing:
+- A. Mehta, P. Nair, "Attention-based 1D CNNs for ECG Arrhythmia Detection under Class Imbalance," IIT Bombay Digital Health Workshop poster, 2025.
+- Manuscript in preparation: "Calibration-aware multimodal EHR models for disease risk scoring" (target: ML4H / CHIL workshop).
+
+Technical skills: Python, PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers, OpenCV, pandas, SQL, MongoDB, Linux, Git, Weights & Biases, basic FHIR/EHR data handling.
+
+Other:
+Teaching assistant, Introduction to Machine Learning (CS419), IIT Bombay, Autumn 2024.
+National semifinalist, Smart India Hackathon 2024 (healthcare track) — team lead for clinical triage NLP module.

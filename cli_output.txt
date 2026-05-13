@@ -1,0 +1,114 @@
+
+=== build_student_profile.py ===
+
+Wrote C:\Users\gurma\Desktop\projs\ambitio\output\student_output.json
+
+=== select_institutes.py ===
+
+Started
+Wrote C:\Users\gurma\Desktop\projs\ambitio\output\phase2_institutes.json
+
+=== find_supervisors.py ===
+
+Started
+Wrote C:\Users\gurma\Desktop\projs\ambitio\output\phase3_candidates.json (10 candidates)
+
+=== enrich_candidates.py ===
+
+Phase 4 started
+  [1/10] 'Phaneendra K. Yalavarthy'
+  [2/10] 'Sriraam Natarajan'
+  [3/10] 'Nirmal Punjabi'
+  [4/10] 'M. Michael Gromiha'
+  [5/10] 'Anup Singh'
+  [6/10] 'Amit Mehndiratta'
+  [7/10] 'Debdoot Sheet'
+  [8/10] 'Deepak Sharma'
+  [9/10] 'Palash Ghosh'
+  [10/10] 'Vivek Chaturvedi'
+Wrote C:\Users\gurma\Desktop\projs\ambitio\output\phase4_candidates_enriched.json (10 rows)
+
+=== draft_emails.py ===
+
+Phase 5 started
+  [1/10] 'Phaneendra K. Yalavarthy'
+    Wrote output\mails\phaneendra_k_yalavarthy_1_name.txt
+  [2/10] 'Sriraam Natarajan'
+    Wrote output\mails\sriraam_natarajan_2_name.txt
+  [3/10] 'Nirmal Punjabi'
+    Wrote output\mails\nirmal_punjabi_3_name.txt
+  [4/10] 'M. Michael Gromiha'
+    Wrote output\mails\m_michael_gromiha_4_name.txt
+  [5/10] 'Anup Singh'
+    Wrote output\mails\anup_singh_5_name.txt
+  [6/10] 'Amit Mehndiratta'
+    Wrote output\mails\amit_mehndiratta_6_name.txt
+  [7/10] 'Debdoot Sheet'
+    Wrote output\mails\debdoot_sheet_7_name.txt
+  [8/10] 'Deepak Sharma'
+    Wrote output\mails\deepak_sharma_8_name.txt
+  [9/10] 'Palash Ghosh'
+    Wrote output\mails\palash_ghosh_9_name.txt
+  [10/10] 'Vivek Chaturvedi'
+    Wrote output\mails\vivek_chaturvedi_10_name.txt
+Phase 5 finished (10 files)
+
+=== collect_feedback.py ===
+
+Collect feedback
+General feedback on mail drafting? (Enter to skip)
+e.g. make emails longer, more formal, mention federated learning more
+>   Saved global drafting note.
+
+Professor name? (Enter when done)
+> Feedback for 'palash ghosh'?
+>   Saved under 'palash ghosh'.
+
+Professor name? (Enter when done)
+> Feedback for 'Vivek Chaturvedi'?
+>   Saved under 'Vivek Chaturvedi'.
+
+Professor name? (Enter when done)
+> Feedback for 'Anup Singh'?
+>   Saved under 'Anup Singh'.
+
+Professor name? (Enter when done)
+> Wrote C:\Users\gurma\Desktop\projs\ambitio\output\feedback_store.json
+Regenerate professor list and mail drafts using this feedback? (yes/no)
+> 
+Started
+Wrote C:\Users\gurma\Desktop\projs\ambitio\output\phase3_candidates.json (10 candidates)
+Phase 4 started
+  [1/10] 'Phaneendra K. Yalavarthy'
+  [2/10] 'M. Michael Gromiha'
+  [3/10] 'Karthik Raman'
+  [4/10] 'Amit Mehndiratta'
+  [5/10] 'Hamim Zafar'
+  [6/10] 'Deepak Sharma'
+  [7/10] 'Debanga Raj Neog'
+  [8/10] 'Rajiv K. Kar'
+  [9/10] 'M. Sabarimalai Manikandan'
+  [10/10] 'Vivek Chathurvedi'
+Wrote C:\Users\gurma\Desktop\projs\ambitio\output\phase4_candidates_enriched.json (10 rows)
+Phase 5 started
+  [1/10] 'Phaneendra K. Yalavarthy'
+    Wrote output\mails\phaneendra_k_yalavarthy_1_name.txt
+  [2/10] 'M. Michael Gromiha'
+    Wrote output\mails\m_michael_gromiha_2_name.txt
+  [3/10] 'Karthik Raman'
+    Wrote output\mails\karthik_raman_3_name.txt
+  [4/10] 'Amit Mehndiratta'
+    Wrote output\mails\amit_mehndiratta_4_name.txt
+  [5/10] 'Hamim Zafar'
+    Wrote output\mails\hamim_zafar_5_name.txt
+  [6/10] 'Deepak Sharma'
+    Wrote output\mails\deepak_sharma_6_name.txt
+  [7/10] 'Debanga Raj Neog'
+    Wrote output\mails\debanga_raj_neog_7_name.txt
+  [8/10] 'Rajiv K. Kar'
+    Wrote output\mails\rajiv_k_kar_8_name.txt
+  [9/10] 'M. Sabarimalai Manikandan'
+    Wrote output\mails\m_sabarimalai_manikandan_9_name.txt
+  [10/10] 'Vivek Chathurvedi'
+    Wrote output\mails\vivek_chathurvedi_10_name.txt
+Phase 5 finished (10 files)

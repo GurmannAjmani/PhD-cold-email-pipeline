@@ -1,0 +1,13 @@
+To: yalavarthy@iisc.ac.in
+
+Subject: PhD Inquiry in Medical Imaging and AI at MIG/TANUH
+
+Hope you are doing well. I am writing to express my interest in pursuing a PhD under your guidance at the Medical Imaging Group (MIG) / TANUH: AI-Centre of Excellence in Healthcare. I came across your lab's work in artificial intelligence for medical imaging, particularly in the areas of perfusion imaging, medical image processing, and inverse problems in imaging. Your research theme on "Non‐local means improves total‐variation constrained photoacoustic image reconstruction" resonated with me, as it highlights the potential of AI in enhancing medical imaging techniques.
+
+I found your paper "Non‐local means improves total‐variation constrained photoacoustic image reconstruction" (2021) to be particularly interesting, as it demonstrates the effectiveness of non-local means in improving photoacoustic image reconstruction. Another paper that caught my attention was "A generalized least-squares minimization method for near infrared diffuse optical tomography" (2007), which showcases the potential of diffuse optical tomography in breast cancer imaging. The use of near-infrared light in this context is a fascinating application of AI in medical imaging. Your lab's work in these areas aligns with my research interests, and I am excited about the opportunity to contribute to and learn from your team.
+
+My own research experience has been focused on applying machine learning and AI to healthcare problems. In my summer research internship, I worked on ECG arrhythmia classification using 1D CNNs and temporal attention. I also worked on a project involving multimodal disease risk prediction, where I combined structured EHR tabular features with discharge-summary text using ClinicalBERT embeddings fused with XGBoost. Additionally, I have experience with skin lesion classification using ResNet-50 and EfficientNet-B0, and federated learning for medical imaging. My projects have given me hands-on experience with deep learning, self-supervised pretraining, and federated optimization, which I believe would be valuable assets to your lab. I am excited about the opportunity to apply my skills and knowledge to the research themes being explored in your lab.
+
+I am writing to inquire about potential PhD opportunities in your lab. Could you please let me know if there are any openings available? I would be thrilled to discuss my application and research interests further with you. Regards, 
+Arjun Mehta
++91 98765 43210

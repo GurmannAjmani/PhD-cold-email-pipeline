@@ -1,0 +1,16 @@
+To: kraman@iitm.ac.in
+
+Subject: PhD Inquiry in Computational Systems Biology Lab
+
+Hope you are doing well. I am writing to express my interest in pursuing a PhD under your guidance at the Computational Systems Biology Lab, particularly in the area of Biological Big Data Analysis and in silico metabolic engineering. Your lab's research focus on computational approaches to understand and manipulate biological networks resonates with my goals, and I am impressed by the work being done in your group.
+
+ 
+I came across your paper "Effect of Dormant Spare Capacity on the Attack Tolerance of Complex Networks" and found it fascinating how you explored the vulnerability of networks to targeted attacks. The concept of dormant spare capacity and its impact on network resilience is intriguing, and I appreciate the interdisciplinary approach your lab takes to tackle complex problems. Another work that caught my attention is "COWAVE: A labelled COVID-19 wave dataset for building predictive models", which highlights the importance of data-driven approaches in understanding and mitigating the effects of pandemics.
+
+ 
+My own research experience has been focused on applying machine learning and artificial intelligence to healthcare problems. In my summer research internship, I worked on ECG arrhythmia classification using 1D CNNs and temporal attention, and I have also explored trustworthy deployment of clinical NLP and imaging models in my undergraduate research project. My projects, such as multimodal disease risk prediction and skin lesion classification, have given me hands-on experience with deep learning, federated learning, and clinical data analysis. I believe that my skills and interests align with the research themes in your lab, particularly in the areas of biological network design and biological big data analysis.
+
+ 
+I would like to inquire about potential PhD opportunities in your lab and explore how my research interests and skills can contribute to the ongoing projects. Regards, 
+Arjun Mehta
++91 98765 43210

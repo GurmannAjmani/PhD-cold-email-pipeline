@@ -1,0 +1,13 @@
+To: amehndiratta@cbme.iitd.ac.in
+
+Subject: PhD Inquiry for Centre for Biomedical Engineering at IIT Delhi
+
+Hope you are doing well. I am writing to express my interest in pursuing a PhD under your supervision at the Centre for Biomedical Engineering, specifically in the area of Magnetic Resonance Imaging and Quantitative Medical Image Analysis. Your lab's work on AI-driven prediction models for mechanical ventilation duration using lung ultrasound scores, as seen in your 2025 paper "AI Driven Prediction Model for Mechanical Ventilation Duration Using Lung Ultrasound Score", resonated with me, and I am impressed by the interdisciplinary approach your team takes in tackling complex healthcare problems.
+
+I found your research on machine learning for tertiary care hospital settings, such as the paper "Early prognosis prediction in mechanically ventilated patients using machine learning for tertiary care hospital settings", to be particularly interesting. The use of machine learning to predict invasive mechanical ventilation in sepsis, as explored in "ML-Driven Prediction of Invasive Mechanical Ventilation in Sepsis: Insights from a tertiary care hospital in India", demonstrates the potential for AI to improve patient outcomes in critical care. Your work has not only advanced our understanding of the applications of machine learning in healthcare but also highlighted the importance of considering the clinical context in which these models are deployed.
+
+My own research experience has been focused on applying machine learning to healthcare problems. In my summer research internship, I worked on ECG arrhythmia classification using 1D CNNs and temporal attention, and I have also explored the use of multimodal disease risk prediction by combining structured EHR tabular features with discharge-summary text using ClinicalBERT embeddings fused with XGBoost. Additionally, I have worked on skin lesion classification using ResNet-50 and EfficientNet-B0 with weighted cross-entropy and mixup, and I have implemented federated learning for medical imaging using FedAvg and FedProx with differential privacy noise. These projects have not only deepened my understanding of machine learning methodologies but also instilled in me a passion for developing clinical ML systems that are accurate, calibrated, and deployable.
+
+I am excited about the possibility of joining your lab and contributing to the ongoing research in the Centre for Biomedical Engineering. Could you please let me know if there are any PhD opportunities available in your lab? I would be thrilled to discuss my application and research interests further. Regards, 
+Arjun Mehta
++91 98765 43210

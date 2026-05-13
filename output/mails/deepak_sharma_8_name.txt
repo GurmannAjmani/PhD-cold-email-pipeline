@@ -1,0 +1,16 @@
+To: deepak.sharma@bt.iitr.ac.in
+
+Subject: PhD Inquiry in Computational Biology and Translational Bioinformatics
+
+Hope you are doing well. I am writing to express my interest in pursuing a PhD under your guidance at the Indian Institute of Technology Roorkee, specifically in the Computational Biology and Translational Bioinformatics Laboratory. I am drawn to your lab's work in developing innovative solutions for healthcare, such as the SwasthGarbh smartphone app for improving antenatal care and maternal-fetal health.
+
+ 
+I found your research on model order reduction using Singular Value Decomposition-Based Reduced Order Framework of Frequency Weighted Continuous-Time Systems to be particularly interesting. The idea of preserving the intrinsic characteristics of complex systems while approximating them with lower-order models resonates with my own research interests in trustworthy healthcare ML, where model simplicity and interpretability are crucial. I also appreciate the lab's focus on translational bioinformatics, which aligns with my goal of building clinical ML systems that are accurate, calibrated, and deployable.
+
+ 
+My own research experience has involved working on various projects, including multimodal disease risk prediction, skin lesion classification, and federated learning for medical imaging. In my undergraduate research, I focused on trustworthy deployment of clinical NLP and imaging models under Prof. Ananya Desai's guidance. I believe that my experience with deep learning, self-supervised pretraining, and federated optimization could be valuable assets in contributing to your lab's research. Specifically, I am excited about the prospect of exploring the application of machine learning and image analysis techniques in the context of your lab's research, such as analyzing medical images and developing mobile apps for healthcare.
+
+ 
+I would like to inquire about potential PhD opportunities in your laboratory and discuss how my research interests and skills align with your lab's focus. Regards, 
+Arjun Mehta
++91 98765 43210

@@ -1,0 +1,16 @@
+To: debdoot@ee.iitkgp.ac.in
+
+Subject: PhD Inquiry for KLIV Research Group
+
+Hope you are doing well. I am writing to express my interest in pursuing a PhD under your supervision at the Kharagpur Learning, Imaging & Visualization (KLIV) research group, specifically in the area of medical imaging and image computing. I am drawn to your lab's research focus on combining machine learning, medical imaging, and visualization, as well as your work on deep learning for signal processing, computational imaging, and super resolution.
+
+ 
+Your prior work in the field of medical imaging and machine learning has been truly inspiring, and I found the concept of "Intelligent Replay Sampling for Lifelong Object Recognition" particularly interesting. The idea of solving the image recognition task in an incremental manner and addressing the issue of catastrophic forgetting is a significant challenge in the field. I also came across your paper on "Brightness preserving dynamic fuzzy histogram equalization" and was impressed by the approach to preserve the brightness of images while enhancing their contrast. The application of such techniques in medical imaging can be highly beneficial, and I believe that your research has the potential to make a significant impact in this area.
+
+ 
+My own research experience has been focused on applying machine learning and deep learning techniques to healthcare problems. In my summer research internship, I worked on ECG arrhythmia classification using 1D CNNs and temporal attention, and I also explored the use of ClinicalBERT embeddings for multimodal disease risk prediction. My projects, such as skin lesion classification and federated learning for medical imaging, have given me hands-on experience with deep learning frameworks like PyTorch and TensorFlow, as well as techniques like transfer learning and domain adaptation. I believe that my research interests and skills align with the work being done at the KLIV research group, and I am excited about the opportunity to contribute to and learn from your team.
+
+ 
+I would like to inquire about potential PhD opportunities in your lab and discuss how my research interests and skills align with your group's work. Regards, 
+Arjun Mehta
++91 98765 43210

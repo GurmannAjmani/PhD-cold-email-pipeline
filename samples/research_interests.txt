@@ -1,0 +1,19 @@
+I want to pursue a PhD in computer science focused on artificial intelligence and machine learning for healthcare. My goal is to build clinical ML systems that are accurate, calibrated, and deployable — not just strong on benchmark splits.
+
+Primary research directions:
+1. Clinical NLP & biomedical text mining — information extraction from discharge summaries and clinical notes, relation extraction, weak supervision, and multilingual healthcare text (English + Indian language clinical corpora where available).
+2. Medical imaging & physiological signals — chest X-ray and dermoscopy analysis, ECG/PPG time-series modeling, domain shift across hospitals/scanners, and label-efficient learning.
+3. Trustworthy healthcare ML — uncertainty quantification, calibration, fairness across patient subgroups, distribution shift, and auditability for clinical decision support.
+4. Privacy-preserving learning — federated learning and differential privacy for multi-hospital collaboration without centralizing raw patient data.
+
+Problems I want to work on:
+- Learning from limited, noisy, and imbalanced labels in real hospital workflows.
+- Multimodal fusion of structured EHR data with text and imaging.
+- Evaluating models beyond accuracy (calibration, robustness, failure modes under shift).
+- Bridging ML advances with clinical usability constraints (latency, interpretability hooks, integration with existing pipelines).
+
+Methods I am excited about: deep learning (CNNs, Transformers), self-supervised pretraining on medical data, contrastive learning, federated optimization, Bayesian/deep ensembles for uncertainty, and human-in-the-loop annotation.
+
+Preferred lab environment: groups working at the intersection of ML and healthcare/biomedical informatics — clinical NLP labs, digital health centres, medical imaging + AI groups, or computational biology labs with strong ML methodology.
+
+Keywords: healthcare AI, clinical NLP, biomedical informatics, medical imaging, ECG analysis, EHR analytics, multimodal learning, federated learning, trustworthy AI, calibration, distribution shift, digital health, deep learning, transformers, weak supervision, privacy-preserving ML.

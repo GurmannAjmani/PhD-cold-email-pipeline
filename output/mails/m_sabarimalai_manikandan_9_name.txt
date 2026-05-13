@@ -1,0 +1,13 @@
+To: msm@iitpkd.ac.in
+
+Subject: PhD Inquiry in AI for Healthcare at IIT Palakkad
+
+Hope you are doing well. I am writing to express my interest in pursuing a PhD under your guidance at the Indian Institute of Technology Palakkad, specifically in the area of AI and Machine Learning for Healthcare. I came across your work in the context of the Signal Processing lab, and I was particularly drawn to your research theme on Signal Quality Assessment, Noise Recognition, Denoising, Feature Extraction, and Compression, as well as your work on Smart Medical Devices and Health Monitoring Systems.
+
+I found your paper "Compressed ecg sensing based fast/slow hr and regular/irregular rhythm recognition for resource-constrained health monitoring devices" to be particularly interesting, as it highlights the importance of developing lightweight and efficient algorithms for ECG signal analysis. Another paper that caught my attention was "Automatic SWT based QRS detection using weighted subbands and Shannon energy peak amplification for ECG signal analysis devices", which demonstrates the potential of using signal processing techniques for accurate QRS detection. I also appreciated the work presented in "Corn Leaf Disease Classification using Hybrid Convolutional Neural Networks with Spatial and Frequency Domain Features", which showcases the application of deep learning techniques in the context of disease classification.
+
+My own research experience has been focused on developing clinical ML systems that are accurate, calibrated, and deployable. In my undergraduate research, I worked on projects such as multimodal disease risk prediction, skin lesion classification, and federated learning for medical imaging. One of my projects involved combining structured EHR tabular features with discharge-summary text using ClinicalBERT embeddings fused with XGBoost, and evaluating the model on a MIMIC-III-derived cohort. Another project involved implementing FedAvg and FedProx with differential privacy noise for simulated hospital silos on CheXpert-style chest X-ray subsets. I believe that my research experience and interests align with your work, and I am excited about the possibility of contributing to and learning from your research group.
+
+I would like to inquire about potential PhD opportunities in your lab, and I am particularly interested in exploring research directions such as clinical NLP, medical imaging, and trustworthy healthcare ML. Regards, 
+Arjun Mehta
++91 98765 43210

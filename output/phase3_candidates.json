@@ -1,0 +1,177 @@
+{
+  "candidates": [
+    {
+      "name": "Phaneendra K. Yalavarthy",
+      "role": "faculty",
+      "lab_name": "Medical Imaging Group (MIG) / TANUH: AI-Centre of Excellence in Healthcare",
+      "institute": "Indian Institute of Science",
+      "institute_id": "indian-institute-of-science-iisc-ac-in-0",
+      "primary_domain": "iisc.ac.in",
+      "source_urls": [
+        "https://cds.iisc.ac.in/faculty/yalavarthy/",
+        "https://cds.iisc.ac.in/mig/people/",
+        "https://cds.iisc.ac.in/",
+        "https://cds.iisc.ac.in/people/phaneendra-kumar-yalavarthy/",
+        "http://cds.iisc.ac.in/faculty/yalavarthy/"
+      ],
+      "email": "yalavarthy@iisc.ac.in",
+      "research_interests_snippet": "Artificial Intelligence for Medical Imaging, Computational methods in Medical Imaging, Perfusion imaging, Medical Image Processing (reconstruction/analysis), Inverse problems in Imaging, Imaging in Digital Rock, and Cyber-Physical Systems. Also, multi-modal imaging, medical image reconstruction techniques, diffuse optical tomography, photo-acoustic imaging, neuroimaging.",
+      "confidence": 1.0
+    },
+    {
+      "name": "M. Michael Gromiha",
+      "role": "faculty",
+      "lab_name": "Protein Bioinformatics Lab",
+      "institute": "Indian Institute of Technology Madras",
+      "institute_id": "indian-institute-of-technology-madras-iitm-ac-in-2",
+      "primary_domain": "iitm.ac.in",
+      "source_urls": [
+        "https://biotech.iitm.ac.in/faculty/m-michael-gromiha",
+        "http://www.iitm.ac.in/info/faculty/gromiha",
+        "https://www.iitm.ac.in/happenings/press-releases/iit-madras-researchers-develop-machine-learning-tool-detect-tumour-brain",
+        "https://www.iitm.ac.in/people/m-michael-gromiha",
+        "https://www.iitm.ac.in/faculty/m-michael-gromiha",
+        "http://www.iitm.ac.in/bioinfo/gromiha/index.html"
+      ],
+      "email": "gromiha@iitm.ac.in",
+      "research_interests_snippet": "Protein Bioinformatics: structure, folding, stability and interactions. Research areas include binding affinity of protein-protein, protein-DNA, protein-RNA and protein-carbohydrate complexes; hotspot residues and disease causing mutations in proteins; stability of globular and membrane proteins; structure based drug design; and development of databases and computational tools. Also, machine learning approaches for predicting binding affinity and detecting tumors.",
+      "confidence": 0.8
+    },
+    {
+      "name": "Karthik Raman",
+      "role": "faculty",
+      "lab_name": "Computational Systems Biology Lab",
+      "institute": "Indian Institute of Technology Madras",
+      "institute_id": "indian-institute-of-technology-madras-iitm-ac-in-2",
+      "primary_domain": "iitm.ac.in",
+      "source_urls": [
+        "https://ibse.iitm.ac.in/computational-systems-biology",
+        "https://biotech.iitm.ac.in/faculty/karthik-raman",
+        "https://www.iitm.ac.in/people/karthik-raman",
+        "https://www.iitm.ac.in/faculty/karthik-raman"
+      ],
+      "email": "kraman@iitm.ac.in",
+      "research_interests_snippet": "Computational Approaches to Understand and Manipulate Biological Networks; Biological Big Data Analysis; High-performance Computing for Systems Biology; In silico metabolic engineering; Theoretical investigations into biological networks. Key focus areas also include microbiome systems biology, in silico metabolic engineering, biological network design, and biological big data analysis.",
+      "confidence": 0.7
+    },
+    {
+      "name": "Amit Mehndiratta",
+      "role": "faculty",
+      "lab_name": "Centre for Biomedical Engineering",
+      "institute": "Indian Institute of Technology Delhi",
+      "institute_id": "indian-institute-of-technology-delhi-iitd-ac-in-3",
+      "primary_domain": "iitd.ac.in",
+      "source_urls": [
+        "https://cbme.iitd.ac.in/research/medical-imaging",
+        "https://cbme.iitd.ac.in/team/amit-mehndiratta",
+        "https://home.iitd.ac.in/faculty/amit-mehndiratta.php",
+        "https://www.iitd.ac.in/content/amit-mehndiratta"
+      ],
+      "email": "amehndiratta@cbme.iitd.ac.in",
+      "research_interests_snippet": "Magnetic Resonance Imaging, Quantitative Medical Image Analysis, Image Processing, Neurorehabilitation, Assistive Technologies, Machine Learning. Also, Biomedical imaging, Physiological modeling and Quantitative image analysis, Image guided intervention, Mobile assisted healthcare (m-Health). Research includes robotic exoskeletal devices and augmented reality/virtual reality technology for stroke rehabilitation.",
+      "confidence": 1.0
+    },
+    {
+      "name": "Hamim Zafar",
+      "role": "faculty",
+      "lab_name": null,
+      "institute": "Indian Institute of Technology Kanpur",
+      "institute_id": "indian-institute-of-technology-kanpur-iitk-ac-in-6",
+      "primary_domain": "iitk.ac.in",
+      "source_urls": [
+        "https://www.cse.iitk.ac.in/faculty/hamim/",
+        "https://www.iitk.ac.in/bsbe/hamim-zafar",
+        "https://hamimzafar.wixsite.com/iitk",
+        "https://scholar.google.com/citations?user=y_42_20AAAAJ&hl=en"
+      ],
+      "email": "hamim@iitk.ac.in",
+      "research_interests_snippet": "Computational biology; probabilistic modeling; single-cell biology; evolution and cancer. Research focuses on the design of scalable computational techniques backed by probabilistic modeling and statistical inference methods for understanding the biology of cancer and furthering the knowledge about single-cell biology. Also, developing novel computational techniques for utilizing single-cell RNA sequencing data.",
+      "confidence": 0.8
+    },
+    {
+      "name": "Deepak Sharma",
+      "role": "faculty",
+      "lab_name": "Computational Biology and Translational Bioinformatics Laboratory (CBTB Lab)",
+      "institute": "Indian Institute of Technology Roorkee",
+      "institute_id": "indian-institute-of-technology-roorkee-iitr-ac-in-7",
+      "primary_domain": "iitr.ac.in",
+      "source_urls": [
+        "https://www.iitr.ac.in/departments/BSBE/pages/Research_Computational_Biology_and_Translational_Bioinformatics_Lab.html",
+        "http://compbio.iitr.ac.in",
+        "https://www.iitr.ac.in/departments/BSBE/faculty/Deepak_Sharma.html",
+        "https://scholar.google.com/citations?user=2422t4YAAAAJ&hl=en"
+      ],
+      "email": "deepak.sharma@bt.iitr.ac.in",
+      "research_interests_snippet": "Computational Biology, Translational Bioinformatics, Medicoinformatics. Research includes machine learning and telemedicine for early diagnosis and treatment of cardiovascular diseases, exploiting machine learning and medicinal plants for diagnosis/treatment of diseases, image analysis, and mobile apps.",
+      "confidence": 1.0
+    },
+    {
+      "name": "Debanga Raj Neog",
+      "role": "faculty",
+      "lab_name": "Pattern and Motion Analysis Lab",
+      "institute": "Indian Institute of Technology Guwahati",
+      "institute_id": "indian-institute-of-technology-guwahati-iitg-ac-in-8",
+      "primary_domain": "iitg.ac.in",
+      "source_urls": [
+        "https://www.iitg.ac.in/dsai/faculty/debanga-raj-neog/",
+        "https://www.iitg.ac.in/faculty/debanga-raj-neog",
+        "https://www.coursera.org/instructor/debanga-raj-neog",
+        "https://scholar.google.com/citations?user=2422t4YAAAAJ&hl=en"
+      ],
+      "email": "dneog@iitg.ac.in",
+      "research_interests_snippet": "Machine learning and Deep Learning (Object tracking and localization, stereo reconstruction), Image Processing (Semantic segmentation, biomedical image processing), Computer Vision (Eye tracking, face tracking), Computer Graphics and AR/VR (Facial animation, anatomical augmented reality), Computational Imaging (High dynamic range imaging). Also, computer vision, computer graphics, and machine learning.",
+      "confidence": 0.9
+    },
+    {
+      "name": "Rajiv K. Kar",
+      "role": "faculty",
+      "lab_name": "Bio-sensors and Informatics Lab",
+      "institute": "Indian Institute of Technology Guwahati",
+      "institute_id": "indian-institute-of-technology-guwahati-iitg-ac-in-8",
+      "primary_domain": "iitg.ac.in",
+      "source_urls": [
+        "https://sites.google.com/view/biosensors-and-informatics-lab/home",
+        "https://www.iitg.ac.in/shst/faculty/rajiv-k-kar",
+        "https://www.iitg.ac.in/faculty/rajiv-k-kar",
+        "https://www.researchgate.net/profile/Rajiv-Kar-2"
+      ],
+      "email": "rajivkar@iitg.ac.in",
+      "research_interests_snippet": "Biosensors and Point-of-Care Technology, Nanotechnology, Cancer Theranostics, Simulations and Data Analytics (AI/ML), Biomaterials. Research is dedicated to advancing Point of Care (POC) Technology by developing innovative detection processes for Biomarkers. Also, integration of Informatics, Data Science and Analytics to process complex datasets from simulations, health records, and sensor outputs for understanding biological systems, monitoring health, and guiding personalized therapy.",
+      "confidence": 0.9
+    },
+    {
+      "name": "M. Sabarimalai Manikandan",
+      "role": "faculty",
+      "lab_name": null,
+      "institute": "Indian Institute of Technology Palakkad",
+      "institute_id": "indian-institute-of-technology-palakkad-iitpkd-ac-in-9",
+      "primary_domain": "iitpkd.ac.in",
+      "source_urls": [
+        "https://ee.iitpkd.ac.in/faculty/m-sabarimalai-manikandan",
+        "https://www.iitpkd.ac.in/people/msm",
+        "https://www.researchgate.net/profile/M-Manikandan-2",
+        "https://scholar.google.com/citations?user=026i70IAAAAJ&hl=en"
+      ],
+      "email": "msm@iitpkd.ac.in",
+      "research_interests_snippet": "Signal Processing for Signal Quality Assessment, Noise Recognition, Denoising, Feature Extraction and Compression; VLSI Signal Processing Architectures for Energy-Efficient Event Detection and Monitoring Systems; AI/Machine Learning for Event Recognition; Internet of Things - Energy Consumption Reduction Strategies, Cognitive Radios and Data Security; Multimodal Information Processing; Image Processing. Focus on Smart Medical Devices and Health Monitoring Systems, including Fast R-Peak Detection from Compressed ECG Sensing Measurements.",
+      "confidence": 1.0
+    },
+    {
+      "name": "Vivek Chathurvedi",
+      "role": "faculty",
+      "lab_name": null,
+      "institute": "Indian Institute of Technology Palakkad",
+      "institute_id": "indian-institute-of-technology-palakkad-iitpkd-ac-in-9",
+      "primary_domain": "iitpkd.ac.in",
+      "source_urls": [
+        "https://iitpkd.ac.in/people/vivek",
+        "https://icsr.iitpkd.ac.in/project/securing-deep-neural-networks-against-adversarial-attacks-in-medical-imaging",
+        "https://www.researchgate.net/profile/Vivek-Chaturvedi-2",
+        "https://scholar.google.com/citations?user=026i70IAAAAJ&hl=en"
+      ],
+      "email": "vivek@iitpkd.ac.in",
+      "research_interests_snippet": "Principal Investigator for a project on 'Securing Deep Neural Networks against Adversarial Attacks in Medical Imaging'. General research interests include Computer Architecture, Embedded Systems, IoT, Reliability and Security in Automotive. User feedback indicates interest in accepting PhD students in ML.",
+      "confidence": 0.9
+    }
+  ]
+}

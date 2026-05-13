@@ -1,0 +1,13 @@
+To: vivek@iitpkd.ac.in
+
+Subject: PhD Inquiry in Secure Deep Learning for Healthcare
+
+Hope you are doing well. I am writing to express my interest in pursuing a PhD under your guidance at the Indian Institute of Technology Palakkad, specifically in your lab, which focuses on Securing Deep Neural Networks against Adversarial Attacks in Medical Imaging. I am drawn to your work in this area, particularly the theme of Reliability and Security in Automotive and IoT, as it aligns with my research aspirations in building trustworthy clinical ML systems.
+
+I found your paper, "FRNet: A Feature-Rich CNN Architecture to Defend Against Adversarial Attacks," to be particularly interesting, as it highlights the importance of securing deep learning models against adversarial attacks. The idea of using a feature-rich CNN architecture to defend against such attacks resonates with my own research experience in using deep learning for ECG arrhythmia classification and skin lesion classification. I also appreciate the work presented in "CWT based Fetal ECG signal analysis in terms of R-peaks detection," which showcases the application of signal processing techniques to improve the accuracy of fetal ECG signal analysis.
+
+My own research experience has involved working on various projects, including ECG arrhythmia classification using 1D CNNs and temporal attention, multimodal disease risk prediction by combining structured EHR features with discharge summary text, and federated learning for medical imaging. In my undergraduate research, I have been exploring the trustworthy deployment of clinical NLP and imaging models under the guidance of Prof. Ananya Desai. My projects have equipped me with skills in deep learning, clinical NLP, and biomedical informatics, which I believe would be valuable in contributing to your lab's research endeavors. For instance, my experience with federated learning and differential privacy could be applied to develop privacy-preserving ML models for multi-hospital collaboration, which aligns with your research focus on reliability and security in IoT and automotive.
+
+I would like to inquire about potential PhD opportunities in your lab, particularly in the area of securing deep neural networks against adversarial attacks in medical imaging. I am excited about the prospect of working with you and contributing to the vibrant research environment at IIT Palakkad. Regards, 
+Arjun Mehta
++91 98765 43210

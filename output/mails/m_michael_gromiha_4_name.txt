@@ -1,0 +1,13 @@
+To: gromiha@iitm.ac.in
+
+Subject: PhD Inquiry in Protein Bioinformatics Lab
+
+Hope you are doing well. I am writing to express my interest in pursuing a PhD under your guidance at the Indian Institute of Technology Madras, specifically in the Protein Bioinformatics Lab. I came across your lab while exploring research in structural analysis and prediction of proteins, and I was particularly drawn to your work on the role of protein aggregation and interactions between α-Synuclein and Calbindin in Parkinson's Disease.
+
+Your prior work in the field of protein bioinformatics has been truly inspiring, and I found the paper "Tackling Covid‐19 using disordered‐to‐order transition of residues in the spike protein upon angiotensin‐converting enzyme 2 binding" to be particularly interesting. The way you utilized computational tools to analyze the spike protein and its interaction with angiotensin-converting enzyme 2 is a great example of how bioinformatics can be applied to understand complex biological systems. I also appreciated the lab theme of developing computational tools for analysis and prediction of disease-causing mutations, as seen in the Pred‐MutHTP paper.
+
+My own research experience has been focused on applying machine learning and deep learning techniques to healthcare problems. In my summer research internship, I worked on ECG arrhythmia classification using 1D CNNs and temporal attention, and I also explored the deployment of clinical NLP and imaging models in a trustworthy and calibrated manner. Two specific projects that I would like to highlight are my work on multimodal disease risk prediction, where I combined structured EHR features with discharge-summary text using ClinicalBERT embeddings, and my project on skin lesion classification using ResNet-50 and EfficientNet-B0 with weighted cross-entropy and mixup. These projects have given me a strong foundation in machine learning and deep learning, and I believe that they connect to your research in protein bioinformatics through the application of computational tools to understand complex biological systems.
+
+I am excited about the opportunity to pursue a PhD in your lab and contribute to the development of computational tools for protein analysis and prediction. Could you please let me know if there are any PhD opportunities available in your lab? Regards, 
+Arjun Mehta
++91 98765 43210

@@ -1,0 +1,13 @@
+To: palash.ghosh@iitg.ac.in
+
+Subject: PhD Inquiry in AI for Healthcare at IIT Guwahati
+
+Hope you are doing well. I am writing to express my interest in pursuing a PhD in Computer Science under your guidance at the Indian Institute of Technology Guwahati. I came across your lab, which focuses on Dynamic Treatment Regimes (DTR) and personalized medicine, and I was particularly drawn to your work on Sequential Multiple Assignment Randomized Trials (SMART) Design and analysis of clinical trials. Your research theme on pharmacovigilance and public health also resonates with my interests.
+
+I found your paper "A Comparative Performance Analysis for Classification of Real-Time Illumination Images Using Histogram Driven Euclidean Distance and Intersection Technique" to be quite interesting, as it highlights the potential of illuminance imaging in environments where optical imaging is not feasible. The use of lux sensor measurements and Wi-Fi-enabled microcontrollers to classify illuminance images is a novel approach that caught my attention. Additionally, your work on "Classification of illuminance images using eigenface technique" demonstrates the effectiveness of eigenface techniques in classifying illuminance images. These papers showcase your expertise in applying machine learning techniques to real-world problems, which aligns with my research goals.
+
+My own research experience has been focused on applying machine learning and deep learning techniques to healthcare problems. In my summer research internship, I worked on ECG arrhythmia classification using 1D CNNs and temporal attention, and I also explored the use of ClinicalBERT embeddings for multimodal disease risk prediction. My projects, such as multimodal disease risk prediction, skin lesion classification, and federated learning for medical imaging, have given me hands-on experience with techniques like deep learning, contrastive learning, and federated optimization. I believe that my research experience and skills in Python, PyTorch, and Hugging Face Transformers would be a good fit for your lab.
+
+I would like to inquire about potential PhD opportunities in your lab, particularly in the areas of clinical NLP, medical imaging, and trustworthy healthcare ML. Could you please let me know if there are any openings available? Regards, 
+Arjun Mehta
++91 98765 43210

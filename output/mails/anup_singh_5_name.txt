@@ -1,0 +1,16 @@
+To: anupsm@iitd.ac.in
+
+Subject: PhD Inquiry in Medical Imaging Group
+
+Hope you are doing well. I am writing to express my interest in pursuing a PhD under your supervision in the Medical Imaging Group at the Indian Institute of Technology Delhi. I am particularly drawn to your work in the area of Magnetic Resonance Imaging and Quantitative Imaging, and I believe that your research aligns with my own interests in artificial intelligence and machine learning for healthcare.
+
+ 
+Your prior work in medical imaging has been truly inspiring, and I found the paper "Dielectric and electrical properties of Sm2/3Cu3Ti4O12 and Co− V doped Sm2/3Cu3Ti4O12 fabricated by semi wet route" to be particularly interesting. The use of perovskite oxide in medical imaging applications is a fascinating area of research, and I appreciate the attention to detail in your work. I also noticed that you have been involved in organizing conferences such as the International Conference in Mechanical and Energy Technology, which highlights your commitment to advancing research in the field.
+
+ 
+My own research experience has been focused on applying machine learning techniques to healthcare problems. In my summer research internship at the Hospital-affiliated Digital Health Lab, I worked on ECG arrhythmia classification using 1D CNNs and temporal attention. I also worked on a project involving multimodal disease risk prediction, where I combined structured EHR tabular features with discharge-summary text using ClinicalBERT embeddings fused with XGBoost. I believe that my experience in these areas aligns with your research interests, and I am excited about the possibility of contributing to the Medical Imaging Group.
+
+ 
+I would be honored to discuss PhD opportunities in your group further. Could you please let me know if there are any openings available? Regards, 
+Arjun Mehta
++91 98765 43210

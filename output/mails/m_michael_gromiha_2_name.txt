@@ -1,0 +1,16 @@
+To: gromiha@iitm.ac.in
+
+Subject: PhD Inquiry in Protein Bioinformatics Lab
+
+Hope you are doing well. I am writing to express my interest in pursuing a PhD under your guidance at the Protein Bioinformatics Lab, particularly in the area of machine learning approaches for predicting binding affinity and detecting tumors. Your lab's research focus on protein bioinformatics, including structure, folding, stability, and interactions, resonates with my passion for applying artificial intelligence and machine learning to healthcare problems.
+
+ 
+Your prior work in protein bioinformatics has been truly inspiring, and I found the paper "Tackling Covid‐19 using disordered‐to‐order transition of residues in the spike protein upon angiotensin‐converting enzyme 2 binding" (2021) to be especially interesting. The idea of using machine learning to predict binding affinity and understand the underlying mechanisms of protein-protein interactions is fascinating. I also appreciated the lab's theme of developing databases and computational tools for protein research, as evident in the paper "Pred‐MutHTP: Prediction of disease‐causing and neutral mutations in human transmembrane proteins" (2020). The application of machine learning techniques to predict disease-causing mutations is a crucial area of research that can have significant impacts on our understanding of protein-related diseases.
+
+ 
+My own research experience has been focused on applying machine learning to healthcare problems. In my summer research internship, I worked on ECG arrhythmia classification using 1D CNNs and temporal attention, and I have also been involved in projects related to clinical NLP, medical imaging, and trustworthy healthcare ML. For instance, my project on multimodal disease risk prediction combined structured EHR features with discharge-summary text using ClinicalBERT embeddings fused with XGBoost, and I evaluated the model's performance on a MIMIC-III-derived cohort. I believe that my experience and interests align with the research focus of your lab, particularly in the area of machine learning approaches for predicting binding affinity and detecting tumors. I am excited about the prospect of exploring the applications of protein bioinformatics in healthcare and contributing to the development of novel computational tools and databases.
+
+ 
+I would like to inquire about potential PhD opportunities in your lab and discuss how my research interests and experience align with your lab's goals. Regards, 
+Arjun Mehta
++91 98765 43210

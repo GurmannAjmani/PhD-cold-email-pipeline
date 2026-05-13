@@ -1,0 +1,13 @@
+To: rajivkar@iitg.ac.in
+
+Subject: PhD Inquiry in Bio-sensors and Informatics Lab
+
+Hope you are doing well. I am writing to express my interest in pursuing a PhD under your guidance at the Indian Institute of Technology Guwahati, specifically in the Bio-sensors and Informatics Lab. I am drawn to your lab's work in Biosensors and Point-of-Care Technology, as well as the integration of Informatics, Data Science, and Analytics to process complex datasets from simulations, health records, and sensor outputs. Your research theme of advancing Point of Care (POC) Technology by developing innovative detection processes for Biomarkers resonates with my own research interests in artificial intelligence and machine learning for healthcare.
+
+I found your paper "Mathematical Modelling and Simulations for Enzyme Immobilization Process" particularly interesting, as it highlights the importance of understanding the mechanisms of interaction at the interface between biomacromolecules and materials. The complex interactions and processes involved in enzyme immobilization are crucial for the development of effective immobilization processes, and I appreciate the lab's focus on this area. Additionally, the lab's work on "Fluoride Toxicity in Rajasthan, India: Water Filter Distribution, Monitoring and User Perception" showcases the potential of interdisciplinary research in addressing real-world problems. I am impressed by the lab's commitment to advancing knowledge in biosensors, nanotechnology, and cancer theranostics, and I believe that my own research interests align with these areas.
+
+My own research experience has been focused on developing clinical machine learning systems that are accurate, calibrated, and deployable. In my summer research internship at the Hospital-affiliated Digital Health Lab, Mumbai, I worked on ECG arrhythmia classification using 1D CNNs and temporal attention. I also worked on a project that combined structured EHR tabular features with discharge-summary text using ClinicalBERT embeddings fused with XGBoost. My undergraduate research project under Prof. Ananya Desai (IIT Bombay) focused on trustworthy deployment of clinical NLP and imaging models. I believe that my projects, such as multimodal disease risk prediction, skin lesion classification, and federated learning for medical imaging, demonstrate my ability to work on complex problems in healthcare AI and my passion for developing innovative solutions.
+
+I would like to inquire about potential PhD opportunities in your lab, specifically in the areas of biosensors, point-of-care technology, and medical imaging. I am excited about the possibility of working with you and contributing to the lab's research efforts. Regards, 
+Arjun Mehta
++91 98765 43210

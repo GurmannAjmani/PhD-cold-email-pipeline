@@ -1,0 +1,507 @@
+{
+  "candidates_enriched": [
+    {
+      "name": "Phaneendra K. Yalavarthy",
+      "role": "faculty",
+      "lab_name": "Medical Imaging Group (MIG) / TANUH: AI-Centre of Excellence in Healthcare",
+      "institute": "Indian Institute of Science",
+      "institute_id": "indian-institute-of-science-iisc-ac-in-0",
+      "primary_domain": "iisc.ac.in",
+      "source_urls": [
+        "https://cds.iisc.ac.in/faculty/yalavarthy/",
+        "https://cds.iisc.ac.in/mig/people/",
+        "https://cds.iisc.ac.in/",
+        "https://cds.iisc.ac.in/people/phaneendra-kumar-yalavarthy/",
+        "http://cds.iisc.ac.in/faculty/yalavarthy/"
+      ],
+      "email": "yalavarthy@iisc.ac.in",
+      "research_interests_snippet": "Artificial Intelligence for Medical Imaging, Computational methods in Medical Imaging, Perfusion imaging, Medical Image Processing (reconstruction/analysis), Inverse problems in Imaging, Imaging in Digital Rock, and Cyber-Physical Systems. Also, multi-modal imaging, medical image reconstruction techniques, diffuse optical tomography, photo-acoustic imaging, neuroimaging.",
+      "confidence": 1.0,
+      "papers": [
+        {
+          "title": "Experimental investigation of perturbation Monte-Carlo based derivative estimation for imaging low-scattering tissue",
+          "link": "https://opg.optica.org/abstract.cfm?uri=OE-13-3-985",
+          "year": 2005,
+          "snippet": "Experimental results for imaging the low-scattering tissue phantoms based on the derivative estimation through perturbation Monte-Carlo (pMC) method are presented. It is proven that …"
+        },
+        {
+          "title": "Non‐local means improves total‐variation constrained photoacoustic image reconstruction",
+          "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.202000191",
+          "year": 2021,
+          "snippet": "… Phaneendra K. Yalavarthy acknowledges the DST-ICPS cluster funding (T-851) for the data science program. Part of the work is supported through IFTAS-CDS Collaborative Laboratory …"
+        },
+        {
+          "title": "Three-Dimensional Near Infrared Imaging of Pathophysiological Changes within the Breast",
+          "link": "https://apps.dtic.mil/sti/html/tr/ADA481191/",
+          "year": 2008,
+          "snippet": "Near Infrared optical imaging is a non-invasive and non-ionizing medical imaging technique that can image functional properties of biological tissue using Near Infrared NIR light. Due …"
+        },
+        {
+          "title": "A generalized least-squares minimization method for near infrared diffuse optical tomography",
+          "link": "https://search.proquest.com/openview/0fec2e9bcd2668d17bdb0b38a9a82983/1?pq-origsite=gscholar&cbl=18750",
+          "year": 2007,
+          "snippet": "Diffuse optical tomography (DOT) has the potential to become a non-invasive and non-ionizing diagnostic imaging technique for breast cancer imaging. DOT uses near-infrared (NIR) …"
+        },
+        {
+          "title": "Analytical solutions for diffuse fluorescence spectroscopy/imaging in biological tissues.<? A3B2 show ?> Part II: comparison and …",
+          "link": "https://opg.optica.org/abstract.cfm?uri=josaa-30-3-553",
+          "year": 2013,
+          "snippet": "The analytical solutions for the coupled diffusion equations that are encountered in diffuse fluorescence spectroscopy/imaging for regular geometries were compared with the well-…"
+        }
+      ],
+      "last_publication_year": 2021
+    },
+    {
+      "name": "M. Michael Gromiha",
+      "role": "faculty",
+      "lab_name": "Protein Bioinformatics Lab",
+      "institute": "Indian Institute of Technology Madras",
+      "institute_id": "indian-institute-of-technology-madras-iitm-ac-in-2",
+      "primary_domain": "iitm.ac.in",
+      "source_urls": [
+        "https://biotech.iitm.ac.in/faculty/m-michael-gromiha",
+        "http://www.iitm.ac.in/info/faculty/gromiha",
+        "https://www.iitm.ac.in/happenings/press-releases/iit-madras-researchers-develop-machine-learning-tool-detect-tumour-brain",
+        "https://www.iitm.ac.in/people/m-michael-gromiha",
+        "https://www.iitm.ac.in/faculty/m-michael-gromiha",
+        "http://www.iitm.ac.in/bioinfo/gromiha/index.html"
+      ],
+      "email": "gromiha@iitm.ac.in",
+      "research_interests_snippet": "Protein Bioinformatics: structure, folding, stability and interactions. Research areas include binding affinity of protein-protein, protein-DNA, protein-RNA and protein-carbohydrate complexes; hotspot residues and disease causing mutations in proteins; stability of globular and membrane proteins; structure based drug design; and development of databases and computational tools. Also, machine learning approaches for predicting binding affinity and detecting tumors.",
+      "confidence": 0.8,
+      "papers": [
+        {
+          "title": "Tackling Covid‐19 using disordered‐to‐order transition of residues in the spike protein upon angiotensin‐converting enzyme 2 binding",
+          "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/prot.26088",
+          "year": 2021,
+          "snippet": "… The authors thank Indian Institute of Technology Madras, Department of Biotechnology for the computational facilities. This work is partially supported by the Platform Project for …"
+        },
+        {
+          "title": "Protein Mutations: Consequences On Structure, Functions, And Diseases",
+          "link": "https://books.google.com/books?hl=en&lr=&id=skIyEQAAQBAJ&oi=fnd&pg=PR7&dq=M.+Michael+Gromiha+Indian+Institute+of+Technology+Madras&ots=v0usHD-R1r&sig=aUl61gxfa1QkDcBX4DWHFZnvd3Y",
+          "year": 2024,
+          "snippet": "… M. Michael Gromiha … I am deeply indebted to Professor PK Ponnuswamy, who introduced me to the field of proteins, and encouraged to strengthen the knowledge in protein research. …"
+        },
+        {
+          "title": "Role of Protein Aggregation and Interactions between α-Synuclein and Calbindin in Parkinson's Disease",
+          "link": "https://link.springer.com/chapter/10.1007/978-3-642-39482-9_78",
+          "year": 2013,
+          "snippet": "Parkinson’s disease is one of the neurodegenerative diseases caused by protein aggregation. It has been reported that the proteins, α-synuclein and calbindin are related with …"
+        },
+        {
+          "title": "Pred‐MutHTP: Prediction of disease‐causing and neutral mutations in human transmembrane proteins",
+          "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/humu.23961",
+          "year": 2020,
+          "snippet": "… of Biotechnology and Indian Institute of Technology Madras for computational facilities. The work is partially funded by the Department of Science and Technology, Government of India (…"
+        },
+        {
+          "title": "Computational design of protein complexes: influence of binding affinity",
+          "link": "https://pubs.rsc.org/en/content/articlehtml/2018/my/d5cc04821d",
+          "year": 2026,
+          "snippet": "… Michael Gromiha, in the Department of Biotechnology at the Indian Institute of Technology Madras, India. … She is currently a postdoctoral researcher at the Indian Institute of Technology …"
+        }
+      ],
+      "last_publication_year": 2026
+    },
+    {
+      "name": "Karthik Raman",
+      "role": "faculty",
+      "lab_name": "Computational Systems Biology Lab",
+      "institute": "Indian Institute of Technology Madras",
+      "institute_id": "indian-institute-of-technology-madras-iitm-ac-in-2",
+      "primary_domain": "iitm.ac.in",
+      "source_urls": [
+        "https://ibse.iitm.ac.in/computational-systems-biology",
+        "https://biotech.iitm.ac.in/faculty/karthik-raman",
+        "https://www.iitm.ac.in/people/karthik-raman",
+        "https://www.iitm.ac.in/faculty/karthik-raman"
+      ],
+      "email": "kraman@iitm.ac.in",
+      "research_interests_snippet": "Computational Approaches to Understand and Manipulate Biological Networks; Biological Big Data Analysis; High-performance Computing for Systems Biology; In silico metabolic engineering; Theoretical investigations into biological networks. Key focus areas also include microbiome systems biology, in silico metabolic engineering, biological network design, and biological big data analysis.",
+      "confidence": 0.7,
+      "papers": [
+        {
+          "title": "Stimulated Raman Scattering Induced Power Penalty Analysis for Optical WDM Network",
+          "link": "https://ieeexplore.ieee.org/abstract/document/5738543/",
+          "year": 2011,
+          "snippet": "… we have considered Stimulated Raman Scattering (SRS) as the source of nonlinear degradation in the multichannel system. The power penalty induced by Raman crosstalk has been …"
+        },
+        {
+          "title": "Effect of Dormant Spare Capacity on the Attack Tolerance of Complex Networks",
+          "link": "https://arxiv.org/abs/2109.12358",
+          "year": 2021,
+          "snippet": "The vulnerability of networks to targeted attacks is an issue of widespread interest for policymakers, military strategists, network engineers and systems biologists alike. Current …"
+        },
+        {
+          "title": "COWAVE: A labelled COVID-19 wave dataset for building predictive models",
+          "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284076",
+          "year": 2023,
+          "snippet": "The ongoing COVID-19 pandemic has posed a significant global challenge to healthcare systems. Every country has seen multiple waves of this disease, placing a considerable strain …"
+        },
+        {
+          "title": "A generalized Bayesian framework for maximizing information gain and model selection",
+          "link": "https://journals.plos.org/complexsystems/article?id=10.1371/journal.pcsy.0000082",
+          "year": 2026,
+          "snippet": "Computational modelling of dynamical systems often involves many free parameters estimated from experimental data. The information gained from an experiment plays a crucial role …"
+        },
+        {
+          "title": "Systems–LevelModellingandSimulationof Mycobacteriumtuberculosis: Insights forDrugDiscovery",
+          "link": "https://www.researchgate.net/profile/Karthik-Raman-4/publication/43322374_Systems-Level_Modelling_And_Simulation_Of_Mycobacterium_Tuberculosis_Insights_For_Drug_Discovery/links/559a2f2808ae793d1380788f/Systems-Level-Modelling-And-Simulation-Of-Mycobacterium-Tuberculosis-Insights-For-Drug-Discovery.pdf",
+          "year": 2008,
+          "snippet": "… I am quite indebted to my school, DAV Boys’ Senior Secondary School, Chennai, which has undoubtedly played the largest role in moulding my personality in my formative years. …"
+        }
+      ],
+      "last_publication_year": 2026
+    },
+    {
+      "name": "Amit Mehndiratta",
+      "role": "faculty",
+      "lab_name": "Centre for Biomedical Engineering",
+      "institute": "Indian Institute of Technology Delhi",
+      "institute_id": "indian-institute-of-technology-delhi-iitd-ac-in-3",
+      "primary_domain": "iitd.ac.in",
+      "source_urls": [
+        "https://cbme.iitd.ac.in/research/medical-imaging",
+        "https://cbme.iitd.ac.in/team/amit-mehndiratta",
+        "https://home.iitd.ac.in/faculty/amit-mehndiratta.php",
+        "https://www.iitd.ac.in/content/amit-mehndiratta"
+      ],
+      "email": "amehndiratta@cbme.iitd.ac.in",
+      "research_interests_snippet": "Magnetic Resonance Imaging, Quantitative Medical Image Analysis, Image Processing, Neurorehabilitation, Assistive Technologies, Machine Learning. Also, Biomedical imaging, Physiological modeling and Quantitative image analysis, Image guided intervention, Mobile assisted healthcare (m-Health). Research includes robotic exoskeletal devices and augmented reality/virtual reality technology for stroke rehabilitation.",
+      "confidence": 1.0,
+      "papers": [
+        {
+          "title": "AI Driven Prediction Model for Mechanical Ventilation Duration Using Lung Ultrasound Score",
+          "link": "https://ieeexplore.ieee.org/abstract/document/11252083/",
+          "year": 2025,
+          "snippet": "Background: Extended mechanical ventilation drives up healthcare costs and simultaneously increases the risk of complications, adding to the patient’s overall health burden. Accurate …"
+        },
+        {
+          "title": "Early prognosis prediction in mechanically ventilated patients using machine learning for tertiary care hospital settings",
+          "link": "https://link.springer.com/article/10.1007/s10877-025-01387-8",
+          "year": 2025,
+          "snippet": "… was obtained from AIIMS, Delhi, after the approval of the institutional ethics board (Institute Ethics Committee of All India Institute of Medical Sciences, New Delhi, India; ethical approval …"
+        },
+        {
+          "title": "ML-Driven Prediction of Invasive Mechanical Ventilation in Sepsis: Insights from a tertiary care hospital in India",
+          "link": "https://ieeexplore.ieee.org/abstract/document/11411108/",
+          "year": 2025,
+          "snippet": "In critical illness, particularly in low- and middle-income country Intensive Care Units (ICUs), artificial intelligence (AI) can enable early prediction of invasive ventilation before clinical …"
+        },
+        {
+          "title": "Predicting mechanical ventilation duration in ICU patients: A data-driven machine learning approach for clinical decision-making",
+          "link": "https://journals.sagepub.com/doi/abs/10.1177/20552076251352988",
+          "year": 2025,
+          "snippet": "… Professor Amit Mehndiratta supervised the entire project, provided critical revisions, facilitated technical support, and held overall responsibility. Additionally, all authors contributed to …"
+        },
+        {
+          "title": "Texture analysis for chemotherapy response evaluation in osteosarcoma using MR imaging",
+          "link": "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/nbm.4426",
+          "year": 2021,
+          "snippet": "… Considering a 20% dropout rate and 15% death rate (as per our hospital records of All India Institute of Medical Sciences (AIIMS), New Delhi, India), at least 39 cases in the …"
+        }
+      ],
+      "last_publication_year": 2025
+    },
+    {
+      "name": "Hamim Zafar",
+      "role": "faculty",
+      "lab_name": null,
+      "institute": "Indian Institute of Technology Kanpur",
+      "institute_id": "indian-institute-of-technology-kanpur-iitk-ac-in-6",
+      "primary_domain": "iitk.ac.in",
+      "source_urls": [
+        "https://www.cse.iitk.ac.in/faculty/hamim/",
+        "https://www.iitk.ac.in/bsbe/hamim-zafar",
+        "https://hamimzafar.wixsite.com/iitk",
+        "https://scholar.google.com/citations?user=y_42_20AAAAJ&hl=en"
+      ],
+      "email": "hamim@iitk.ac.in",
+      "research_interests_snippet": "Computational biology; probabilistic modeling; single-cell biology; evolution and cancer. Research focuses on the design of scalable computational techniques backed by probabilistic modeling and statistical inference methods for understanding the biology of cancer and furthering the knowledge about single-cell biology. Also, developing novel computational techniques for utilizing single-cell RNA sequencing data.",
+      "confidence": 0.8,
+      "papers": [
+        {
+          "title": "Thrombospondin 2 is a key determinant of fibrogenesis in non‐alcoholic fatty liver disease",
+          "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/liv.15792",
+          "year": 2024,
+          "snippet": "… Shun-ichi Wakabayashi, Seema Kuldeep, Hamim Zafar, and Sai P Pydi analysed scRNA-seq data. Mai Iwaya and Takeshi Uehara provided pathological guidance. Takefumi Kimura …"
+        },
+        {
+          "title": "Phylovar: toward scalable phylogeny-aware inference of single-nucleotide variations from single-cell DNA sequencing data",
+          "link": "https://academic.oup.com/bioinformatics/article-abstract/38/Supplement_1/i195/6617481",
+          "year": 2022,
+          "snippet": "Motivation Single-nucleotide variants (SNVs) are the most common variations in the human genome. Recently developed methods for SNV detection from single-cell DNA sequencing …"
+        },
+        {
+          "title": "Molecular mechanism of synovial joint site specification and induction in developing vertebrate limbs",
+          "link": "https://journals.biologists.com/dev/article-abstract/150/13/dev201335/321180",
+          "year": 2023,
+          "snippet": "… Mehta Family Centre for Engineering in Medicine, Indian Institute of Technology Kanpur … The Mehta Family Centre for Engineering in Medicine, Indian Institute of Technology Kanpur …"
+        },
+        {
+          "title": "Inference of cell state transitions and cell fate plasticity from single-cell with MARGARET",
+          "link": "https://academic.oup.com/nar/article-abstract/50/15/e86/6593121",
+          "year": 2022,
+          "snippet": "… Here, we present MARGARET ( https://github.com/Zafar-Lab/Margaret ) for inferring single-cell trajectory and fate mapping for diverse dynamic cellular processes. MARGARET …"
+        },
+        {
+          "title": "scDREAMER for atlas-level integration of single-cell datasets using deep generative model paired with adversarial classifier",
+          "link": "https://www.nature.com/articles/s41467-023-43590-8",
+          "year": 2023,
+          "snippet": "Integration of heterogeneous single-cell sequencing datasets generated across multiple tissue locations, time, and conditions is essential for a comprehensive understanding of the …"
+        }
+      ],
+      "last_publication_year": 2024
+    },
+    {
+      "name": "Deepak Sharma",
+      "role": "faculty",
+      "lab_name": "Computational Biology and Translational Bioinformatics Laboratory (CBTB Lab)",
+      "institute": "Indian Institute of Technology Roorkee",
+      "institute_id": "indian-institute-of-technology-roorkee-iitr-ac-in-7",
+      "primary_domain": "iitr.ac.in",
+      "source_urls": [
+        "https://www.iitr.ac.in/departments/BSBE/pages/Research_Computational_Biology_and_Translational_Bioinformatics_Lab.html",
+        "http://compbio.iitr.ac.in",
+        "https://www.iitr.ac.in/departments/BSBE/faculty/Deepak_Sharma.html",
+        "https://scholar.google.com/citations?user=2422t4YAAAAJ&hl=en"
+      ],
+      "email": "deepak.sharma@bt.iitr.ac.in",
+      "research_interests_snippet": "Computational Biology, Translational Bioinformatics, Medicoinformatics. Research includes machine learning and telemedicine for early diagnosis and treatment of cardiovascular diseases, exploiting machine learning and medicinal plants for diagnosis/treatment of diseases, image analysis, and mobile apps.",
+      "confidence": 1.0,
+      "papers": [
+        {
+          "title": "Deepak Kumar Sharma",
+          "link": "https://books.google.com/books?hl=en&lr=&id=LAGvDwAAQBAJ&oi=fnd&pg=PA23&dq=Deepak+Sharma+Indian+Institute+of+Technology+Roorkee&ots=Aoh83ppqA2&sig=pySvb4iEA0vGCDtVh4xCkwFjSHY",
+          "year": 2020,
+          "snippet": "With the ever-increasing load of satiating the agricultural demands, the transition of the orthodox methods into smart ones is inevitable. The agriculture sector for long has served as a …"
+        },
+        {
+          "title": "Singular Value Decomposition-Based Reduced Order Framework of Frequency Weighted Continuous-Time Systems",
+          "link": "https://ieeexplore.ieee.org/abstract/document/10744402/",
+          "year": 2024,
+          "snippet": "Model order reduction preserves the intrinsic characteristics of a complex system while approximating it with a relatively lower-order model. To effectively control a higher-order system, …"
+        },
+        {
+          "title": "Dr. Deepak Sharma",
+          "link": "https://www.researchgate.net/profile/Deepak_Sharma92/publication/392964372_Chapter_-4_PARTICIPATORY_URBAN_GOVERNANCE_IN_INDIA/links/685a89f2cdf1a35eb174f240/Chapter-4-PARTICIPATORY-URBAN-GOVERNANCE-IN-INDIA.pdf",
+          "year": null,
+          "snippet": "Urbanization is a global trend, and India is right in the middle of it. Over the past few decades, the country has seen a massive influx of people moving from rural areas to urban areas in …"
+        },
+        {
+          "title": "Semi Circle Slotted Triangular Shape Antenna Using Flexible Material",
+          "link": "https://ieeexplore.ieee.org/abstract/document/10088293/",
+          "year": 2022,
+          "snippet": "Nowadays microwave communities are working on the design and development of the dual band, triple band & wide band antennas with partial ground. The customers prefer compact …"
+        },
+        {
+          "title": "Computational Intelligence and Smart Communication",
+          "link": "https://link.springer.com/content/pdf/10.1007/978-3-031-22915-2.pdf",
+          "year": 2022,
+          "snippet": "… Makati, Philippines Kourosh Ahmadi Auckland Institute of Studies, New … Indian Institute of Technology Roorkee, India Kunwar Vaisla Bipin Tripathi Kumauni Institute of Technology, India …"
+        }
+      ],
+      "last_publication_year": 2024
+    },
+    {
+      "name": "Debanga Raj Neog",
+      "role": "faculty",
+      "lab_name": "Pattern and Motion Analysis Lab",
+      "institute": "Indian Institute of Technology Guwahati",
+      "institute_id": "indian-institute-of-technology-guwahati-iitg-ac-in-8",
+      "primary_domain": "iitg.ac.in",
+      "source_urls": [
+        "https://www.iitg.ac.in/dsai/faculty/debanga-raj-neog/",
+        "https://www.iitg.ac.in/faculty/debanga-raj-neog",
+        "https://www.coursera.org/instructor/debanga-raj-neog",
+        "https://scholar.google.com/citations?user=2422t4YAAAAJ&hl=en"
+      ],
+      "email": "dneog@iitg.ac.in",
+      "research_interests_snippet": "Machine learning and Deep Learning (Object tracking and localization, stereo reconstruction), Image Processing (Semantic segmentation, biomedical image processing), Computer Vision (Eye tracking, face tracking), Computer Graphics and AR/VR (Facial animation, anatomical augmented reality), Computational Imaging (High dynamic range imaging). Also, computer vision, computer graphics, and machine learning.",
+      "confidence": 0.9,
+      "papers": [
+        {
+          "title": "HandNet: A Robust Ensemble Framework for Hand Keypoint Detection in Diverse Scenarios",
+          "link": "https://ieeexplore.ieee.org/abstract/document/11173347/",
+          "year": 2025,
+          "snippet": "… Sonitpur, Assam, India - 784028 cse23007@tezu.ac.in Debanga Raj Neog Mehta Family School of … Indian Institute of Technology Guwahati Assam, India - 781039 dneog@iitg.ac.in …"
+        },
+        {
+          "title": "Two-stage hand gesture recognition based on hand keypoints localization",
+          "link": "https://ieeexplore.ieee.org/abstract/document/9767161/",
+          "year": 2022,
+          "snippet": "Hand gesture is an important component of non-verbal communication, and the appropriate categorization of the gestures is quintessential for fruitful communication. Hand gestures are …"
+        },
+        {
+          "title": "Application of Artificial Neural Network in Impact and Crashworthiness: A Review",
+          "link": "https://link.springer.com/chapter/10.1007/978-981-97-1306-6_32",
+          "year": 2023,
+          "snippet": "The paper presents an extensive review of the application of machine learning (ML) techniques, especially artificial neural networks (ANNs), in the realm of crashworthiness, …"
+        },
+        {
+          "title": "Current Progress in Biochemical, Biomedical, and Physical Sciences",
+          "link": "https://link.springer.com/content/pdf/10.1007/978-981-96-9342-9.pdf",
+          "year": null,
+          "snippet": "… The Research and Industrial Conclave (RIC) is an annual event organized by the Students’ Academic Board of the Indian Institute of Technology Guwahati, aimed at fostering …"
+        },
+        {
+          "title": "Artificial Intelligence and Data Science Based R&D Interventions",
+          "link": "https://link.springer.com/content/pdf/10.1007/978-981-99-2609-1.pdf",
+          "year": null,
+          "snippet": "… About IIT Guwahati Indian Institute of Technology Guwahati has dedicated itself to the cause of improving and empowering Northeast India through cutting-edge research, region …"
+        }
+      ],
+      "last_publication_year": 2025
+    },
+    {
+      "name": "Rajiv K. Kar",
+      "role": "faculty",
+      "lab_name": "Bio-sensors and Informatics Lab",
+      "institute": "Indian Institute of Technology Guwahati",
+      "institute_id": "indian-institute-of-technology-guwahati-iitg-ac-in-8",
+      "primary_domain": "iitg.ac.in",
+      "source_urls": [
+        "https://sites.google.com/view/biosensors-and-informatics-lab/home",
+        "https://www.iitg.ac.in/shst/faculty/rajiv-k-kar",
+        "https://www.iitg.ac.in/faculty/rajiv-k-kar",
+        "https://www.researchgate.net/profile/Rajiv-Kar-2"
+      ],
+      "email": "rajivkar@iitg.ac.in",
+      "research_interests_snippet": "Biosensors and Point-of-Care Technology, Nanotechnology, Cancer Theranostics, Simulations and Data Analytics (AI/ML), Biomaterials. Research is dedicated to advancing Point of Care (POC) Technology by developing innovative detection processes for Biomarkers. Also, integration of Informatics, Data Science and Analytics to process complex datasets from simulations, health records, and sensor outputs for understanding biological systems, monitoring health, and guiding personalized therapy.",
+      "confidence": 0.9,
+      "papers": [
+        {
+          "title": "Golden List of Reviewers for the year 2021",
+          "link": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=03772063&asa=N&AN=156785122&h=UzrAl3wTp7PrJx5oaUKI0xGb2dY7zuvss4sIP5xhgyww%2FlyxZYdeKKcGkPmt3H0J3L3fWDGIg4gkIKB39rqImg%3D%3D&crl=c",
+          "year": 2022,
+          "snippet": "… Additionally, content may not be used with any artificial intelligence tools or machine learning technologies. However, users may print, download, or email articles for individual use. This …"
+        },
+        {
+          "title": "Mathematical Modelling and Simulations for Enzyme Immobilization Process",
+          "link": "https://link.springer.com/chapter/10.1007/978-3-031-93189-5_4",
+          "year": 2025,
+          "snippet": "Understanding the mechanisms of interaction at the interface between biomacromolecules and materials is vital for the development of effective immobilization processes. The complex …"
+        },
+        {
+          "title": "Golden List of Reviewers for the year 2022",
+          "link": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=03772063&asa=N&AN=161831826&h=3NvzcanT%2BNwZjAPg56sSt622lFOjOiH7El%2BHxuVXZhlDkr4RtOiloawfbyEV78v28keWryLeKgAoDZU4Iy8Tzg%3D%3D&crl=c",
+          "year": 2023,
+          "snippet": "IETE sincerely acknowledges the honorary services of the following reviewers for their professional support. gt; Budapest University of Technology and Economics < td> Hungary ht.[…"
+        },
+        {
+          "title": "Fluoride Toxicity in Rajasthan, India: Water Filter Distribution, Monitoring and User Perception",
+          "link": "https://link.springer.com/article/10.1007/s41101-022-00163-y",
+          "year": 2022,
+          "snippet": "This study investigated the dissemination of porous cement water filters (PCWFs) to 99 households and their on-field efficiency. The water filters used cement and sand as the primary …"
+        },
+        {
+          "title": "Hydrogen economy in India: A status review",
+          "link": "https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wene.459",
+          "year": 2023,
+          "snippet": "… As a result, several Indian institutions like IIT Delhi, IIT Madras, Banaras Hindu University (BHU), IIT Bombay, IIT Guwahati, and many other institutions have contributed to hydrogen …"
+        }
+      ],
+      "last_publication_year": 2025
+    },
+    {
+      "name": "M. Sabarimalai Manikandan",
+      "role": "faculty",
+      "lab_name": null,
+      "institute": "Indian Institute of Technology Palakkad",
+      "institute_id": "indian-institute-of-technology-palakkad-iitpkd-ac-in-9",
+      "primary_domain": "iitpkd.ac.in",
+      "source_urls": [
+        "https://ee.iitpkd.ac.in/faculty/m-sabarimalai-manikandan",
+        "https://www.iitpkd.ac.in/people/msm",
+        "https://www.researchgate.net/profile/M-Manikandan-2",
+        "https://scholar.google.com/citations?user=026i70IAAAAJ&hl=en"
+      ],
+      "email": "msm@iitpkd.ac.in",
+      "research_interests_snippet": "Signal Processing for Signal Quality Assessment, Noise Recognition, Denoising, Feature Extraction and Compression; VLSI Signal Processing Architectures for Energy-Efficient Event Detection and Monitoring Systems; AI/Machine Learning for Event Recognition; Internet of Things - Energy Consumption Reduction Strategies, Cognitive Radios and Data Security; Multimodal Information Processing; Image Processing. Focus on Smart Medical Devices and Health Monitoring Systems, including Fast R-Peak Detection from Compressed ECG Sensing Measurements.",
+      "confidence": 1.0,
+      "papers": [
+        {
+          "title": "Corn Leaf Disease Classification using Hybrid Convolutional Neural Networks with Spatial and Frequency Domain Features",
+          "link": "https://ieeexplore.ieee.org/abstract/document/10967646/",
+          "year": 2025,
+          "snippet": "Plant diseases significantly impact global food production, requiring efficient and reliable diagnostic systems. This study introduces a deep learning-based approach tailored to …"
+        },
+        {
+          "title": "Lightweight time-domain hrv index extraction from compressive ecg measurements for resource constrained edge health computing devices",
+          "link": "https://ieeexplore.ieee.org/abstract/document/10373467/",
+          "year": 2023,
+          "snippet": "… Engineering Indian Institute of Technology Palakkad Kerala, India … Sabarimalai Manikandan Department of Electrical Engineering Indian Institute of Technology Palakkad Kerala, India …"
+        },
+        {
+          "title": "Automatic SWT based QRS detection using weighted subbands and Shannon energy peak amplification for ECG signal analysis devices",
+          "link": "https://ieeexplore.ieee.org/abstract/document/10058632/",
+          "year": 2022,
+          "snippet": "… Department Indian Institute of Technology Palakkad Palakkad, Kerala-678623, INDIA E-mail… windowed sequence which has M samples. The windowed sequence is constructed as (6) …"
+        },
+        {
+          "title": "Compressed ecg sensing based fast/slow hr and regular/irregular rhythm recognition for resource-constrained health monitoring devices",
+          "link": "https://ieeexplore.ieee.org/abstract/document/10193903/",
+          "year": 2023,
+          "snippet": "By considering the resource-constrained affordable wearable or portable health monitoring devices, in this paper, we present a lightweight digital compressed ECG sensing with …"
+        },
+        {
+          "title": "Deep learning-based floating debris detection for marine pollution monitoring",
+          "link": "https://ieeexplore.ieee.org/abstract/document/10968058/",
+          "year": 2025,
+          "snippet": "… Sabarimalai Manikandan, Department of Electrical Engineering, Indian Institute of Technology Palakkad, Kerala and was carried out as part of the project titled “Design and …"
+        }
+      ],
+      "last_publication_year": 2025
+    },
+    {
+      "name": "Vivek Chathurvedi",
+      "role": "faculty",
+      "lab_name": null,
+      "institute": "Indian Institute of Technology Palakkad",
+      "institute_id": "indian-institute-of-technology-palakkad-iitpkd-ac-in-9",
+      "primary_domain": "iitpkd.ac.in",
+      "source_urls": [
+        "https://iitpkd.ac.in/people/vivek",
+        "https://icsr.iitpkd.ac.in/project/securing-deep-neural-networks-against-adversarial-attacks-in-medical-imaging",
+        "https://www.researchgate.net/profile/Vivek-Chaturvedi-2",
+        "https://scholar.google.com/citations?user=026i70IAAAAJ&hl=en"
+      ],
+      "email": "vivek@iitpkd.ac.in",
+      "research_interests_snippet": "Principal Investigator for a project on 'Securing Deep Neural Networks against Adversarial Attacks in Medical Imaging'. General research interests include Computer Architecture, Embedded Systems, IoT, Reliability and Security in Automotive. User feedback indicates interest in accepting PhD students in ML.",
+      "confidence": 0.9,
+      "papers": [
+        {
+          "title": "ICCAI 2021",
+          "link": "https://link.springer.com/content/pdf/10.1007/978-981-19-0976-4.pdf",
+          "year": 2021,
+          "snippet": "… In addition, we extend our heartfelt gratitude to the reviewers and technical program committee members for showing their concern and efforts in the entire process. We are indeed …"
+        },
+        {
+          "title": "ViT-EBoT: Vision Transformer for Encrypted Botnet Detection in Resource-Constrained Edge Devices",
+          "link": "https://ieeexplore.ieee.org/abstract/document/11500450/",
+          "year": 2026,
+          "snippet": "… in the Department of Computer Science and Engineering at the Indian Institute of Technology (IIT), Palakkad, Kerala, India. Her research forte focuses towards the malware analysis of …"
+        },
+        {
+          "title": "SE Pipeline: A Vision Transformer (ViT) based Resilient Classification Pipeline for Medical Imaging Against Adversarial Attacks",
+          "link": "https://ieeexplore.ieee.org/abstract/document/10650591/",
+          "year": 2024,
+          "snippet": "Vision Transformer (ViT) is becoming widely popular in automating accurate disease diagnosis in medical imaging owing to its robust self-attention mechanism. However, ViTs remain …"
+        },
+        {
+          "title": "FRNet: A Feature-Rich CNN Architecture to Defend Against Adversarial Attacks",
+          "link": "https://ieeexplore.ieee.org/abstract/document/10431780/",
+          "year": 2024,
+          "snippet": "… degree with the Indian Institute of Technology (IIT) Palakkad, Kerala. Her research forte focuses toward the security of AI, more specifically toward usage and security of deep learning …"
+        },
+        {
+          "title": "Hy-Deft: A Hybrid Defense Technique for Vision Transformers against Adversarial Attacks in Medical Imaging",
+          "link": "https://ieeexplore.ieee.org/abstract/document/11228077/",
+          "year": 2025,
+          "snippet": "Vision Transformers (ViTs) have emerged as an essential tool in medical imaging applications, offering superior performance compared to Convolutional Neural Networks (CNNs). …"
+        }
+      ],
+      "last_publication_year": 2026
+    }
+  ]
+}
