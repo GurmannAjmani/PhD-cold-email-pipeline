@@ -78,8 +78,9 @@ flowchart TD
 
 ---
 
-## Trade-offs (ranked)
+## Trade-offs
 
+1. **India only vs WorldWide** - Considered only India as a slice of a large scale system. Will need further optimization while scaling to other regions.Indian institutions have a structured T1–T4 tier unavailable globally, reducing hallucination risk in professor discovery. Trade-off: we miss US/UK/Singapore programs many applicants actually target. Will need to refer to a global college index like QS for college tier ranking
 1. **Precision over Speed** — First shortlisted institutes before shortlisting labs to ensure best fit professors rather than just one API call which would be faster
 2. **Grounded discovery > crawl coverage** — Gemini Search + Serp beats brittle scrapers for a demo slice.
 3. **Tier-calibrated reach for realism > maximum institute prestige** —  Ensure realistic targets rather than the professors and labs which are the best in their fields but may be out of reach.
