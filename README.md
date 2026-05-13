@@ -127,7 +127,7 @@ In a production level system, the feedback would stored in a persistent memory s
 
 ```env
 GROQ_API_KEY=...
-GEMINI_API_KEY=...   # or GOOGLE_API_KEY
+GEMINI_API_KEY=...   
 SERPAPI_API_KEY=...
 ```
 
@@ -164,18 +164,10 @@ python select_institutes.py
 python find_supervisors.py
 python enrich_candidates.py
 python draft_emails.py
-python collect_feedback.py   # interactive
+python collect_feedback.py
 ```
 
-### After feedback — regenerate supervisors + drafts only
-
-```powershell
-python find_supervisors.py
-python enrich_candidates.py
-python draft_emails.py
-```
-
-Or answer **yes** when `collect_feedback.py` prompts.
+To input feedback, answer yes when `collect_feedback.py` prompts or run phase 3-5 again.
 
 ### Outputs
 
