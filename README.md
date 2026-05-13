@@ -2,8 +2,8 @@
 
 ## Assumptions:
 1. Input is all text (Can be modified later to accept input of all formats like PDF etc)
-2. The feedback is immediate. In a real world scenario, the feedback would be updated after days by students in a persistent database.
-3. Only considered 730 institues in India (will need to be expanded to worldwide for optimized search)
+2. The feedback is immediately entered by the student. In a real world scenario, the feedback would be updated after days by students in a persistent database.
+3. Only considered 730 institutes in India (will need to be expanded to worldwide for optimized search)
 4. No additional restrictions like Visa, travel etc.
 5. Only 10 final professors/labs being shortlisted due to rate and token limits of APIs.
 
@@ -26,7 +26,7 @@ The three ways we defined if a student "would want to work with" a professor are
 2. Trajectory fit — keeps targets attainable based on academic qualifications of the student.
 3. Practical fit — lab plausibly open (valid email, recent papers, no known “not hiring” / “does not reply” flags from feedback).
 
-**Optimization target: fit and hiring likelihood and email quality,not only reply rate. A high reply rate from wrong-field or closed labs would be considered a failure.
+Optimization target: fit and hiring likelihood and email quality,not only reply rate. A high reply rate from wrong-field or closed labs would be considered a failure.
 
 ---
 
@@ -82,7 +82,7 @@ flowchart TD
 
 1. **Precision over Speed** — First shortlisted institutes before shortlisting labs to ensure best fit professors rather than just one API call which would be faster
 2. **Grounded discovery > crawl coverage** — Gemini Search + Serp beats brittle scrapers for a demo slice.
-3. **Tier-calibrated reach for realism > maximum institute prestige** —  Ensure realistic targets rather than the professors and labs which are the best in their fields.
+3. **Tier-calibrated reach for realism > maximum institute prestige** —  Ensure realistic targets rather than the professors and labs which are the best in their fields but may be out of reach.
 4. **Personalization > Latency** — One extra API call per candidate (SerpAPI) to understand the interests, backgrounds and previous research papers of each candidate. This may not be directly required to shortlist professors but helps a lot in personalisation of mails which will drastically increase the reply rate.
 ---
 
@@ -94,7 +94,9 @@ flowchart TD
 | Per-professor notes | Student (“not taking students”, “interested in ML PhDs”) | Repicking and reranking of candidates based on feedback|
 | Files | `output/*.json`, `cli_output.txt` | Audit trail for what changed between runs |
 
-In a production level system, the feedback would stored in a persistent memory store which would be queried to every time we want to rank the professors and will be updated as in when feedback is entered
+In a production level system, the feedback would be stored in a persistent memory store which would be queried to every time we want to rank the professors and will be updated as in when feedback is entered
+
+
 ---
 
 ## What to ship first
@@ -188,10 +190,9 @@ To input feedback, answer yes when `collect_feedback.py` prompts or run phase 3-
 | Failure | Mitigation in MVP |
 |---------|-------------------|
 | Hallucinated professor or email | Grounded Gemini prompts; email field from search; manual feedback |
-| Gemini empty / non-JSON response | Retries, thought-part extraction, no-search fallback (`find_supervisors`) |
-| Out-of-reach institutes | `tier_college_sample` whitelist + REACH policy |
+| Gemini empty / non-JSON response | Retries, thought-part extraction |
+| Out-of-reach institutes | Institute shortlist before professor shortlisting   |
 | Generic emails | Serp paper hooks + per-professor feedback in prompt |
-| API quota / latency | Stage scripts rerunnable; Serp capped at 20; Gemini steps are slow (30–90s) |
 | Closed / unresponsive PIs | Per-professor feedback on rerun |
 
 ---
