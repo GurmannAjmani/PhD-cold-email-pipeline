@@ -1,4 +1,4 @@
-# Ambitio — PhD cold-email pipeline
+# PhD cold-email pipeline
 
 ## Assumptions:
 1. Input is all text (Can be modified later to accept input of all formats like PDF etc)
